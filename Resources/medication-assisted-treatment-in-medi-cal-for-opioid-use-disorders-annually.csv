@@ -1,0 +1,1819 @@
+County,Year,Medication_Assisted_Treatment,Beneficiaries,Status,Annotation,Annotation_Description
+Statewide,2010,Buprenorphine,1265,F,,
+Statewide,2011,Buprenorphine,1680,F,,
+Statewide,2012,Buprenorphine,2099,F,,
+Statewide,2013,Buprenorphine,2129,F,,
+Statewide,2014,Buprenorphine,5000,F,,
+Statewide,2015,Buprenorphine,10365,F,,
+Statewide,2016,Buprenorphine,15538,F,,
+Statewide,2017,Buprenorphine,21753,F,,
+Statewide,2018,Buprenorphine,25263,F,,
+Statewide,2019,Buprenorphine,30627,F,,
+Alameda,2010,Buprenorphine,22,F,,
+Alameda,2011,Buprenorphine,28,F,,
+Alameda,2012,Buprenorphine,51,F,,
+Alameda,2013,Buprenorphine,57,F,,
+Alameda,2014,Buprenorphine,117,F,,
+Alameda,2015,Buprenorphine,168,F,,
+Alameda,2016,Buprenorphine,259,F,,
+Alameda,2017,Buprenorphine,468,F,,
+Alameda,2018,Buprenorphine,806,F,,
+Alameda,2019,Buprenorphine,1144,F,,
+Amador / Alpine,2010,Buprenorphine,13,F,,
+Amador / Alpine,2011,Buprenorphine,18,F,,
+Amador / Alpine,2012,Buprenorphine,13,F,,
+Amador / Alpine,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Amador / Alpine,2014,Buprenorphine,19,F,,
+Amador / Alpine,2015,Buprenorphine,32,F,,
+Amador / Alpine,2016,Buprenorphine,52,F,,
+Amador / Alpine,2017,Buprenorphine,56,F,,
+Amador / Alpine,2018,Buprenorphine,80,F,,
+Amador / Alpine,2019,Buprenorphine,77,F,,
+Butte,2010,Buprenorphine,75,F,,
+Butte,2011,Buprenorphine,91,F,,
+Butte,2012,Buprenorphine,116,F,,
+Butte,2013,Buprenorphine,126,F,,
+Butte,2014,Buprenorphine,224,F,,
+Butte,2015,Buprenorphine,345,F,,
+Butte,2016,Buprenorphine,450,F,,
+Butte,2017,Buprenorphine,514,F,,
+Butte,2018,Buprenorphine,622,F,,
+Butte,2019,Buprenorphine,872,F,,
+Calaveras,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Calaveras,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Calaveras,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Calaveras,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Calaveras,2014,Buprenorphine,14,F,,
+Calaveras,2015,Buprenorphine,16,F,,
+Calaveras,2016,Buprenorphine,51,F,,
+Calaveras,2017,Buprenorphine,57,F,,
+Calaveras,2018,Buprenorphine,78,F,,
+Calaveras,2019,Buprenorphine,83,F,,
+Colusa,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2015,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2016,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2017,Buprenorphine,,F,1,cell suppressed for small numbers
+Colusa,2018,Buprenorphine,11,F,,
+Colusa,2019,Buprenorphine,17,F,,
+Contra Costa,2010,Buprenorphine,40,F,,
+Contra Costa,2011,Buprenorphine,51,F,,
+Contra Costa,2012,Buprenorphine,69,F,,
+Contra Costa,2013,Buprenorphine,71,F,,
+Contra Costa,2014,Buprenorphine,281,F,,
+Contra Costa,2015,Buprenorphine,399,F,,
+Contra Costa,2016,Buprenorphine,505,F,,
+Contra Costa,2017,Buprenorphine,618,F,,
+Contra Costa,2018,Buprenorphine,855,F,,
+Contra Costa,2019,Buprenorphine,1130,F,,
+Del Norte,2010,Buprenorphine,16,F,,
+Del Norte,2011,Buprenorphine,21,F,,
+Del Norte,2012,Buprenorphine,24,F,,
+Del Norte,2013,Buprenorphine,30,F,,
+Del Norte,2014,Buprenorphine,56,F,,
+Del Norte,2015,Buprenorphine,88,F,,
+Del Norte,2016,Buprenorphine,115,F,,
+Del Norte,2017,Buprenorphine,139,F,,
+Del Norte,2018,Buprenorphine,155,F,,
+Del Norte,2019,Buprenorphine,172,F,,
+El Dorado,2010,Buprenorphine,24,F,,
+El Dorado,2011,Buprenorphine,32,F,,
+El Dorado,2012,Buprenorphine,43,F,,
+El Dorado,2013,Buprenorphine,55,F,,
+El Dorado,2014,Buprenorphine,90,F,,
+El Dorado,2015,Buprenorphine,134,F,,
+El Dorado,2016,Buprenorphine,224,F,,
+El Dorado,2017,Buprenorphine,355,F,,
+El Dorado,2018,Buprenorphine,384,F,,
+El Dorado,2019,Buprenorphine,550,F,,
+Fresno,2010,Buprenorphine,12,F,,
+Fresno,2011,Buprenorphine,26,F,,
+Fresno,2012,Buprenorphine,23,F,,
+Fresno,2013,Buprenorphine,11,F,,
+Fresno,2014,Buprenorphine,36,F,,
+Fresno,2015,Buprenorphine,69,F,,
+Fresno,2016,Buprenorphine,228,F,,
+Fresno,2017,Buprenorphine,541,F,,
+Fresno,2018,Buprenorphine,414,F,,
+Fresno,2019,Buprenorphine,433,F,,
+Glenn,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2015,Buprenorphine,,F,1,cell suppressed for small numbers
+Glenn,2016,Buprenorphine,32,F,,
+Glenn,2017,Buprenorphine,29,F,,
+Glenn,2018,Buprenorphine,34,F,,
+Glenn,2019,Buprenorphine,50,F,,
+Humboldt,2010,Buprenorphine,82,F,,
+Humboldt,2011,Buprenorphine,93,F,,
+Humboldt,2012,Buprenorphine,114,F,,
+Humboldt,2013,Buprenorphine,130,F,,
+Humboldt,2014,Buprenorphine,234,F,,
+Humboldt,2015,Buprenorphine,365,F,,
+Humboldt,2016,Buprenorphine,526,F,,
+Humboldt,2017,Buprenorphine,684,F,,
+Humboldt,2018,Buprenorphine,927,F,,
+Humboldt,2019,Buprenorphine,994,F,,
+Imperial,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Imperial,2011,Buprenorphine,24,F,,
+Imperial,2012,Buprenorphine,22,F,,
+Imperial,2013,Buprenorphine,27,F,,
+Imperial,2014,Buprenorphine,16,F,,
+Imperial,2015,Buprenorphine,22,F,,
+Imperial,2016,Buprenorphine,39,F,,
+Imperial,2017,Buprenorphine,50,F,,
+Imperial,2018,Buprenorphine,51,F,,
+Imperial,2019,Buprenorphine,138,F,,
+Inyo / Mono,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Inyo / Mono,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Inyo / Mono,2012,Buprenorphine,11,F,,
+Inyo / Mono,2013,Buprenorphine,14,F,,
+Inyo / Mono,2014,Buprenorphine,13,F,,
+Inyo / Mono,2015,Buprenorphine,13,F,,
+Inyo / Mono,2016,Buprenorphine,21,F,,
+Inyo / Mono,2017,Buprenorphine,,F,2,cell suppressed for complementary cell
+Inyo / Mono,2018,Buprenorphine,36,F,,
+Inyo / Mono,2019,Buprenorphine,56,F,,
+Kern,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Kern,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Kern,2012,Buprenorphine,15,F,,
+Kern,2013,Buprenorphine,12,F,,
+Kern,2014,Buprenorphine,22,F,,
+Kern,2015,Buprenorphine,80,F,,
+Kern,2016,Buprenorphine,321,F,,
+Kern,2017,Buprenorphine,693,F,,
+Kern,2018,Buprenorphine,527,F,,
+Kern,2019,Buprenorphine,674,F,,
+Kings,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Kings,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Kings,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Kings,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Kings,2015,Buprenorphine,12,F,,
+Kings,2016,Buprenorphine,43,F,,
+Kings,2017,Buprenorphine,98,F,,
+Kings,2018,Buprenorphine,97,F,,
+Kings,2019,Buprenorphine,123,F,,
+Lake,2010,Buprenorphine,49,F,,
+Lake,2011,Buprenorphine,92,F,,
+Lake,2012,Buprenorphine,111,F,,
+Lake,2013,Buprenorphine,112,F,,
+Lake,2014,Buprenorphine,170,F,,
+Lake,2015,Buprenorphine,239,F,,
+Lake,2016,Buprenorphine,310,F,,
+Lake,2017,Buprenorphine,362,F,,
+Lake,2018,Buprenorphine,409,F,,
+Lake,2019,Buprenorphine,441,F,,
+Lassen / Modoc,2010,Buprenorphine,13,F,,
+Lassen / Modoc,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2012,Buprenorphine,16,F,,
+Lassen / Modoc,2013,Buprenorphine,16,F,,
+Lassen / Modoc,2014,Buprenorphine,38,F,,
+Lassen / Modoc,2015,Buprenorphine,87,F,,
+Lassen / Modoc,2016,Buprenorphine,128,F,,
+Lassen / Modoc,2017,Buprenorphine,120,F,,
+Lassen / Modoc,2018,Buprenorphine,86,F,,
+Lassen / Modoc,2019,Buprenorphine,107,F,,
+Los Angeles,2010,Buprenorphine,62,F,,
+Los Angeles,2011,Buprenorphine,79,F,,
+Los Angeles,2012,Buprenorphine,88,F,,
+Los Angeles,2013,Buprenorphine,94,F,,
+Los Angeles,2014,Buprenorphine,369,F,,
+Los Angeles,2015,Buprenorphine,1550,F,,
+Los Angeles,2016,Buprenorphine,1940,F,,
+Los Angeles,2017,Buprenorphine,2850,F,,
+Los Angeles,2018,Buprenorphine,3682,F,,
+Los Angeles,2019,Buprenorphine,4214,F,,
+Madera,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Madera,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Madera,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Madera,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Madera,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Madera,2015,Buprenorphine,12,F,,
+Madera,2016,Buprenorphine,37,F,,
+Madera,2017,Buprenorphine,38,F,,
+Madera,2018,Buprenorphine,53,F,,
+Madera,2019,Buprenorphine,45,F,,
+Marin,2010,Buprenorphine,13,F,,
+Marin,2011,Buprenorphine,12,F,,
+Marin,2012,Buprenorphine,18,F,,
+Marin,2013,Buprenorphine,22,F,,
+Marin,2014,Buprenorphine,44,F,,
+Marin,2015,Buprenorphine,79,F,,
+Marin,2016,Buprenorphine,122,F,,
+Marin,2017,Buprenorphine,120,F,,
+Marin,2018,Buprenorphine,136,F,,
+Marin,2019,Buprenorphine,176,F,,
+Mendocino,2010,Buprenorphine,46,F,,
+Mendocino,2011,Buprenorphine,60,F,,
+Mendocino,2012,Buprenorphine,61,F,,
+Mendocino,2013,Buprenorphine,67,F,,
+Mendocino,2014,Buprenorphine,166,F,,
+Mendocino,2015,Buprenorphine,229,F,,
+Mendocino,2016,Buprenorphine,295,F,,
+Mendocino,2017,Buprenorphine,366,F,,
+Mendocino,2018,Buprenorphine,408,F,,
+Mendocino,2019,Buprenorphine,433,F,,
+Merced/Mariposa,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2012,Buprenorphine,12,F,,
+Merced/Mariposa,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2015,Buprenorphine,15,F,,
+Merced/Mariposa,2016,Buprenorphine,16,F,,
+Merced/Mariposa,2017,Buprenorphine,51,F,,
+Merced/Mariposa,2018,Buprenorphine,71,F,,
+Merced/Mariposa,2019,Buprenorphine,79,F,,
+Monterey,2010,Buprenorphine,23,F,,
+Monterey,2011,Buprenorphine,23,F,,
+Monterey,2012,Buprenorphine,37,F,,
+Monterey,2013,Buprenorphine,42,F,,
+Monterey,2014,Buprenorphine,121,F,,
+Monterey,2015,Buprenorphine,217,F,,
+Monterey,2016,Buprenorphine,348,F,,
+Monterey,2017,Buprenorphine,420,F,,
+Monterey,2018,Buprenorphine,556,F,,
+Monterey,2019,Buprenorphine,602,F,,
+Napa,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Napa,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Napa,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Napa,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Napa,2014,Buprenorphine,15,F,,
+Napa,2015,Buprenorphine,44,F,,
+Napa,2016,Buprenorphine,61,F,,
+Napa,2017,Buprenorphine,79,F,,
+Napa,2018,Buprenorphine,114,F,,
+Napa,2019,Buprenorphine,138,F,,
+Nevada,2010,Buprenorphine,22,F,,
+Nevada,2011,Buprenorphine,23,F,,
+Nevada,2012,Buprenorphine,21,F,,
+Nevada,2013,Buprenorphine,27,F,,
+Nevada,2014,Buprenorphine,39,F,,
+Nevada,2015,Buprenorphine,61,F,,
+Nevada,2016,Buprenorphine,125,F,,
+Nevada,2017,Buprenorphine,169,F,,
+Nevada,2018,Buprenorphine,264,F,,
+Nevada,2019,Buprenorphine,367,F,,
+Orange,2010,Buprenorphine,29,F,,
+Orange,2011,Buprenorphine,31,F,,
+Orange,2012,Buprenorphine,29,F,,
+Orange,2013,Buprenorphine,41,F,,
+Orange,2014,Buprenorphine,143,F,,
+Orange,2015,Buprenorphine,472,F,,
+Orange,2016,Buprenorphine,956,F,,
+Orange,2017,Buprenorphine,1329,F,,
+Orange,2018,Buprenorphine,1473,F,,
+Orange,2019,Buprenorphine,1735,F,,
+Placer,2010,Buprenorphine,11,F,,
+Placer,2011,Buprenorphine,15,F,,
+Placer,2012,Buprenorphine,25,F,,
+Placer,2013,Buprenorphine,26,F,,
+Placer,2014,Buprenorphine,59,F,,
+Placer,2015,Buprenorphine,106,F,,
+Placer,2016,Buprenorphine,195,F,,
+Placer,2017,Buprenorphine,329,F,,
+Placer,2018,Buprenorphine,412,F,,
+Placer,2019,Buprenorphine,468,F,,
+Plumas / Sierra,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2015,Buprenorphine,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2016,Buprenorphine,,F,2,cell suppressed for complementary cell
+Plumas / Sierra,2017,Buprenorphine,51,F,,
+Plumas / Sierra,2018,Buprenorphine,63,F,,
+Plumas / Sierra,2019,Buprenorphine,93,F,,
+Riverside,2010,Buprenorphine,68,F,,
+Riverside,2011,Buprenorphine,93,F,,
+Riverside,2012,Buprenorphine,96,F,,
+Riverside,2013,Buprenorphine,100,F,,
+Riverside,2014,Buprenorphine,213,F,,
+Riverside,2015,Buprenorphine,467,F,,
+Riverside,2016,Buprenorphine,877,F,,
+Riverside,2017,Buprenorphine,1386,F,,
+Riverside,2018,Buprenorphine,1378,F,,
+Riverside,2019,Buprenorphine,1788,F,,
+Sacramento,2010,Buprenorphine,46,F,,
+Sacramento,2011,Buprenorphine,76,F,,
+Sacramento,2012,Buprenorphine,86,F,,
+Sacramento,2013,Buprenorphine,111,F,,
+Sacramento,2014,Buprenorphine,247,F,,
+Sacramento,2015,Buprenorphine,454,F,,
+Sacramento,2016,Buprenorphine,660,F,,
+Sacramento,2017,Buprenorphine,939,F,,
+Sacramento,2018,Buprenorphine,1113,F,,
+Sacramento,2019,Buprenorphine,1295,F,,
+San Benito,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+San Benito,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+San Benito,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+San Benito,2014,Buprenorphine,,F,1,cell suppressed for small numbers
+San Benito,2015,Buprenorphine,,F,1,cell suppressed for small numbers
+San Benito,2016,Buprenorphine,18,F,,
+San Benito,2017,Buprenorphine,41,F,,
+San Benito,2018,Buprenorphine,35,F,,
+San Benito,2019,Buprenorphine,50,F,,
+San Bernardino,2010,Buprenorphine,38,F,,
+San Bernardino,2011,Buprenorphine,53,F,,
+San Bernardino,2012,Buprenorphine,45,F,,
+San Bernardino,2013,Buprenorphine,37,F,,
+San Bernardino,2014,Buprenorphine,122,F,,
+San Bernardino,2015,Buprenorphine,363,F,,
+San Bernardino,2016,Buprenorphine,769,F,,
+San Bernardino,2017,Buprenorphine,1023,F,,
+San Bernardino,2018,Buprenorphine,939,F,,
+San Bernardino,2019,Buprenorphine,1141,F,,
+San Diego,2010,Buprenorphine,95,F,,
+San Diego,2011,Buprenorphine,116,F,,
+San Diego,2012,Buprenorphine,273,F,,
+San Diego,2013,Buprenorphine,119,F,,
+San Diego,2014,Buprenorphine,336,F,,
+San Diego,2015,Buprenorphine,1157,F,,
+San Diego,2016,Buprenorphine,1317,F,,
+San Diego,2017,Buprenorphine,1625,F,,
+San Diego,2018,Buprenorphine,1798,F,,
+San Diego,2019,Buprenorphine,2233,F,,
+San Francisco,2010,Buprenorphine,63,F,,
+San Francisco,2011,Buprenorphine,90,F,,
+San Francisco,2012,Buprenorphine,89,F,,
+San Francisco,2013,Buprenorphine,94,F,,
+San Francisco,2014,Buprenorphine,355,F,,
+San Francisco,2015,Buprenorphine,425,F,,
+San Francisco,2016,Buprenorphine,528,F,,
+San Francisco,2017,Buprenorphine,714,F,,
+San Francisco,2018,Buprenorphine,911,F,,
+San Francisco,2019,Buprenorphine,1023,F,,
+San Joaquin,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+San Joaquin,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+San Joaquin,2012,Buprenorphine,14,F,,
+San Joaquin,2013,Buprenorphine,15,F,,
+San Joaquin,2014,Buprenorphine,49,F,,
+San Joaquin,2015,Buprenorphine,88,F,,
+San Joaquin,2016,Buprenorphine,130,F,,
+San Joaquin,2017,Buprenorphine,176,F,,
+San Joaquin,2018,Buprenorphine,176,F,,
+San Joaquin,2019,Buprenorphine,254,F,,
+San Luis Obispo,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+San Luis Obispo,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+San Luis Obispo,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+San Luis Obispo,2013,Buprenorphine,,F,1,cell suppressed for small numbers
+San Luis Obispo,2014,Buprenorphine,68,F,,
+San Luis Obispo,2015,Buprenorphine,247,F,,
+San Luis Obispo,2016,Buprenorphine,380,F,,
+San Luis Obispo,2017,Buprenorphine,458,F,,
+San Luis Obispo,2018,Buprenorphine,430,F,,
+San Luis Obispo,2019,Buprenorphine,424,F,,
+San Mateo,2010,Buprenorphine,12,F,,
+San Mateo,2011,Buprenorphine,15,F,,
+San Mateo,2012,Buprenorphine,15,F,,
+San Mateo,2013,Buprenorphine,13,F,,
+San Mateo,2014,Buprenorphine,41,F,,
+San Mateo,2015,Buprenorphine,71,F,,
+San Mateo,2016,Buprenorphine,83,F,,
+San Mateo,2017,Buprenorphine,125,F,,
+San Mateo,2018,Buprenorphine,211,F,,
+San Mateo,2019,Buprenorphine,293,F,,
+Santa Barbara,2010,Buprenorphine,18,F,,
+Santa Barbara,2011,Buprenorphine,16,F,,
+Santa Barbara,2012,Buprenorphine,21,F,,
+Santa Barbara,2013,Buprenorphine,30,F,,
+Santa Barbara,2014,Buprenorphine,77,F,,
+Santa Barbara,2015,Buprenorphine,194,F,,
+Santa Barbara,2016,Buprenorphine,314,F,,
+Santa Barbara,2017,Buprenorphine,380,F,,
+Santa Barbara,2018,Buprenorphine,404,F,,
+Santa Barbara,2019,Buprenorphine,504,F,,
+Santa Clara,2010,Buprenorphine,18,F,,
+Santa Clara,2011,Buprenorphine,29,F,,
+Santa Clara,2012,Buprenorphine,34,F,,
+Santa Clara,2013,Buprenorphine,28,F,,
+Santa Clara,2014,Buprenorphine,134,F,,
+Santa Clara,2015,Buprenorphine,272,F,,
+Santa Clara,2016,Buprenorphine,321,F,,
+Santa Clara,2017,Buprenorphine,467,F,,
+Santa Clara,2018,Buprenorphine,665,F,,
+Santa Clara,2019,Buprenorphine,837,F,,
+Santa Cruz,2010,Buprenorphine,19,F,,
+Santa Cruz,2011,Buprenorphine,16,F,,
+Santa Cruz,2012,Buprenorphine,20,F,,
+Santa Cruz,2013,Buprenorphine,15,F,,
+Santa Cruz,2014,Buprenorphine,65,F,,
+Santa Cruz,2015,Buprenorphine,143,F,,
+Santa Cruz,2016,Buprenorphine,272,F,,
+Santa Cruz,2017,Buprenorphine,424,F,,
+Santa Cruz,2018,Buprenorphine,500,F,,
+Santa Cruz,2019,Buprenorphine,654,F,,
+Shasta,2010,Buprenorphine,56,F,,
+Shasta,2011,Buprenorphine,101,F,,
+Shasta,2012,Buprenorphine,120,F,,
+Shasta,2013,Buprenorphine,137,F,,
+Shasta,2014,Buprenorphine,196,F,,
+Shasta,2015,Buprenorphine,283,F,,
+Shasta,2016,Buprenorphine,430,F,,
+Shasta,2017,Buprenorphine,629,F,,
+Shasta,2018,Buprenorphine,699,F,,
+Shasta,2019,Buprenorphine,869,F,,
+Siskiyou / Trinity,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2013,Buprenorphine,15,F,,
+Siskiyou / Trinity,2014,Buprenorphine,24,F,,
+Siskiyou / Trinity,2015,Buprenorphine,51,F,,
+Siskiyou / Trinity,2016,Buprenorphine,75,F,,
+Siskiyou / Trinity,2017,Buprenorphine,107,F,,
+Siskiyou / Trinity,2018,Buprenorphine,143,F,,
+Siskiyou / Trinity,2019,Buprenorphine,187,F,,
+Solano,2010,Buprenorphine,40,F,,
+Solano,2011,Buprenorphine,30,F,,
+Solano,2012,Buprenorphine,28,F,,
+Solano,2013,Buprenorphine,31,F,,
+Solano,2014,Buprenorphine,62,F,,
+Solano,2015,Buprenorphine,85,F,,
+Solano,2016,Buprenorphine,120,F,,
+Solano,2017,Buprenorphine,175,F,,
+Solano,2018,Buprenorphine,213,F,,
+Solano,2019,Buprenorphine,265,F,,
+Sonoma,2010,Buprenorphine,59,F,,
+Sonoma,2011,Buprenorphine,72,F,,
+Sonoma,2012,Buprenorphine,83,F,,
+Sonoma,2013,Buprenorphine,74,F,,
+Sonoma,2014,Buprenorphine,207,F,,
+Sonoma,2015,Buprenorphine,346,F,,
+Sonoma,2016,Buprenorphine,473,F,,
+Sonoma,2017,Buprenorphine,648,F,,
+Sonoma,2018,Buprenorphine,738,F,,
+Sonoma,2019,Buprenorphine,888,F,,
+Stanislaus,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Stanislaus,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Stanislaus,2012,Buprenorphine,19,F,,
+Stanislaus,2013,Buprenorphine,30,F,,
+Stanislaus,2014,Buprenorphine,88,F,,
+Stanislaus,2015,Buprenorphine,191,F,,
+Stanislaus,2016,Buprenorphine,323,F,,
+Stanislaus,2017,Buprenorphine,359,F,,
+Stanislaus,2018,Buprenorphine,470,F,,
+Stanislaus,2019,Buprenorphine,495,F,,
+Sutter,2010,Buprenorphine,29,F,,
+Sutter,2011,Buprenorphine,37,F,,
+Sutter,2012,Buprenorphine,47,F,,
+Sutter,2013,Buprenorphine,44,F,,
+Sutter,2014,Buprenorphine,87,F,,
+Sutter,2015,Buprenorphine,119,F,,
+Sutter,2016,Buprenorphine,137,F,,
+Sutter,2017,Buprenorphine,155,F,,
+Sutter,2018,Buprenorphine,173,F,,
+Sutter,2019,Buprenorphine,226,F,,
+Tehama,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Tehama,2011,Buprenorphine,17,F,,
+Tehama,2012,Buprenorphine,17,F,,
+Tehama,2013,Buprenorphine,34,F,,
+Tehama,2014,Buprenorphine,49,F,,
+Tehama,2015,Buprenorphine,58,F,,
+Tehama,2016,Buprenorphine,89,F,,
+Tehama,2017,Buprenorphine,111,F,,
+Tehama,2018,Buprenorphine,107,F,,
+Tehama,2019,Buprenorphine,140,F,,
+Tulare,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Tulare,2011,Buprenorphine,,F,1,cell suppressed for small numbers
+Tulare,2012,Buprenorphine,13,F,,
+Tulare,2013,Buprenorphine,19,F,,
+Tulare,2014,Buprenorphine,22,F,,
+Tulare,2015,Buprenorphine,49,F,,
+Tulare,2016,Buprenorphine,149,F,,
+Tulare,2017,Buprenorphine,369,F,,
+Tulare,2018,Buprenorphine,379,F,,
+Tulare,2019,Buprenorphine,382,F,,
+Tuolumne,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Tuolumne,2011,Buprenorphine,13,F,,
+Tuolumne,2012,Buprenorphine,28,F,,
+Tuolumne,2013,Buprenorphine,34,F,,
+Tuolumne,2014,Buprenorphine,55,F,,
+Tuolumne,2015,Buprenorphine,92,F,,
+Tuolumne,2016,Buprenorphine,162,F,,
+Tuolumne,2017,Buprenorphine,207,F,,
+Tuolumne,2018,Buprenorphine,210,F,,
+Tuolumne,2019,Buprenorphine,283,F,,
+Ventura,2010,Buprenorphine,39,F,,
+Ventura,2011,Buprenorphine,48,F,,
+Ventura,2012,Buprenorphine,47,F,,
+Ventura,2013,Buprenorphine,55,F,,
+Ventura,2014,Buprenorphine,87,F,,
+Ventura,2015,Buprenorphine,196,F,,
+Ventura,2016,Buprenorphine,297,F,,
+Ventura,2017,Buprenorphine,369,F,,
+Ventura,2018,Buprenorphine,444,F,,
+Ventura,2019,Buprenorphine,600,F,,
+Yolo,2010,Buprenorphine,,F,1,cell suppressed for small numbers
+Yolo,2011,Buprenorphine,13,F,,
+Yolo,2012,Buprenorphine,,F,1,cell suppressed for small numbers
+Yolo,2013,Buprenorphine,11,F,,
+Yolo,2014,Buprenorphine,24,F,,
+Yolo,2015,Buprenorphine,37,F,,
+Yolo,2016,Buprenorphine,53,F,,
+Yolo,2017,Buprenorphine,77,F,,
+Yolo,2018,Buprenorphine,121,F,,
+Yolo,2019,Buprenorphine,151,F,,
+Yuba,2010,Buprenorphine,29,F,,
+Yuba,2011,Buprenorphine,39,F,,
+Yuba,2012,Buprenorphine,35,F,,
+Yuba,2013,Buprenorphine,52,F,,
+Yuba,2014,Buprenorphine,61,F,,
+Yuba,2015,Buprenorphine,90,F,,
+Yuba,2016,Buprenorphine,141,F,,
+Yuba,2017,Buprenorphine,171,F,,
+Yuba,2018,Buprenorphine,202,F,,
+Yuba,2019,Buprenorphine,234,F,,
+Statewide,2010,Methadone Program,20439,F,,
+Statewide,2011,Methadone Program,21267,F,,
+Statewide,2012,Methadone Program,21778,F,,
+Statewide,2013,Methadone Program,22255,F,,
+Statewide,2014,Methadone Program,38127,F,,
+Statewide,2015,Methadone Program,44035,F,,
+Statewide,2016,Methadone Program,46342,F,,
+Statewide,2017,Methadone Program,46379,F,,
+Statewide,2018,Methadone Program,45126,P,,
+Statewide,2019,Methadone Program,42319,P,,
+Alameda,2010,Methadone Program,1416,F,,
+Alameda,2011,Methadone Program,1420,F,,
+Alameda,2012,Methadone Program,1473,F,,
+Alameda,2013,Methadone Program,1561,F,,
+Alameda,2014,Methadone Program,2353,F,,
+Alameda,2015,Methadone Program,2501,F,,
+Alameda,2016,Methadone Program,2567,F,,
+Alameda,2017,Methadone Program,2546,F,,
+Alameda,2018,Methadone Program,2398,F,,
+Alameda,2019,Methadone Program,2298,P,,
+Amador / Alpine,2010,Methadone Program,15,F,,
+Amador / Alpine,2011,Methadone Program,17,F,,
+Amador / Alpine,2012,Methadone Program,17,F,,
+Amador / Alpine,2013,Methadone Program,18,F,,
+Amador / Alpine,2014,Methadone Program,28,F,,
+Amador / Alpine,2015,Methadone Program,27,F,,
+Amador / Alpine,2016,Methadone Program,36,F,,
+Amador / Alpine,2017,Methadone Program,30,F,,
+Amador / Alpine,2018,Methadone Program,15,F,,
+Amador / Alpine,2019,Methadone Program,26,P,,
+Butte,2010,Methadone Program,202,F,,
+Butte,2011,Methadone Program,232,F,,
+Butte,2012,Methadone Program,211,F,,
+Butte,2013,Methadone Program,214,F,,
+Butte,2014,Methadone Program,400,F,,
+Butte,2015,Methadone Program,485,F,,
+Butte,2016,Methadone Program,545,F,,
+Butte,2017,Methadone Program,567,F,,
+Butte,2018,Methadone Program,538,F,,
+Butte,2019,Methadone Program,491,P,,
+Calaveras,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Calaveras,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Calaveras,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Calaveras,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Calaveras,2014,Methadone Program,16,F,,
+Calaveras,2015,Methadone Program,19,F,,
+Calaveras,2016,Methadone Program,22,F,,
+Calaveras,2017,Methadone Program,27,F,,
+Calaveras,2018,Methadone Program,11,F,,
+Calaveras,2019,Methadone Program,11,P,,
+Colusa,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2015,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2016,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2017,Methadone Program,11,F,,
+Colusa,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Colusa,2019,Methadone Program,,P,1,cell suppressed for small numbers
+Contra Costa,2010,Methadone Program,522,F,,
+Contra Costa,2011,Methadone Program,546,F,,
+Contra Costa,2012,Methadone Program,600,F,,
+Contra Costa,2013,Methadone Program,611,F,,
+Contra Costa,2014,Methadone Program,999,F,,
+Contra Costa,2015,Methadone Program,1279,F,,
+Contra Costa,2016,Methadone Program,1357,F,,
+Contra Costa,2017,Methadone Program,1369,F,,
+Contra Costa,2018,Methadone Program,1234,F,,
+Contra Costa,2019,Methadone Program,1127,P,,
+Del Norte,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2015,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2016,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2017,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Del Norte,2019,Methadone Program,,P,1,cell suppressed for small numbers
+El Dorado,2010,Methadone Program,38,F,,
+El Dorado,2011,Methadone Program,46,F,,
+El Dorado,2012,Methadone Program,48,F,,
+El Dorado,2013,Methadone Program,50,F,,
+El Dorado,2014,Methadone Program,71,F,,
+El Dorado,2015,Methadone Program,95,F,,
+El Dorado,2016,Methadone Program,100,F,,
+El Dorado,2017,Methadone Program,91,F,,
+El Dorado,2018,Methadone Program,94,F,,
+El Dorado,2019,Methadone Program,94,P,,
+Fresno,2010,Methadone Program,1158,F,,
+Fresno,2011,Methadone Program,1214,F,,
+Fresno,2012,Methadone Program,1253,F,,
+Fresno,2013,Methadone Program,1284,F,,
+Fresno,2014,Methadone Program,2043,F,,
+Fresno,2015,Methadone Program,2211,F,,
+Fresno,2016,Methadone Program,2375,F,,
+Fresno,2017,Methadone Program,2316,F,,
+Fresno,2018,Methadone Program,2326,F,,
+Fresno,2019,Methadone Program,2159,P,,
+Glenn,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Glenn,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Glenn,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Glenn,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Glenn,2014,Methadone Program,11,F,,
+Glenn,2015,Methadone Program,13,F,,
+Glenn,2016,Methadone Program,15,F,,
+Glenn,2017,Methadone Program,17,F,,
+Glenn,2018,Methadone Program,28,F,,
+Glenn,2019,Methadone Program,30,P,,
+Humboldt,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Humboldt,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Humboldt,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Humboldt,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Humboldt,2014,Methadone Program,13,F,,
+Humboldt,2015,Methadone Program,24,F,,
+Humboldt,2016,Methadone Program,26,F,,
+Humboldt,2017,Methadone Program,19,F,,
+Humboldt,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Humboldt,2019,Methadone Program,,P,1,cell suppressed for small numbers
+Imperial,2010,Methadone Program,199,F,,
+Imperial,2011,Methadone Program,194,F,,
+Imperial,2012,Methadone Program,227,F,,
+Imperial,2013,Methadone Program,239,F,,
+Imperial,2014,Methadone Program,477,F,,
+Imperial,2015,Methadone Program,528,F,,
+Imperial,2016,Methadone Program,511,F,,
+Imperial,2017,Methadone Program,474,F,,
+Imperial,2018,Methadone Program,454,F,,
+Imperial,2019,Methadone Program,,P,1,cell suppressed for small numbers
+Inyo / Mono,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Kern,2010,Methadone Program,750,F,,
+Kern,2011,Methadone Program,763,F,,
+Kern,2012,Methadone Program,818,F,,
+Kern,2013,Methadone Program,808,F,,
+Kern,2014,Methadone Program,1268,F,,
+Kern,2015,Methadone Program,1449,F,,
+Kern,2016,Methadone Program,1552,F,,
+Kern,2017,Methadone Program,1655,F,,
+Kern,2018,Methadone Program,1730,F,,
+Kern,2019,Methadone Program,1749,P,,
+Kings,2010,Methadone Program,50,F,,
+Kings,2011,Methadone Program,45,F,,
+Kings,2012,Methadone Program,46,F,,
+Kings,2013,Methadone Program,45,F,,
+Kings,2014,Methadone Program,105,F,,
+Kings,2015,Methadone Program,127,F,,
+Kings,2016,Methadone Program,110,F,,
+Kings,2017,Methadone Program,96,F,,
+Kings,2018,Methadone Program,79,F,,
+Kings,2019,Methadone Program,61,P,,
+Lake,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Lake,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Lake,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Lake,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Lake,2014,Methadone Program,13,F,,
+Lake,2015,Methadone Program,13,F,,
+Lake,2016,Methadone Program,22,F,,
+Lake,2017,Methadone Program,24,F,,
+Lake,2018,Methadone Program,11,F,,
+Lake,2019,Methadone Program,24,P,,
+Lassen / Modoc,2010,Methadone Program,161,F,,
+Lassen / Modoc,2011,Methadone Program,183,F,,
+Lassen / Modoc,2012,Methadone Program,189,F,,
+Lassen / Modoc,2013,Methadone Program,192,F,,
+Lassen / Modoc,2014,Methadone Program,300,F,,
+Lassen / Modoc,2015,Methadone Program,321,F,,
+Lassen / Modoc,2016,Methadone Program,332,F,,
+Lassen / Modoc,2017,Methadone Program,341,F,,
+Lassen / Modoc,2018,Methadone Program,378,F,,
+Lassen / Modoc,2019,Methadone Program,365,P,,
+Los Angeles,2010,Methadone Program,4209,F,,
+Los Angeles,2011,Methadone Program,4314,F,,
+Los Angeles,2012,Methadone Program,4275,F,,
+Los Angeles,2013,Methadone Program,4264,F,,
+Los Angeles,2014,Methadone Program,7451,F,,
+Los Angeles,2015,Methadone Program,8015,F,,
+Los Angeles,2016,Methadone Program,8296,F,,
+Los Angeles,2017,Methadone Program,7949,F,,
+Los Angeles,2018,Methadone Program,7131,P,,
+Los Angeles,2019,Methadone Program,6446,P,,
+Madera,2010,Methadone Program,61,F,,
+Madera,2011,Methadone Program,68,F,,
+Madera,2012,Methadone Program,61,F,,
+Madera,2013,Methadone Program,61,F,,
+Madera,2014,Methadone Program,106,F,,
+Madera,2015,Methadone Program,115,F,,
+Madera,2016,Methadone Program,136,F,,
+Madera,2017,Methadone Program,131,F,,
+Madera,2018,Methadone Program,92,F,,
+Madera,2019,Methadone Program,48,P,,
+Marin,2010,Methadone Program,90,F,,
+Marin,2011,Methadone Program,92,F,,
+Marin,2012,Methadone Program,96,F,,
+Marin,2013,Methadone Program,98,F,,
+Marin,2014,Methadone Program,181,F,,
+Marin,2015,Methadone Program,216,F,,
+Marin,2016,Methadone Program,218,F,,
+Marin,2017,Methadone Program,238,F,,
+Marin,2018,Methadone Program,253,F,,
+Marin,2019,Methadone Program,215,P,,
+Mendocino,2010,Methadone Program,14,F,,
+Mendocino,2011,Methadone Program,12,F,,
+Mendocino,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Mendocino,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Mendocino,2014,Methadone Program,23,F,,
+Mendocino,2015,Methadone Program,41,F,,
+Mendocino,2016,Methadone Program,33,F,,
+Mendocino,2017,Methadone Program,26,F,,
+Mendocino,2018,Methadone Program,29,F,,
+Mendocino,2019,Methadone Program,42,P,,
+Merced/Mariposa,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2015,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2016,Methadone Program,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2017,Methadone Program,,F,1,cell suppressed for small numbers
+Monterey,2010,Methadone Program,177,F,,
+Monterey,2011,Methadone Program,183,F,,
+Monterey,2012,Methadone Program,188,F,,
+Monterey,2013,Methadone Program,183,F,,
+Monterey,2014,Methadone Program,281,F,,
+Monterey,2015,Methadone Program,309,F,,
+Monterey,2016,Methadone Program,334,F,,
+Monterey,2017,Methadone Program,376,F,,
+Monterey,2018,Methadone Program,377,F,,
+Monterey,2019,Methadone Program,380,P,,
+Napa,2010,Methadone Program,29,F,,
+Napa,2011,Methadone Program,24,F,,
+Napa,2012,Methadone Program,27,F,,
+Napa,2013,Methadone Program,23,F,,
+Napa,2014,Methadone Program,50,F,,
+Napa,2015,Methadone Program,63,F,,
+Napa,2016,Methadone Program,52,F,,
+Napa,2017,Methadone Program,64,F,,
+Napa,2018,Methadone Program,60,F,,
+Napa,2019,Methadone Program,47,P,,
+Nevada,2010,Methadone Program,36,F,,
+Nevada,2011,Methadone Program,37,F,,
+Nevada,2012,Methadone Program,36,F,,
+Nevada,2013,Methadone Program,34,F,,
+Nevada,2014,Methadone Program,80,F,,
+Nevada,2015,Methadone Program,85,F,,
+Nevada,2016,Methadone Program,102,F,,
+Nevada,2017,Methadone Program,99,F,,
+Nevada,2018,Methadone Program,93,F,,
+Nevada,2019,Methadone Program,127,P,,
+Orange,2010,Methadone Program,616,F,,
+Orange,2011,Methadone Program,650,F,,
+Orange,2012,Methadone Program,675,F,,
+Orange,2013,Methadone Program,696,F,,
+Orange,2014,Methadone Program,1437,F,,
+Orange,2015,Methadone Program,1756,F,,
+Orange,2016,Methadone Program,1815,F,,
+Orange,2017,Methadone Program,1879,F,,
+Orange,2018,Methadone Program,1801,F,,
+Orange,2019,Methadone Program,1795,P,,
+Placer,2010,Methadone Program,129,F,,
+Placer,2011,Methadone Program,133,F,,
+Placer,2012,Methadone Program,142,F,,
+Placer,2013,Methadone Program,154,F,,
+Placer,2014,Methadone Program,277,F,,
+Placer,2015,Methadone Program,339,F,,
+Placer,2016,Methadone Program,370,F,,
+Placer,2017,Methadone Program,404,F,,
+Placer,2018,Methadone Program,398,F,,
+Placer,2019,Methadone Program,372,P,,
+Plumas / Sierra,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2016,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2017,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2019,Methadone Program,,P,1,cell suppressed for small numbers
+Riverside,2010,Methadone Program,491,F,,
+Riverside,2011,Methadone Program,538,F,,
+Riverside,2012,Methadone Program,546,F,,
+Riverside,2013,Methadone Program,536,F,,
+Riverside,2014,Methadone Program,975,F,,
+Riverside,2015,Methadone Program,1217,F,,
+Riverside,2016,Methadone Program,1353,F,,
+Riverside,2017,Methadone Program,1565,F,,
+Riverside,2018,Methadone Program,1813,F,,
+Riverside,2019,Methadone Program,1696,P,,
+Sacramento,2010,Methadone Program,1694,F,,
+Sacramento,2011,Methadone Program,1811,F,,
+Sacramento,2012,Methadone Program,1895,F,,
+Sacramento,2013,Methadone Program,1948,F,,
+Sacramento,2014,Methadone Program,2995,F,,
+Sacramento,2015,Methadone Program,3518,F,,
+Sacramento,2016,Methadone Program,3855,F,,
+Sacramento,2017,Methadone Program,3839,F,,
+Sacramento,2018,Methadone Program,3821,F,,
+Sacramento,2019,Methadone Program,3712,P,,
+San Benito,2010,Methadone Program,,F,1,cell suppressed for small numbers
+San Benito,2011,Methadone Program,,F,1,cell suppressed for small numbers
+San Benito,2012,Methadone Program,,F,1,cell suppressed for small numbers
+San Benito,2013,Methadone Program,,F,1,cell suppressed for small numbers
+San Benito,2014,Methadone Program,11,F,,
+San Benito,2015,Methadone Program,13,F,,
+San Benito,2016,Methadone Program,14,F,,
+San Benito,2017,Methadone Program,17,F,,
+San Benito,2018,Methadone Program,13,F,,
+San Benito,2019,Methadone Program,13,P,,
+San Bernardino,2010,Methadone Program,767,F,,
+San Bernardino,2011,Methadone Program,781,F,,
+San Bernardino,2012,Methadone Program,778,F,,
+San Bernardino,2013,Methadone Program,766,F,,
+San Bernardino,2014,Methadone Program,1307,F,,
+San Bernardino,2015,Methadone Program,1496,F,,
+San Bernardino,2016,Methadone Program,1638,F,,
+San Bernardino,2017,Methadone Program,1679,F,,
+San Bernardino,2018,Methadone Program,1670,F,,
+San Bernardino,2019,Methadone Program,1621,P,,
+San Diego,2010,Methadone Program,1079,F,,
+San Diego,2011,Methadone Program,1136,F,,
+San Diego,2012,Methadone Program,1209,F,,
+San Diego,2013,Methadone Program,1354,F,,
+San Diego,2014,Methadone Program,2947,F,,
+San Diego,2015,Methadone Program,3835,F,,
+San Diego,2016,Methadone Program,4186,F,,
+San Diego,2017,Methadone Program,4180,F,,
+San Diego,2018,Methadone Program,4026,F,,
+San Diego,2019,Methadone Program,3733,P,,
+San Francisco,2010,Methadone Program,1751,F,,
+San Francisco,2011,Methadone Program,1779,F,,
+San Francisco,2012,Methadone Program,1781,F,,
+San Francisco,2013,Methadone Program,1761,F,,
+San Francisco,2014,Methadone Program,2716,F,,
+San Francisco,2015,Methadone Program,3063,F,,
+San Francisco,2016,Methadone Program,3040,F,,
+San Francisco,2017,Methadone Program,2935,F,,
+San Francisco,2018,Methadone Program,2784,F,,
+San Francisco,2019,Methadone Program,2699,P,,
+San Joaquin,2010,Methadone Program,1135,F,,
+San Joaquin,2011,Methadone Program,1175,F,,
+San Joaquin,2012,Methadone Program,1201,F,,
+San Joaquin,2013,Methadone Program,1248,F,,
+San Joaquin,2014,Methadone Program,1976,F,,
+San Joaquin,2015,Methadone Program,2178,F,,
+San Joaquin,2016,Methadone Program,2324,F,,
+San Joaquin,2017,Methadone Program,2381,F,,
+San Joaquin,2018,Methadone Program,2403,F,,
+San Joaquin,2019,Methadone Program,2186,P,,
+San Luis Obispo,2010,Methadone Program,137,F,,
+San Luis Obispo,2011,Methadone Program,171,F,,
+San Luis Obispo,2012,Methadone Program,174,F,,
+San Luis Obispo,2013,Methadone Program,192,F,,
+San Luis Obispo,2014,Methadone Program,291,F,,
+San Luis Obispo,2015,Methadone Program,350,F,,
+San Luis Obispo,2016,Methadone Program,383,F,,
+San Luis Obispo,2017,Methadone Program,399,F,,
+San Luis Obispo,2018,Methadone Program,403,F,,
+San Luis Obispo,2019,Methadone Program,380,P,,
+San Mateo,2010,Methadone Program,127,F,,
+San Mateo,2011,Methadone Program,114,F,,
+San Mateo,2012,Methadone Program,129,F,,
+San Mateo,2013,Methadone Program,130,F,,
+San Mateo,2014,Methadone Program,288,F,,
+San Mateo,2015,Methadone Program,346,F,,
+San Mateo,2016,Methadone Program,352,F,,
+San Mateo,2017,Methadone Program,324,F,,
+San Mateo,2018,Methadone Program,307,F,,
+San Mateo,2019,Methadone Program,217,P,,
+Santa Barbara,2010,Methadone Program,311,F,,
+Santa Barbara,2011,Methadone Program,311,F,,
+Santa Barbara,2012,Methadone Program,356,F,,
+Santa Barbara,2013,Methadone Program,353,F,,
+Santa Barbara,2014,Methadone Program,559,F,,
+Santa Barbara,2015,Methadone Program,624,F,,
+Santa Barbara,2016,Methadone Program,703,F,,
+Santa Barbara,2017,Methadone Program,735,F,,
+Santa Barbara,2018,Methadone Program,728,F,,
+Santa Barbara,2019,Methadone Program,701,P,,
+Santa Clara,2010,Methadone Program,316,F,,
+Santa Clara,2011,Methadone Program,301,F,,
+Santa Clara,2012,Methadone Program,279,F,,
+Santa Clara,2013,Methadone Program,292,F,,
+Santa Clara,2014,Methadone Program,517,F,,
+Santa Clara,2015,Methadone Program,597,F,,
+Santa Clara,2016,Methadone Program,601,F,,
+Santa Clara,2017,Methadone Program,591,F,,
+Santa Clara,2018,Methadone Program,542,F,,
+Santa Clara,2019,Methadone Program,516,P,,
+Santa Cruz,2010,Methadone Program,244,F,,
+Santa Cruz,2011,Methadone Program,242,F,,
+Santa Cruz,2012,Methadone Program,257,F,,
+Santa Cruz,2013,Methadone Program,260,F,,
+Santa Cruz,2014,Methadone Program,536,F,,
+Santa Cruz,2015,Methadone Program,645,F,,
+Santa Cruz,2016,Methadone Program,701,F,,
+Santa Cruz,2017,Methadone Program,650,F,,
+Santa Cruz,2018,Methadone Program,630,F,,
+Santa Cruz,2019,Methadone Program,647,P,,
+Shasta,2010,Methadone Program,42,F,,
+Shasta,2011,Methadone Program,43,F,,
+Shasta,2012,Methadone Program,29,F,,
+Shasta,2013,Methadone Program,36,F,,
+Shasta,2014,Methadone Program,63,F,,
+Shasta,2015,Methadone Program,92,F,,
+Shasta,2016,Methadone Program,112,F,,
+Shasta,2017,Methadone Program,193,F,,
+Shasta,2018,Methadone Program,250,F,,
+Shasta,2019,Methadone Program,280,P,,
+Siskiyou / Trinity,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2015,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2016,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2017,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2018,Methadone Program,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2019,Methadone Program,13,P,,
+Solano,2010,Methadone Program,209,F,,
+Solano,2011,Methadone Program,235,F,,
+Solano,2012,Methadone Program,264,F,,
+Solano,2013,Methadone Program,282,F,,
+Solano,2014,Methadone Program,446,F,,
+Solano,2015,Methadone Program,590,F,,
+Solano,2016,Methadone Program,665,F,,
+Solano,2017,Methadone Program,648,F,,
+Solano,2018,Methadone Program,663,F,,
+Solano,2019,Methadone Program,655,P,,
+Sonoma,2010,Methadone Program,314,F,,
+Sonoma,2011,Methadone Program,302,F,,
+Sonoma,2012,Methadone Program,255,F,,
+Sonoma,2013,Methadone Program,287,F,,
+Sonoma,2014,Methadone Program,536,F,,
+Sonoma,2015,Methadone Program,607,F,,
+Sonoma,2016,Methadone Program,551,F,,
+Sonoma,2017,Methadone Program,536,F,,
+Sonoma,2018,Methadone Program,501,F,,
+Sonoma,2019,Methadone Program,491,P,,
+Stanislaus,2010,Methadone Program,529,F,,
+Stanislaus,2011,Methadone Program,608,F,,
+Stanislaus,2012,Methadone Program,649,F,,
+Stanislaus,2013,Methadone Program,673,F,,
+Stanislaus,2014,Methadone Program,961,F,,
+Stanislaus,2015,Methadone Program,1265,F,,
+Stanislaus,2016,Methadone Program,1399,F,,
+Stanislaus,2017,Methadone Program,1458,F,,
+Stanislaus,2018,Methadone Program,1471,F,,
+Stanislaus,2019,Methadone Program,1495,P,,
+Sutter,2010,Methadone Program,81,F,,
+Sutter,2011,Methadone Program,106,F,,
+Sutter,2012,Methadone Program,101,F,,
+Sutter,2013,Methadone Program,109,F,,
+Sutter,2014,Methadone Program,165,F,,
+Sutter,2015,Methadone Program,203,F,,
+Sutter,2016,Methadone Program,230,F,,
+Sutter,2017,Methadone Program,212,F,,
+Sutter,2018,Methadone Program,222,F,,
+Sutter,2019,Methadone Program,191,P,,
+Tehama,2010,Methadone Program,34,F,,
+Tehama,2011,Methadone Program,27,F,,
+Tehama,2012,Methadone Program,33,F,,
+Tehama,2013,Methadone Program,30,F,,
+Tehama,2014,Methadone Program,57,F,,
+Tehama,2015,Methadone Program,66,F,,
+Tehama,2016,Methadone Program,71,F,,
+Tehama,2017,Methadone Program,46,F,,
+Tehama,2018,Methadone Program,64,F,,
+Tehama,2019,Methadone Program,58,P,,
+Tulare,2010,Methadone Program,484,F,,
+Tulare,2011,Methadone Program,516,F,,
+Tulare,2012,Methadone Program,508,F,,
+Tulare,2013,Methadone Program,521,F,,
+Tulare,2014,Methadone Program,948,F,,
+Tulare,2015,Methadone Program,1086,F,,
+Tulare,2016,Methadone Program,1112,F,,
+Tulare,2017,Methadone Program,1057,F,,
+Tulare,2018,Methadone Program,1064,F,,
+Tulare,2019,Methadone Program,931,P,,
+Tuolumne,2010,Methadone Program,,F,1,cell suppressed for small numbers
+Tuolumne,2011,Methadone Program,,F,1,cell suppressed for small numbers
+Tuolumne,2012,Methadone Program,,F,1,cell suppressed for small numbers
+Tuolumne,2013,Methadone Program,,F,1,cell suppressed for small numbers
+Tuolumne,2014,Methadone Program,,F,1,cell suppressed for small numbers
+Tuolumne,2015,Methadone Program,13,F,,
+Tuolumne,2016,Methadone Program,20,F,,
+Tuolumne,2017,Methadone Program,16,F,,
+Tuolumne,2018,Methadone Program,15,F,,
+Tuolumne,2019,Methadone Program,15,P,,
+Ventura,2010,Methadone Program,552,F,,
+Ventura,2011,Methadone Program,623,F,,
+Ventura,2012,Methadone Program,647,F,,
+Ventura,2013,Methadone Program,623,F,,
+Ventura,2014,Methadone Program,1316,F,,
+Ventura,2015,Methadone Program,1475,F,,
+Ventura,2016,Methadone Program,1540,F,,
+Ventura,2017,Methadone Program,1618,F,,
+Ventura,2018,Methadone Program,1627,F,,
+Ventura,2019,Methadone Program,1609,P,,
+Yolo,2010,Methadone Program,101,F,,
+Yolo,2011,Methadone Program,95,F,,
+Yolo,2012,Methadone Program,100,F,,
+Yolo,2013,Methadone Program,105,F,,
+Yolo,2014,Methadone Program,188,F,,
+Yolo,2015,Methadone Program,223,F,,
+Yolo,2016,Methadone Program,255,F,,
+Yolo,2017,Methadone Program,253,F,,
+Yolo,2018,Methadone Program,233,F,,
+Yolo,2019,Methadone Program,221,P,,
+Yuba,2010,Methadone Program,127,F,,
+Yuba,2011,Methadone Program,139,F,,
+Yuba,2012,Methadone Program,146,F,,
+Yuba,2013,Methadone Program,140,F,,
+Yuba,2014,Methadone Program,214,F,,
+Yuba,2015,Methadone Program,266,F,,
+Yuba,2016,Methadone Program,286,F,,
+Yuba,2017,Methadone Program,282,F,,
+Yuba,2018,Methadone Program,315,F,,
+Yuba,2019,Methadone Program,304,P,,
+Statewide,2010,Naloxone,24,F,,
+Statewide,2011,Naloxone,28,F,,
+Statewide,2012,Naloxone,43,F,,
+Statewide,2013,Naloxone,128,F,,
+Statewide,2014,Naloxone,467,F,,
+Statewide,2015,Naloxone,595,F,,
+Statewide,2016,Naloxone,1593,F,,
+Statewide,2017,Naloxone,4415,F,,
+Statewide,2018,Naloxone,12892,F,,
+Statewide,2019,Naloxone,59758,F,,
+Alameda,2011,Naloxone,,F,1,cell suppressed for small numbers
+Alameda,2012,Naloxone,,F,1,cell suppressed for small numbers
+Alameda,2013,Naloxone,,F,1,cell suppressed for small numbers
+Alameda,2014,Naloxone,12,F,,
+Alameda,2015,Naloxone,34,F,,
+Alameda,2016,Naloxone,112,F,,
+Alameda,2017,Naloxone,287,F,,
+Alameda,2018,Naloxone,652,F,,
+Alameda,2019,Naloxone,2243,F,,
+Amador / Alpine,2016,Naloxone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2017,Naloxone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2018,Naloxone,20,F,,
+Amador / Alpine,2019,Naloxone,87,F,,
+Butte,2014,Naloxone,49,F,,
+Butte,2015,Naloxone,42,F,,
+Butte,2016,Naloxone,100,F,,
+Butte,2017,Naloxone,210,F,,
+Butte,2018,Naloxone,274,F,,
+Butte,2019,Naloxone,573,F,,
+Calaveras,2016,Naloxone,,F,1,cell suppressed for small numbers
+Calaveras,2017,Naloxone,,F,1,cell suppressed for small numbers
+Calaveras,2018,Naloxone,11,F,,
+Calaveras,2019,Naloxone,76,F,,
+Colusa,2016,Naloxone,,F,1,cell suppressed for small numbers
+Colusa,2018,Naloxone,,F,1,cell suppressed for small numbers
+Colusa,2019,Naloxone,23,F,,
+Contra Costa,2010,Naloxone,,F,1,cell suppressed for small numbers
+Contra Costa,2011,Naloxone,,F,1,cell suppressed for small numbers
+Contra Costa,2012,Naloxone,,F,1,cell suppressed for small numbers
+Contra Costa,2014,Naloxone,,F,1,cell suppressed for small numbers
+Contra Costa,2015,Naloxone,,F,1,cell suppressed for small numbers
+Contra Costa,2016,Naloxone,38,F,,
+Contra Costa,2017,Naloxone,127,F,,
+Contra Costa,2018,Naloxone,390,F,,
+Contra Costa,2019,Naloxone,1909,F,,
+Del Norte,2016,Naloxone,,F,1,cell suppressed for small numbers
+Del Norte,2017,Naloxone,108,F,,
+Del Norte,2018,Naloxone,124,F,,
+Del Norte,2019,Naloxone,263,F,,
+El Dorado,2011,Naloxone,,F,1,cell suppressed for small numbers
+El Dorado,2014,Naloxone,,F,1,cell suppressed for small numbers
+El Dorado,2016,Naloxone,22,F,,
+El Dorado,2017,Naloxone,60,F,,
+El Dorado,2018,Naloxone,180,F,,
+El Dorado,2019,Naloxone,521,F,,
+Fresno,2011,Naloxone,,F,1,cell suppressed for small numbers
+Fresno,2012,Naloxone,,F,1,cell suppressed for small numbers
+Fresno,2016,Naloxone,20,F,,
+Fresno,2017,Naloxone,54,F,,
+Fresno,2018,Naloxone,214,F,,
+Fresno,2019,Naloxone,1786,F,,
+Glenn,2013,Naloxone,,F,1,cell suppressed for small numbers
+Glenn,2014,Naloxone,,F,1,cell suppressed for small numbers
+Glenn,2015,Naloxone,,F,1,cell suppressed for small numbers
+Glenn,2017,Naloxone,,F,1,cell suppressed for small numbers
+Glenn,2018,Naloxone,22,F,,
+Glenn,2019,Naloxone,81,F,,
+Humboldt,2016,Naloxone,48,F,,
+Humboldt,2017,Naloxone,82,F,,
+Humboldt,2018,Naloxone,348,F,,
+Humboldt,2019,Naloxone,836,F,,
+Imperial,2016,Naloxone,,F,1,cell suppressed for small numbers
+Imperial,2017,Naloxone,,F,1,cell suppressed for small numbers
+Imperial,2018,Naloxone,57,F,,
+Imperial,2019,Naloxone,335,F,,
+Inyo / Mono,2016,Naloxone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2017,Naloxone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2018,Naloxone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2019,Naloxone,51,F,,
+Kern,2016,Naloxone,,F,1,cell suppressed for small numbers
+Kern,2017,Naloxone,,F,1,cell suppressed for small numbers
+Kern,2018,Naloxone,187,F,,
+Kern,2019,Naloxone,1523,F,,
+Kings,2011,Naloxone,,F,1,cell suppressed for small numbers
+Kings,2016,Naloxone,,F,1,cell suppressed for small numbers
+Kings,2017,Naloxone,,F,1,cell suppressed for small numbers
+Kings,2018,Naloxone,56,F,,
+Kings,2019,Naloxone,479,F,,
+Lake,2015,Naloxone,,F,1,cell suppressed for small numbers
+Lake,2016,Naloxone,23,F,,
+Lake,2017,Naloxone,34,F,,
+Lake,2018,Naloxone,213,F,,
+Lake,2019,Naloxone,351,F,,
+Lassen / Modoc,2016,Naloxone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2017,Naloxone,12,F,,
+Lassen / Modoc,2018,Naloxone,160,F,,
+Lassen / Modoc,2019,Naloxone,727,F,,
+Los Angeles,2011,Naloxone,,F,1,cell suppressed for small numbers
+Los Angeles,2012,Naloxone,,F,1,cell suppressed for small numbers
+Los Angeles,2013,Naloxone,,F,1,cell suppressed for small numbers
+Los Angeles,2014,Naloxone,,F,1,cell suppressed for small numbers
+Los Angeles,2015,Naloxone,,F,1,cell suppressed for small numbers
+Los Angeles,2016,Naloxone,113,F,,
+Los Angeles,2017,Naloxone,336,F,,
+Los Angeles,2018,Naloxone,1485,F,,
+Los Angeles,2019,Naloxone,10021,F,,
+Madera,2016,Naloxone,,F,1,cell suppressed for small numbers
+Madera,2018,Naloxone,17,F,,
+Madera,2019,Naloxone,222,F,,
+Marin,2013,Naloxone,,F,1,cell suppressed for small numbers
+Marin,2015,Naloxone,,F,1,cell suppressed for small numbers
+Marin,2016,Naloxone,,F,1,cell suppressed for small numbers
+Marin,2017,Naloxone,32,F,,
+Marin,2018,Naloxone,54,F,,
+Marin,2019,Naloxone,273,F,,
+Mendocino,2013,Naloxone,,F,1,cell suppressed for small numbers
+Mendocino,2015,Naloxone,,F,1,cell suppressed for small numbers
+Mendocino,2016,Naloxone,,F,1,cell suppressed for small numbers
+Mendocino,2017,Naloxone,49,F,,
+Mendocino,2018,Naloxone,135,F,,
+Mendocino,2019,Naloxone,333,F,,
+Merced/Mariposa,2015,Naloxone,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2017,Naloxone,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2018,Naloxone,24,F,,
+Merced/Mariposa,2019,Naloxone,60,F,,
+Monterey,2010,Naloxone,,F,1,cell suppressed for small numbers
+Monterey,2011,Naloxone,,F,1,cell suppressed for small numbers
+Monterey,2015,Naloxone,,F,1,cell suppressed for small numbers
+Monterey,2016,Naloxone,47,F,,
+Monterey,2017,Naloxone,101,F,,
+Monterey,2018,Naloxone,175,F,,
+Monterey,2019,Naloxone,623,F,,
+Napa,2013,Naloxone,,F,1,cell suppressed for small numbers
+Napa,2016,Naloxone,,F,1,cell suppressed for small numbers
+Napa,2017,Naloxone,33,F,,
+Napa,2018,Naloxone,32,F,,
+Napa,2019,Naloxone,140,F,,
+Nevada,2015,Naloxone,,F,1,cell suppressed for small numbers
+Nevada,2016,Naloxone,,F,1,cell suppressed for small numbers
+Nevada,2017,Naloxone,,F,1,cell suppressed for small numbers
+Nevada,2018,Naloxone,128,F,,
+Nevada,2019,Naloxone,247,F,,
+Orange,2011,Naloxone,,F,1,cell suppressed for small numbers
+Orange,2013,Naloxone,,F,1,cell suppressed for small numbers
+Orange,2014,Naloxone,,F,1,cell suppressed for small numbers
+Orange,2015,Naloxone,,F,1,cell suppressed for small numbers
+Orange,2016,Naloxone,,F,1,cell suppressed for small numbers
+Orange,2017,Naloxone,99,F,,
+Orange,2018,Naloxone,554,F,,
+Orange,2019,Naloxone,3524,F,,
+Placer,2015,Naloxone,,F,1,cell suppressed for small numbers
+Placer,2016,Naloxone,17,F,,
+Placer,2017,Naloxone,30,F,,
+Placer,2018,Naloxone,186,F,,
+Placer,2019,Naloxone,602,F,,
+Plumas / Sierra,2016,Naloxone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2017,Naloxone,12,F,,
+Plumas / Sierra,2018,Naloxone,22,F,,
+Plumas / Sierra,2019,Naloxone,107,F,,
+Riverside,2014,Naloxone,,F,1,cell suppressed for small numbers
+Riverside,2015,Naloxone,,F,1,cell suppressed for small numbers
+Riverside,2016,Naloxone,15,F,,
+Riverside,2017,Naloxone,146,F,,
+Riverside,2018,Naloxone,646,F,,
+Riverside,2019,Naloxone,4966,F,,
+Sacramento,2013,Naloxone,,F,1,cell suppressed for small numbers
+Sacramento,2014,Naloxone,,F,1,cell suppressed for small numbers
+Sacramento,2015,Naloxone,,F,1,cell suppressed for small numbers
+Sacramento,2016,Naloxone,18,F,,
+Sacramento,2017,Naloxone,85,F,,
+Sacramento,2018,Naloxone,873,F,,
+Sacramento,2019,Naloxone,3627,F,,
+San Benito,2017,Naloxone,,F,1,cell suppressed for small numbers
+San Benito,2018,Naloxone,,F,1,cell suppressed for small numbers
+San Benito,2019,Naloxone,38,F,,
+San Bernardino,2014,Naloxone,,F,1,cell suppressed for small numbers
+San Bernardino,2015,Naloxone,,F,1,cell suppressed for small numbers
+San Bernardino,2016,Naloxone,37,F,,
+San Bernardino,2017,Naloxone,117,F,,
+San Bernardino,2018,Naloxone,580,F,,
+San Bernardino,2019,Naloxone,5037,F,,
+San Diego,2012,Naloxone,,F,1,cell suppressed for small numbers
+San Diego,2014,Naloxone,,F,1,cell suppressed for small numbers
+San Diego,2015,Naloxone,20,F,,
+San Diego,2016,Naloxone,49,F,,
+San Diego,2017,Naloxone,428,F,,
+San Diego,2018,Naloxone,1302,F,,
+San Diego,2019,Naloxone,4027,F,,
+San Francisco,2012,Naloxone,,F,1,cell suppressed for small numbers
+San Francisco,2013,Naloxone,73,F,,
+San Francisco,2014,Naloxone,302,F,,
+San Francisco,2015,Naloxone,233,F,,
+San Francisco,2016,Naloxone,496,F,,
+San Francisco,2017,Naloxone,672,F,,
+San Francisco,2018,Naloxone,1310,F,,
+San Francisco,2019,Naloxone,2873,F,,
+San Joaquin,2010,Naloxone,14,F,,
+San Joaquin,2011,Naloxone,16,F,,
+San Joaquin,2012,Naloxone,31,F,,
+San Joaquin,2013,Naloxone,23,F,,
+San Joaquin,2014,Naloxone,37,F,,
+San Joaquin,2016,Naloxone,,F,1,cell suppressed for small numbers
+San Joaquin,2017,Naloxone,12,F,,
+San Joaquin,2018,Naloxone,91,F,,
+San Joaquin,2019,Naloxone,667,F,,
+San Luis Obispo,2013,Naloxone,,F,1,cell suppressed for small numbers
+San Luis Obispo,2014,Naloxone,12,F,,
+San Luis Obispo,2015,Naloxone,128,F,,
+San Luis Obispo,2016,Naloxone,76,F,,
+San Luis Obispo,2017,Naloxone,249,F,,
+San Luis Obispo,2018,Naloxone,183,F,,
+San Luis Obispo,2019,Naloxone,534,F,,
+San Mateo,2010,Naloxone,,F,1,cell suppressed for small numbers
+San Mateo,2011,Naloxone,,F,1,cell suppressed for small numbers
+San Mateo,2014,Naloxone,,F,1,cell suppressed for small numbers
+San Mateo,2015,Naloxone,,F,1,cell suppressed for small numbers
+San Mateo,2016,Naloxone,12,F,,
+San Mateo,2017,Naloxone,41,F,,
+San Mateo,2018,Naloxone,122,F,,
+San Mateo,2019,Naloxone,391,F,,
+Santa Barbara,2015,Naloxone,41,F,,
+Santa Barbara,2016,Naloxone,,F,1,cell suppressed for small numbers
+Santa Barbara,2017,Naloxone,88,F,,
+Santa Barbara,2018,Naloxone,164,F,,
+Santa Barbara,2019,Naloxone,1036,F,,
+Santa Clara,2014,Naloxone,,F,1,cell suppressed for small numbers
+Santa Clara,2015,Naloxone,35,F,,
+Santa Clara,2016,Naloxone,102,F,,
+Santa Clara,2017,Naloxone,146,F,,
+Santa Clara,2018,Naloxone,228,F,,
+Santa Clara,2019,Naloxone,1680,F,,
+Santa Cruz,2011,Naloxone,,F,1,cell suppressed for small numbers
+Santa Cruz,2015,Naloxone,,F,1,cell suppressed for small numbers
+Santa Cruz,2016,Naloxone,12,F,,
+Santa Cruz,2017,Naloxone,67,F,,
+Santa Cruz,2018,Naloxone,117,F,,
+Santa Cruz,2019,Naloxone,399,F,,
+Shasta,2015,Naloxone,,F,1,cell suppressed for small numbers
+Shasta,2016,Naloxone,,F,1,cell suppressed for small numbers
+Shasta,2017,Naloxone,62,F,,
+Shasta,2018,Naloxone,192,F,,
+Shasta,2019,Naloxone,474,F,,
+Siskiyou / Trinity,2016,Naloxone,,F,1,cell suppressed for small numbers
+Siskiyou / Trinity,2017,Naloxone,15,F,,
+Siskiyou / Trinity,2018,Naloxone,78,F,,
+Siskiyou / Trinity,2019,Naloxone,130,F,,
+Solano,2013,Naloxone,,F,1,cell suppressed for small numbers
+Solano,2015,Naloxone,,F,1,cell suppressed for small numbers
+Solano,2016,Naloxone,,F,1,cell suppressed for small numbers
+Solano,2017,Naloxone,42,F,,
+Solano,2018,Naloxone,124,F,,
+Solano,2019,Naloxone,702,F,,
+Sonoma,2013,Naloxone,,F,1,cell suppressed for small numbers
+Sonoma,2015,Naloxone,,F,1,cell suppressed for small numbers
+Sonoma,2016,Naloxone,43,F,,
+Sonoma,2017,Naloxone,230,F,,
+Sonoma,2018,Naloxone,357,F,,
+Sonoma,2019,Naloxone,1059,F,,
+Stanislaus,2013,Naloxone,16,F,,
+Stanislaus,2014,Naloxone,23,F,,
+Stanislaus,2015,Naloxone,,F,1,cell suppressed for small numbers
+Stanislaus,2016,Naloxone,22,F,,
+Stanislaus,2017,Naloxone,76,F,,
+Stanislaus,2018,Naloxone,275,F,,
+Stanislaus,2019,Naloxone,1196,F,,
+Sutter,2016,Naloxone,,F,1,cell suppressed for small numbers
+Sutter,2017,Naloxone,13,F,,
+Sutter,2018,Naloxone,28,F,,
+Sutter,2019,Naloxone,194,F,,
+Tehama,2016,Naloxone,,F,1,cell suppressed for small numbers
+Tehama,2017,Naloxone,,F,1,cell suppressed for small numbers
+Tehama,2018,Naloxone,29,F,,
+Tehama,2019,Naloxone,173,F,,
+Tulare,2016,Naloxone,,F,1,cell suppressed for small numbers
+Tulare,2017,Naloxone,,F,1,cell suppressed for small numbers
+Tulare,2018,Naloxone,87,F,,
+Tulare,2019,Naloxone,933,F,,
+Tuolumne,2016,Naloxone,14,F,,
+Tuolumne,2017,Naloxone,26,F,,
+Tuolumne,2018,Naloxone,24,F,,
+Tuolumne,2019,Naloxone,162,F,,
+Ventura,2016,Naloxone,56,F,,
+Ventura,2017,Naloxone,127,F,,
+Ventura,2018,Naloxone,213,F,,
+Ventura,2019,Naloxone,827,F,,
+Yolo,2013,Naloxone,,F,1,cell suppressed for small numbers
+Yolo,2016,Naloxone,,F,1,cell suppressed for small numbers
+Yolo,2017,Naloxone,33,F,,
+Yolo,2018,Naloxone,79,F,,
+Yolo,2019,Naloxone,364,F,,
+Yuba,2014,Naloxone,,F,1,cell suppressed for small numbers
+Yuba,2016,Naloxone,,F,1,cell suppressed for small numbers
+Yuba,2017,Naloxone,14,F,,
+Yuba,2018,Naloxone,48,F,,
+Yuba,2019,Naloxone,253,F,,
+Statewide,2010,Naltrexone,320,F,,
+Statewide,2011,Naltrexone,341,F,,
+Statewide,2012,Naltrexone,357,F,,
+Statewide,2013,Naltrexone,344,F,,
+Statewide,2014,Naltrexone,1881,F,,
+Statewide,2015,Naltrexone,3446,F,,
+Statewide,2016,Naltrexone,5017,F,,
+Statewide,2017,Naltrexone,7811,F,,
+Statewide,2018,Naltrexone,10845,F,,
+Statewide,2019,Naltrexone,14522,F,,
+Alameda,2010,Naltrexone,11,F,,
+Alameda,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Alameda,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Alameda,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Alameda,2014,Naltrexone,65,F,,
+Alameda,2015,Naltrexone,136,F,,
+Alameda,2016,Naltrexone,278,F,,
+Alameda,2017,Naltrexone,359,F,,
+Alameda,2018,Naltrexone,485,F,,
+Alameda,2019,Naltrexone,605,F,,
+Amador / Alpine,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2017,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2018,Naltrexone,,F,1,cell suppressed for small numbers
+Amador / Alpine,2019,Naltrexone,,F,1,cell suppressed for small numbers
+Butte,2010,Naltrexone,30,F,,
+Butte,2011,Naltrexone,27,F,,
+Butte,2012,Naltrexone,17,F,,
+Butte,2013,Naltrexone,16,F,,
+Butte,2014,Naltrexone,40,F,,
+Butte,2015,Naltrexone,57,F,,
+Butte,2016,Naltrexone,97,F,,
+Butte,2017,Naltrexone,117,F,,
+Butte,2018,Naltrexone,151,F,,
+Butte,2019,Naltrexone,149,F,,
+Calaveras,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Calaveras,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Calaveras,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Calaveras,2017,Naltrexone,13,F,,
+Calaveras,2018,Naltrexone,17,F,,
+Calaveras,2019,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2017,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2018,Naltrexone,,F,1,cell suppressed for small numbers
+Colusa,2019,Naltrexone,,F,1,cell suppressed for small numbers
+Contra Costa,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Contra Costa,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Contra Costa,2012,Naltrexone,13,F,,
+Contra Costa,2013,Naltrexone,11,F,,
+Contra Costa,2014,Naltrexone,62,F,,
+Contra Costa,2015,Naltrexone,107,F,,
+Contra Costa,2016,Naltrexone,181,F,,
+Contra Costa,2017,Naltrexone,281,F,,
+Contra Costa,2018,Naltrexone,350,F,,
+Contra Costa,2019,Naltrexone,395,F,,
+Del Norte,2014,Naltrexone,14,F,,
+Del Norte,2015,Naltrexone,13,F,,
+Del Norte,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Del Norte,2017,Naltrexone,18,F,,
+Del Norte,2018,Naltrexone,26,F,,
+Del Norte,2019,Naltrexone,20,F,,
+El Dorado,2010,Naltrexone,,F,1,cell suppressed for small numbers
+El Dorado,2011,Naltrexone,,F,1,cell suppressed for small numbers
+El Dorado,2013,Naltrexone,,F,1,cell suppressed for small numbers
+El Dorado,2014,Naltrexone,,F,1,cell suppressed for small numbers
+El Dorado,2015,Naltrexone,23,F,,
+El Dorado,2016,Naltrexone,40,F,,
+El Dorado,2017,Naltrexone,40,F,,
+El Dorado,2018,Naltrexone,47,F,,
+El Dorado,2019,Naltrexone,126,F,,
+Fresno,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Fresno,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Fresno,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Fresno,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Fresno,2014,Naltrexone,23,F,,
+Fresno,2015,Naltrexone,37,F,,
+Fresno,2016,Naltrexone,52,F,,
+Fresno,2017,Naltrexone,75,F,,
+Fresno,2018,Naltrexone,124,F,,
+Fresno,2019,Naltrexone,178,F,,
+Glenn,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2017,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2018,Naltrexone,,F,1,cell suppressed for small numbers
+Glenn,2019,Naltrexone,14,F,,
+Humboldt,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Humboldt,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Humboldt,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Humboldt,2014,Naltrexone,12,F,,
+Humboldt,2015,Naltrexone,35,F,,
+Humboldt,2016,Naltrexone,66,F,,
+Humboldt,2017,Naltrexone,97,F,,
+Humboldt,2018,Naltrexone,229,F,,
+Humboldt,2019,Naltrexone,269,F,,
+Imperial,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Imperial,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Imperial,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Imperial,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Imperial,2014,Naltrexone,13,F,,
+Imperial,2015,Naltrexone,29,F,,
+Imperial,2016,Naltrexone,28,F,,
+Imperial,2017,Naltrexone,33,F,,
+Imperial,2018,Naltrexone,45,F,,
+Imperial,2019,Naltrexone,72,F,,
+Inyo / Mono,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Inyo / Mono,2017,Naltrexone,11,F,,
+Inyo / Mono,2018,Naltrexone,15,F,,
+Inyo / Mono,2019,Naltrexone,26,F,,
+Kern,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Kern,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Kern,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Kern,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Kern,2014,Naltrexone,20,F,,
+Kern,2015,Naltrexone,33,F,,
+Kern,2016,Naltrexone,53,F,,
+Kern,2017,Naltrexone,72,F,,
+Kern,2018,Naltrexone,106,F,,
+Kern,2019,Naltrexone,156,F,,
+Kings,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Kings,2017,Naltrexone,16,F,,
+Kings,2018,Naltrexone,21,F,,
+Kings,2019,Naltrexone,31,F,,
+Lake,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Lake,2014,Naltrexone,15,F,,
+Lake,2015,Naltrexone,26,F,,
+Lake,2016,Naltrexone,43,F,,
+Lake,2017,Naltrexone,52,F,,
+Lake,2018,Naltrexone,60,F,,
+Lake,2019,Naltrexone,87,F,,
+Lassen / Modoc,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Lassen / Modoc,2015,Naltrexone,16,F,,
+Lassen / Modoc,2016,Naltrexone,12,F,,
+Lassen / Modoc,2017,Naltrexone,16,F,,
+Lassen / Modoc,2018,Naltrexone,23,F,,
+Lassen / Modoc,2019,Naltrexone,36,F,,
+Los Angeles,2010,Naltrexone,47,F,,
+Los Angeles,2011,Naltrexone,47,F,,
+Los Angeles,2012,Naltrexone,38,F,,
+Los Angeles,2013,Naltrexone,46,F,,
+Los Angeles,2014,Naltrexone,322,F,,
+Los Angeles,2015,Naltrexone,563,F,,
+Los Angeles,2016,Naltrexone,806,F,,
+Los Angeles,2017,Naltrexone,1393,F,,
+Los Angeles,2018,Naltrexone,2208,F,,
+Los Angeles,2019,Naltrexone,3368,F,,
+Madera,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2017,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2018,Naltrexone,,F,1,cell suppressed for small numbers
+Madera,2019,Naltrexone,19,F,,
+Marin,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Marin,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Marin,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Marin,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Marin,2014,Naltrexone,30,F,,
+Marin,2015,Naltrexone,76,F,,
+Marin,2016,Naltrexone,78,F,,
+Marin,2017,Naltrexone,131,F,,
+Marin,2018,Naltrexone,158,F,,
+Marin,2019,Naltrexone,136,F,,
+Mendocino,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Mendocino,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Mendocino,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Mendocino,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Mendocino,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Mendocino,2015,Naltrexone,16,F,,
+Mendocino,2016,Naltrexone,31,F,,
+Mendocino,2017,Naltrexone,50,F,,
+Mendocino,2018,Naltrexone,45,F,,
+Mendocino,2019,Naltrexone,71,F,,
+Merced/Mariposa,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Merced/Mariposa,2015,Naltrexone,15,F,,
+Merced/Mariposa,2016,Naltrexone,15,F,,
+Merced/Mariposa,2017,Naltrexone,28,F,,
+Merced/Mariposa,2018,Naltrexone,33,F,,
+Merced/Mariposa,2019,Naltrexone,32,F,,
+Monterey,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Monterey,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Monterey,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Monterey,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Monterey,2014,Naltrexone,54,F,,
+Monterey,2015,Naltrexone,133,F,,
+Monterey,2016,Naltrexone,168,F,,
+Monterey,2017,Naltrexone,155,F,,
+Monterey,2018,Naltrexone,177,F,,
+Monterey,2019,Naltrexone,201,F,,
+Napa,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Napa,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Napa,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Napa,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Napa,2014,Naltrexone,15,F,,
+Napa,2015,Naltrexone,16,F,,
+Napa,2016,Naltrexone,20,F,,
+Napa,2017,Naltrexone,49,F,,
+Napa,2018,Naltrexone,42,F,,
+Napa,2019,Naltrexone,58,F,,
+Nevada,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Nevada,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Nevada,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Nevada,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Nevada,2015,Naltrexone,32,F,,
+Nevada,2016,Naltrexone,39,F,,
+Nevada,2017,Naltrexone,51,F,,
+Nevada,2018,Naltrexone,56,F,,
+Nevada,2019,Naltrexone,81,F,,
+Orange,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Orange,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Orange,2012,Naltrexone,12,F,,
+Orange,2013,Naltrexone,12,F,,
+Orange,2014,Naltrexone,77,F,,
+Orange,2015,Naltrexone,191,F,,
+Orange,2016,Naltrexone,286,F,,
+Orange,2017,Naltrexone,497,F,,
+Orange,2018,Naltrexone,602,F,,
+Orange,2019,Naltrexone,730,F,,
+Placer,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Placer,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Placer,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Placer,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Placer,2014,Naltrexone,16,F,,
+Placer,2015,Naltrexone,29,F,,
+Placer,2016,Naltrexone,65,F,,
+Placer,2017,Naltrexone,77,F,,
+Placer,2018,Naltrexone,143,F,,
+Placer,2019,Naltrexone,143,F,,
+Plumas / Sierra,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Plumas / Sierra,2017,Naltrexone,12,F,,
+Plumas / Sierra,2018,Naltrexone,19,F,,
+Plumas / Sierra,2019,Naltrexone,21,F,,
+Riverside,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Riverside,2011,Naltrexone,11,F,,
+Riverside,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Riverside,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Riverside,2014,Naltrexone,78,F,,
+Riverside,2015,Naltrexone,126,F,,
+Riverside,2016,Naltrexone,156,F,,
+Riverside,2017,Naltrexone,389,F,,
+Riverside,2018,Naltrexone,558,F,,
+Riverside,2019,Naltrexone,856,F,,
+Sacramento,2010,Naltrexone,17,F,,
+Sacramento,2011,Naltrexone,18,F,,
+Sacramento,2012,Naltrexone,20,F,,
+Sacramento,2013,Naltrexone,20,F,,
+Sacramento,2014,Naltrexone,60,F,,
+Sacramento,2015,Naltrexone,108,F,,
+Sacramento,2016,Naltrexone,190,F,,
+Sacramento,2017,Naltrexone,261,F,,
+Sacramento,2018,Naltrexone,388,F,,
+Sacramento,2019,Naltrexone,539,F,,
+San Benito,2014,Naltrexone,,F,1,cell suppressed for small numbers
+San Benito,2016,Naltrexone,,F,1,cell suppressed for small numbers
+San Benito,2017,Naltrexone,,F,1,cell suppressed for small numbers
+San Benito,2018,Naltrexone,,F,1,cell suppressed for small numbers
+San Benito,2019,Naltrexone,,F,1,cell suppressed for small numbers
+San Bernardino,2010,Naltrexone,,F,1,cell suppressed for small numbers
+San Bernardino,2011,Naltrexone,,F,1,cell suppressed for small numbers
+San Bernardino,2012,Naltrexone,,F,1,cell suppressed for small numbers
+San Bernardino,2013,Naltrexone,,F,1,cell suppressed for small numbers
+San Bernardino,2014,Naltrexone,58,F,,
+San Bernardino,2015,Naltrexone,125,F,,
+San Bernardino,2016,Naltrexone,150,F,,
+San Bernardino,2017,Naltrexone,303,F,,
+San Bernardino,2018,Naltrexone,535,F,,
+San Bernardino,2019,Naltrexone,747,F,,
+San Diego,2010,Naltrexone,48,F,,
+San Diego,2011,Naltrexone,57,F,,
+San Diego,2012,Naltrexone,79,F,,
+San Diego,2013,Naltrexone,46,F,,
+San Diego,2014,Naltrexone,195,F,,
+San Diego,2015,Naltrexone,356,F,,
+San Diego,2016,Naltrexone,568,F,,
+San Diego,2017,Naltrexone,890,F,,
+San Diego,2018,Naltrexone,1158,F,,
+San Diego,2019,Naltrexone,1609,F,,
+San Francisco,2010,Naltrexone,29,F,,
+San Francisco,2011,Naltrexone,28,F,,
+San Francisco,2012,Naltrexone,27,F,,
+San Francisco,2013,Naltrexone,37,F,,
+San Francisco,2014,Naltrexone,257,F,,
+San Francisco,2015,Naltrexone,347,F,,
+San Francisco,2016,Naltrexone,447,F,,
+San Francisco,2017,Naltrexone,582,F,,
+San Francisco,2018,Naltrexone,723,F,,
+San Francisco,2019,Naltrexone,797,F,,
+San Joaquin,2010,Naltrexone,,F,1,cell suppressed for small numbers
+San Joaquin,2011,Naltrexone,,F,1,cell suppressed for small numbers
+San Joaquin,2012,Naltrexone,,F,1,cell suppressed for small numbers
+San Joaquin,2013,Naltrexone,,F,1,cell suppressed for small numbers
+San Joaquin,2014,Naltrexone,,F,1,cell suppressed for small numbers
+San Joaquin,2015,Naltrexone,13,F,,
+San Joaquin,2016,Naltrexone,24,F,,
+San Joaquin,2017,Naltrexone,55,F,,
+San Joaquin,2018,Naltrexone,90,F,,
+San Joaquin,2019,Naltrexone,175,F,,
+San Luis Obispo,2010,Naltrexone,,F,1,cell suppressed for small numbers
+San Luis Obispo,2011,Naltrexone,,F,1,cell suppressed for small numbers
+San Luis Obispo,2012,Naltrexone,,F,1,cell suppressed for small numbers
+San Luis Obispo,2013,Naltrexone,,F,1,cell suppressed for small numbers
+San Luis Obispo,2014,Naltrexone,25,F,,
+San Luis Obispo,2015,Naltrexone,55,F,,
+San Luis Obispo,2016,Naltrexone,58,F,,
+San Luis Obispo,2017,Naltrexone,83,F,,
+San Luis Obispo,2018,Naltrexone,121,F,,
+San Luis Obispo,2019,Naltrexone,157,F,,
+San Mateo,2010,Naltrexone,,F,1,cell suppressed for small numbers
+San Mateo,2011,Naltrexone,16,F,,
+San Mateo,2012,Naltrexone,20,F,,
+San Mateo,2013,Naltrexone,23,F,,
+San Mateo,2014,Naltrexone,63,F,,
+San Mateo,2015,Naltrexone,123,F,,
+San Mateo,2016,Naltrexone,240,F,,
+San Mateo,2017,Naltrexone,283,F,,
+San Mateo,2018,Naltrexone,319,F,,
+San Mateo,2019,Naltrexone,344,F,,
+Santa Barbara,2010,Naltrexone,17,F,,
+Santa Barbara,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Barbara,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Barbara,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Barbara,2014,Naltrexone,22,F,,
+Santa Barbara,2015,Naltrexone,47,F,,
+Santa Barbara,2016,Naltrexone,90,F,,
+Santa Barbara,2017,Naltrexone,127,F,,
+Santa Barbara,2018,Naltrexone,156,F,,
+Santa Barbara,2019,Naltrexone,208,F,,
+Santa Clara,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Clara,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Clara,2012,Naltrexone,11,F,,
+Santa Clara,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Clara,2014,Naltrexone,56,F,,
+Santa Clara,2015,Naltrexone,87,F,,
+Santa Clara,2016,Naltrexone,117,F,,
+Santa Clara,2017,Naltrexone,237,F,,
+Santa Clara,2018,Naltrexone,335,F,,
+Santa Clara,2019,Naltrexone,375,F,,
+Santa Cruz,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Cruz,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Cruz,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Cruz,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Santa Cruz,2014,Naltrexone,46,F,,
+Santa Cruz,2015,Naltrexone,113,F,,
+Santa Cruz,2016,Naltrexone,131,F,,
+Santa Cruz,2017,Naltrexone,181,F,,
+Santa Cruz,2018,Naltrexone,200,F,,
+Santa Cruz,2019,Naltrexone,260,F,,
+Shasta,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Shasta,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Shasta,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Shasta,2014,Naltrexone,19,F,,
+Shasta,2015,Naltrexone,50,F,,
+Shasta,2016,Naltrexone,63,F,,
+Shasta,2017,Naltrexone,86,F,,
+Shasta,2018,Naltrexone,115,F,,
+Shasta,2019,Naltrexone,191,F,,
+Siskiyou / Trinity,2015,Naltrexone,14,F,,
+Siskiyou / Trinity,2016,Naltrexone,16,F,,
+Siskiyou / Trinity,2017,Naltrexone,35,F,,
+Siskiyou / Trinity,2018,Naltrexone,56,F,,
+Siskiyou / Trinity,2019,Naltrexone,55,F,,
+Solano,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Solano,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Solano,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Solano,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Solano,2014,Naltrexone,14,F,,
+Solano,2015,Naltrexone,22,F,,
+Solano,2016,Naltrexone,51,F,,
+Solano,2017,Naltrexone,73,F,,
+Solano,2018,Naltrexone,110,F,,
+Solano,2019,Naltrexone,126,F,,
+Sonoma,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Sonoma,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Sonoma,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Sonoma,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Sonoma,2014,Naltrexone,36,F,,
+Sonoma,2015,Naltrexone,58,F,,
+Sonoma,2016,Naltrexone,85,F,,
+Sonoma,2017,Naltrexone,157,F,,
+Sonoma,2018,Naltrexone,199,F,,
+Sonoma,2019,Naltrexone,278,F,,
+Stanislaus,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Stanislaus,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Stanislaus,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Stanislaus,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Stanislaus,2014,Naltrexone,14,F,,
+Stanislaus,2015,Naltrexone,13,F,,
+Stanislaus,2016,Naltrexone,23,F,,
+Stanislaus,2017,Naltrexone,28,F,,
+Stanislaus,2018,Naltrexone,38,F,,
+Stanislaus,2019,Naltrexone,82,F,,
+Sutter,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Sutter,2017,Naltrexone,26,F,,
+Sutter,2018,Naltrexone,20,F,,
+Sutter,2019,Naltrexone,17,F,,
+Tehama,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Tehama,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Tehama,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Tehama,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Tehama,2017,Naltrexone,12,F,,
+Tehama,2018,Naltrexone,32,F,,
+Tehama,2019,Naltrexone,62,F,,
+Tulare,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Tulare,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Tulare,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Tulare,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Tulare,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Tulare,2015,Naltrexone,34,F,,
+Tulare,2016,Naltrexone,21,F,,
+Tulare,2017,Naltrexone,31,F,,
+Tulare,2018,Naltrexone,66,F,,
+Tulare,2019,Naltrexone,68,F,,
+Tuolumne,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Tuolumne,2017,Naltrexone,13,F,,
+Tuolumne,2018,Naltrexone,20,F,,
+Tuolumne,2019,Naltrexone,22,F,,
+Ventura,2010,Naltrexone,11,F,,
+Ventura,2011,Naltrexone,12,F,,
+Ventura,2012,Naltrexone,15,F,,
+Ventura,2013,Naltrexone,17,F,,
+Ventura,2014,Naltrexone,67,F,,
+Ventura,2015,Naltrexone,92,F,,
+Ventura,2016,Naltrexone,132,F,,
+Ventura,2017,Naltrexone,218,F,,
+Ventura,2018,Naltrexone,292,F,,
+Ventura,2019,Naltrexone,358,F,,
+Yolo,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Yolo,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Yolo,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Yolo,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Yolo,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Yolo,2015,Naltrexone,16,F,,
+Yolo,2016,Naltrexone,25,F,,
+Yolo,2017,Naltrexone,64,F,,
+Yolo,2018,Naltrexone,81,F,,
+Yolo,2019,Naltrexone,119,F,,
+Yuba,2010,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2011,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2012,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2013,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2014,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2015,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2016,Naltrexone,,F,1,cell suppressed for small numbers
+Yuba,2017,Naltrexone,12,F,,
+Yuba,2018,Naltrexone,12,F,,
+Yuba,2019,Naltrexone,24,F,,
