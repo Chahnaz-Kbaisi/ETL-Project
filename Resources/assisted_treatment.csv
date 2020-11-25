@@ -1,1384 +1,1384 @@
-,County,Year,Beneficiaries
-0,Statewide,2010,1265.0
-1,Statewide,2011,1680.0
-2,Statewide,2012,2099.0
-3,Statewide,2013,2129.0
-4,Statewide,2014,5000.0
-5,Statewide,2015,10365.0
-6,Statewide,2016,15538.0
-7,Statewide,2017,21753.0
-8,Statewide,2018,25263.0
-9,Statewide,2019,30627.0
-10,Alameda,2010,22.0
-11,Alameda,2011,28.0
-12,Alameda,2012,51.0
-13,Alameda,2013,57.0
-14,Alameda,2014,117.0
-15,Alameda,2015,168.0
-16,Alameda,2016,259.0
-17,Alameda,2017,468.0
-18,Alameda,2018,806.0
-19,Alameda,2019,1144.0
-20,Amador / Alpine,2010,13.0
-21,Amador / Alpine,2011,18.0
-22,Amador / Alpine,2012,13.0
-24,Amador / Alpine,2014,19.0
-25,Amador / Alpine,2015,32.0
-26,Amador / Alpine,2016,52.0
-27,Amador / Alpine,2017,56.0
-28,Amador / Alpine,2018,80.0
-29,Amador / Alpine,2019,77.0
-30,Butte,2010,75.0
-31,Butte,2011,91.0
-32,Butte,2012,116.0
-33,Butte,2013,126.0
-34,Butte,2014,224.0
-35,Butte,2015,345.0
-36,Butte,2016,450.0
-37,Butte,2017,514.0
-38,Butte,2018,622.0
-39,Butte,2019,872.0
-44,Calaveras,2014,14.0
-45,Calaveras,2015,16.0
-46,Calaveras,2016,51.0
-47,Calaveras,2017,57.0
-48,Calaveras,2018,78.0
-49,Calaveras,2019,83.0
-58,Colusa,2018,11.0
-59,Colusa,2019,17.0
-60,Contra Costa,2010,40.0
-61,Contra Costa,2011,51.0
-62,Contra Costa,2012,69.0
-63,Contra Costa,2013,71.0
-64,Contra Costa,2014,281.0
-65,Contra Costa,2015,399.0
-66,Contra Costa,2016,505.0
-67,Contra Costa,2017,618.0
-68,Contra Costa,2018,855.0
-69,Contra Costa,2019,1130.0
-70,Del Norte,2010,16.0
-71,Del Norte,2011,21.0
-72,Del Norte,2012,24.0
-73,Del Norte,2013,30.0
-74,Del Norte,2014,56.0
-75,Del Norte,2015,88.0
-76,Del Norte,2016,115.0
-77,Del Norte,2017,139.0
-78,Del Norte,2018,155.0
-79,Del Norte,2019,172.0
-80,El Dorado,2010,24.0
-81,El Dorado,2011,32.0
-82,El Dorado,2012,43.0
-83,El Dorado,2013,55.0
-84,El Dorado,2014,90.0
-85,El Dorado,2015,134.0
-86,El Dorado,2016,224.0
-87,El Dorado,2017,355.0
-88,El Dorado,2018,384.0
-89,El Dorado,2019,550.0
-90,Fresno,2010,12.0
-91,Fresno,2011,26.0
-92,Fresno,2012,23.0
-93,Fresno,2013,11.0
-94,Fresno,2014,36.0
-95,Fresno,2015,69.0
-96,Fresno,2016,228.0
-97,Fresno,2017,541.0
-98,Fresno,2018,414.0
-99,Fresno,2019,433.0
-106,Glenn,2016,32.0
-107,Glenn,2017,29.0
-108,Glenn,2018,34.0
-109,Glenn,2019,50.0
-110,Humboldt,2010,82.0
-111,Humboldt,2011,93.0
-112,Humboldt,2012,114.0
-113,Humboldt,2013,130.0
-114,Humboldt,2014,234.0
-115,Humboldt,2015,365.0
-116,Humboldt,2016,526.0
-117,Humboldt,2017,684.0
-118,Humboldt,2018,927.0
-119,Humboldt,2019,994.0
-121,Imperial,2011,24.0
-122,Imperial,2012,22.0
-123,Imperial,2013,27.0
-124,Imperial,2014,16.0
-125,Imperial,2015,22.0
-126,Imperial,2016,39.0
-127,Imperial,2017,50.0
-128,Imperial,2018,51.0
-129,Imperial,2019,138.0
-132,Inyo / Mono,2012,11.0
-133,Inyo / Mono,2013,14.0
-134,Inyo / Mono,2014,13.0
-135,Inyo / Mono,2015,13.0
-136,Inyo / Mono,2016,21.0
-138,Inyo / Mono,2018,36.0
-139,Inyo / Mono,2019,56.0
-142,Kern,2012,15.0
-143,Kern,2013,12.0
-144,Kern,2014,22.0
-145,Kern,2015,80.0
-146,Kern,2016,321.0
-147,Kern,2017,693.0
-148,Kern,2018,527.0
-149,Kern,2019,674.0
-154,Kings,2015,12.0
-155,Kings,2016,43.0
-156,Kings,2017,98.0
-157,Kings,2018,97.0
-158,Kings,2019,123.0
-159,Lake,2010,49.0
-160,Lake,2011,92.0
-161,Lake,2012,111.0
-162,Lake,2013,112.0
-163,Lake,2014,170.0
-164,Lake,2015,239.0
-165,Lake,2016,310.0
-166,Lake,2017,362.0
-167,Lake,2018,409.0
-168,Lake,2019,441.0
-169,Lassen / Modoc,2010,13.0
-171,Lassen / Modoc,2012,16.0
-172,Lassen / Modoc,2013,16.0
-173,Lassen / Modoc,2014,38.0
-174,Lassen / Modoc,2015,87.0
-175,Lassen / Modoc,2016,128.0
-176,Lassen / Modoc,2017,120.0
-177,Lassen / Modoc,2018,86.0
-178,Lassen / Modoc,2019,107.0
-179,Los Angeles,2010,62.0
-180,Los Angeles,2011,79.0
-181,Los Angeles,2012,88.0
-182,Los Angeles,2013,94.0
-183,Los Angeles,2014,369.0
-184,Los Angeles,2015,1550.0
-185,Los Angeles,2016,1940.0
-186,Los Angeles,2017,2850.0
-187,Los Angeles,2018,3682.0
-188,Los Angeles,2019,4214.0
-194,Madera,2015,12.0
-195,Madera,2016,37.0
-196,Madera,2017,38.0
-197,Madera,2018,53.0
-198,Madera,2019,45.0
-199,Marin,2010,13.0
-200,Marin,2011,12.0
-201,Marin,2012,18.0
-202,Marin,2013,22.0
-203,Marin,2014,44.0
-204,Marin,2015,79.0
-205,Marin,2016,122.0
-206,Marin,2017,120.0
-207,Marin,2018,136.0
-208,Marin,2019,176.0
-209,Mendocino,2010,46.0
-210,Mendocino,2011,60.0
-211,Mendocino,2012,61.0
-212,Mendocino,2013,67.0
-213,Mendocino,2014,166.0
-214,Mendocino,2015,229.0
-215,Mendocino,2016,295.0
-216,Mendocino,2017,366.0
-217,Mendocino,2018,408.0
-218,Mendocino,2019,433.0
-221,Merced/Mariposa,2012,12.0
-224,Merced/Mariposa,2015,15.0
-225,Merced/Mariposa,2016,16.0
-226,Merced/Mariposa,2017,51.0
-227,Merced/Mariposa,2018,71.0
-228,Merced/Mariposa,2019,79.0
-229,Monterey,2010,23.0
-230,Monterey,2011,23.0
-231,Monterey,2012,37.0
-232,Monterey,2013,42.0
-233,Monterey,2014,121.0
-234,Monterey,2015,217.0
-235,Monterey,2016,348.0
-236,Monterey,2017,420.0
-237,Monterey,2018,556.0
-238,Monterey,2019,602.0
-243,Napa,2014,15.0
-244,Napa,2015,44.0
-245,Napa,2016,61.0
-246,Napa,2017,79.0
-247,Napa,2018,114.0
-248,Napa,2019,138.0
-249,Nevada,2010,22.0
-250,Nevada,2011,23.0
-251,Nevada,2012,21.0
-252,Nevada,2013,27.0
-253,Nevada,2014,39.0
-254,Nevada,2015,61.0
-255,Nevada,2016,125.0
-256,Nevada,2017,169.0
-257,Nevada,2018,264.0
-258,Nevada,2019,367.0
-259,Orange,2010,29.0
-260,Orange,2011,31.0
-261,Orange,2012,29.0
-262,Orange,2013,41.0
-263,Orange,2014,143.0
-264,Orange,2015,472.0
-265,Orange,2016,956.0
-266,Orange,2017,1329.0
-267,Orange,2018,1473.0
-268,Orange,2019,1735.0
-269,Placer,2010,11.0
-270,Placer,2011,15.0
-271,Placer,2012,25.0
-272,Placer,2013,26.0
-273,Placer,2014,59.0
-274,Placer,2015,106.0
-275,Placer,2016,195.0
-276,Placer,2017,329.0
-277,Placer,2018,412.0
-278,Placer,2019,468.0
-285,Plumas / Sierra,2017,51.0
-286,Plumas / Sierra,2018,63.0
-287,Plumas / Sierra,2019,93.0
-288,Riverside,2010,68.0
-289,Riverside,2011,93.0
-290,Riverside,2012,96.0
-291,Riverside,2013,100.0
-292,Riverside,2014,213.0
-293,Riverside,2015,467.0
-294,Riverside,2016,877.0
-295,Riverside,2017,1386.0
-296,Riverside,2018,1378.0
-297,Riverside,2019,1788.0
-298,Sacramento,2010,46.0
-299,Sacramento,2011,76.0
-300,Sacramento,2012,86.0
-301,Sacramento,2013,111.0
-302,Sacramento,2014,247.0
-303,Sacramento,2015,454.0
-304,Sacramento,2016,660.0
-305,Sacramento,2017,939.0
-306,Sacramento,2018,1113.0
-307,Sacramento,2019,1295.0
-313,San Benito,2016,18.0
-314,San Benito,2017,41.0
-315,San Benito,2018,35.0
-316,San Benito,2019,50.0
-317,San Bernardino,2010,38.0
-318,San Bernardino,2011,53.0
-319,San Bernardino,2012,45.0
-320,San Bernardino,2013,37.0
-321,San Bernardino,2014,122.0
-322,San Bernardino,2015,363.0
-323,San Bernardino,2016,769.0
-324,San Bernardino,2017,1023.0
-325,San Bernardino,2018,939.0
-326,San Bernardino,2019,1141.0
-327,San Diego,2010,95.0
-328,San Diego,2011,116.0
-329,San Diego,2012,273.0
-330,San Diego,2013,119.0
-331,San Diego,2014,336.0
-332,San Diego,2015,1157.0
-333,San Diego,2016,1317.0
-334,San Diego,2017,1625.0
-335,San Diego,2018,1798.0
-336,San Diego,2019,2233.0
-337,San Francisco,2010,63.0
-338,San Francisco,2011,90.0
-339,San Francisco,2012,89.0
-340,San Francisco,2013,94.0
-341,San Francisco,2014,355.0
-342,San Francisco,2015,425.0
-343,San Francisco,2016,528.0
-344,San Francisco,2017,714.0
-345,San Francisco,2018,911.0
-346,San Francisco,2019,1023.0
-349,San Joaquin,2012,14.0
-350,San Joaquin,2013,15.0
-351,San Joaquin,2014,49.0
-352,San Joaquin,2015,88.0
-353,San Joaquin,2016,130.0
-354,San Joaquin,2017,176.0
-355,San Joaquin,2018,176.0
-356,San Joaquin,2019,254.0
-361,San Luis Obispo,2014,68.0
-362,San Luis Obispo,2015,247.0
-363,San Luis Obispo,2016,380.0
-364,San Luis Obispo,2017,458.0
-365,San Luis Obispo,2018,430.0
-366,San Luis Obispo,2019,424.0
-367,San Mateo,2010,12.0
-368,San Mateo,2011,15.0
-369,San Mateo,2012,15.0
-370,San Mateo,2013,13.0
-371,San Mateo,2014,41.0
-372,San Mateo,2015,71.0
-373,San Mateo,2016,83.0
-374,San Mateo,2017,125.0
-375,San Mateo,2018,211.0
-376,San Mateo,2019,293.0
-377,Santa Barbara,2010,18.0
-378,Santa Barbara,2011,16.0
-379,Santa Barbara,2012,21.0
-380,Santa Barbara,2013,30.0
-381,Santa Barbara,2014,77.0
-382,Santa Barbara,2015,194.0
-383,Santa Barbara,2016,314.0
-384,Santa Barbara,2017,380.0
-385,Santa Barbara,2018,404.0
-386,Santa Barbara,2019,504.0
-387,Santa Clara,2010,18.0
-388,Santa Clara,2011,29.0
-389,Santa Clara,2012,34.0
-390,Santa Clara,2013,28.0
-391,Santa Clara,2014,134.0
-392,Santa Clara,2015,272.0
-393,Santa Clara,2016,321.0
-394,Santa Clara,2017,467.0
-395,Santa Clara,2018,665.0
-396,Santa Clara,2019,837.0
-397,Santa Cruz,2010,19.0
-398,Santa Cruz,2011,16.0
-399,Santa Cruz,2012,20.0
-400,Santa Cruz,2013,15.0
-401,Santa Cruz,2014,65.0
-402,Santa Cruz,2015,143.0
-403,Santa Cruz,2016,272.0
-404,Santa Cruz,2017,424.0
-405,Santa Cruz,2018,500.0
-406,Santa Cruz,2019,654.0
-407,Shasta,2010,56.0
-408,Shasta,2011,101.0
-409,Shasta,2012,120.0
-410,Shasta,2013,137.0
-411,Shasta,2014,196.0
-412,Shasta,2015,283.0
-413,Shasta,2016,430.0
-414,Shasta,2017,629.0
-415,Shasta,2018,699.0
-416,Shasta,2019,869.0
-420,Siskiyou / Trinity,2013,15.0
-421,Siskiyou / Trinity,2014,24.0
-422,Siskiyou / Trinity,2015,51.0
-423,Siskiyou / Trinity,2016,75.0
-424,Siskiyou / Trinity,2017,107.0
-425,Siskiyou / Trinity,2018,143.0
-426,Siskiyou / Trinity,2019,187.0
-427,Solano,2010,40.0
-428,Solano,2011,30.0
-429,Solano,2012,28.0
-430,Solano,2013,31.0
-431,Solano,2014,62.0
-432,Solano,2015,85.0
-433,Solano,2016,120.0
-434,Solano,2017,175.0
-435,Solano,2018,213.0
-436,Solano,2019,265.0
-437,Sonoma,2010,59.0
-438,Sonoma,2011,72.0
-439,Sonoma,2012,83.0
-440,Sonoma,2013,74.0
-441,Sonoma,2014,207.0
-442,Sonoma,2015,346.0
-443,Sonoma,2016,473.0
-444,Sonoma,2017,648.0
-445,Sonoma,2018,738.0
-446,Sonoma,2019,888.0
-449,Stanislaus,2012,19.0
-450,Stanislaus,2013,30.0
-451,Stanislaus,2014,88.0
-452,Stanislaus,2015,191.0
-453,Stanislaus,2016,323.0
-454,Stanislaus,2017,359.0
-455,Stanislaus,2018,470.0
-456,Stanislaus,2019,495.0
-457,Sutter,2010,29.0
-458,Sutter,2011,37.0
-459,Sutter,2012,47.0
-460,Sutter,2013,44.0
-461,Sutter,2014,87.0
-462,Sutter,2015,119.0
-463,Sutter,2016,137.0
-464,Sutter,2017,155.0
-465,Sutter,2018,173.0
-466,Sutter,2019,226.0
-468,Tehama,2011,17.0
-469,Tehama,2012,17.0
-470,Tehama,2013,34.0
-471,Tehama,2014,49.0
-472,Tehama,2015,58.0
-473,Tehama,2016,89.0
-474,Tehama,2017,111.0
-475,Tehama,2018,107.0
-476,Tehama,2019,140.0
-479,Tulare,2012,13.0
-480,Tulare,2013,19.0
-481,Tulare,2014,22.0
-482,Tulare,2015,49.0
-483,Tulare,2016,149.0
-484,Tulare,2017,369.0
-485,Tulare,2018,379.0
-486,Tulare,2019,382.0
-488,Tuolumne,2011,13.0
-489,Tuolumne,2012,28.0
-490,Tuolumne,2013,34.0
-491,Tuolumne,2014,55.0
-492,Tuolumne,2015,92.0
-493,Tuolumne,2016,162.0
-494,Tuolumne,2017,207.0
-495,Tuolumne,2018,210.0
-496,Tuolumne,2019,283.0
-497,Ventura,2010,39.0
-498,Ventura,2011,48.0
-499,Ventura,2012,47.0
-500,Ventura,2013,55.0
-501,Ventura,2014,87.0
-502,Ventura,2015,196.0
-503,Ventura,2016,297.0
-504,Ventura,2017,369.0
-505,Ventura,2018,444.0
-506,Ventura,2019,600.0
-508,Yolo,2011,13.0
-510,Yolo,2013,11.0
-511,Yolo,2014,24.0
-512,Yolo,2015,37.0
-513,Yolo,2016,53.0
-514,Yolo,2017,77.0
-515,Yolo,2018,121.0
-516,Yolo,2019,151.0
-517,Yuba,2010,29.0
-518,Yuba,2011,39.0
-519,Yuba,2012,35.0
-520,Yuba,2013,52.0
-521,Yuba,2014,61.0
-522,Yuba,2015,90.0
-523,Yuba,2016,141.0
-524,Yuba,2017,171.0
-525,Yuba,2018,202.0
-526,Yuba,2019,234.0
-527,Statewide,2010,20439.0
-528,Statewide,2011,21267.0
-529,Statewide,2012,21778.0
-530,Statewide,2013,22255.0
-531,Statewide,2014,38127.0
-532,Statewide,2015,44035.0
-533,Statewide,2016,46342.0
-534,Statewide,2017,46379.0
-535,Statewide,2018,45126.0
-536,Statewide,2019,42319.0
-537,Alameda,2010,1416.0
-538,Alameda,2011,1420.0
-539,Alameda,2012,1473.0
-540,Alameda,2013,1561.0
-541,Alameda,2014,2353.0
-542,Alameda,2015,2501.0
-543,Alameda,2016,2567.0
-544,Alameda,2017,2546.0
-545,Alameda,2018,2398.0
-546,Alameda,2019,2298.0
-547,Amador / Alpine,2010,15.0
-548,Amador / Alpine,2011,17.0
-549,Amador / Alpine,2012,17.0
-550,Amador / Alpine,2013,18.0
-551,Amador / Alpine,2014,28.0
-552,Amador / Alpine,2015,27.0
-553,Amador / Alpine,2016,36.0
-554,Amador / Alpine,2017,30.0
-555,Amador / Alpine,2018,15.0
-556,Amador / Alpine,2019,26.0
-557,Butte,2010,202.0
-558,Butte,2011,232.0
-559,Butte,2012,211.0
-560,Butte,2013,214.0
-561,Butte,2014,400.0
-562,Butte,2015,485.0
-563,Butte,2016,545.0
-564,Butte,2017,567.0
-565,Butte,2018,538.0
-566,Butte,2019,491.0
-571,Calaveras,2014,16.0
-572,Calaveras,2015,19.0
-573,Calaveras,2016,22.0
-574,Calaveras,2017,27.0
-575,Calaveras,2018,11.0
-576,Calaveras,2019,11.0
-584,Colusa,2017,11.0
-587,Contra Costa,2010,522.0
-588,Contra Costa,2011,546.0
-589,Contra Costa,2012,600.0
-590,Contra Costa,2013,611.0
-591,Contra Costa,2014,999.0
-592,Contra Costa,2015,1279.0
-593,Contra Costa,2016,1357.0
-594,Contra Costa,2017,1369.0
-595,Contra Costa,2018,1234.0
-596,Contra Costa,2019,1127.0
-607,El Dorado,2010,38.0
-608,El Dorado,2011,46.0
-609,El Dorado,2012,48.0
-610,El Dorado,2013,50.0
-611,El Dorado,2014,71.0
-612,El Dorado,2015,95.0
-613,El Dorado,2016,100.0
-614,El Dorado,2017,91.0
-615,El Dorado,2018,94.0
-616,El Dorado,2019,94.0
-617,Fresno,2010,1158.0
-618,Fresno,2011,1214.0
-619,Fresno,2012,1253.0
-620,Fresno,2013,1284.0
-621,Fresno,2014,2043.0
-622,Fresno,2015,2211.0
-623,Fresno,2016,2375.0
-624,Fresno,2017,2316.0
-625,Fresno,2018,2326.0
-626,Fresno,2019,2159.0
-631,Glenn,2014,11.0
-632,Glenn,2015,13.0
-633,Glenn,2016,15.0
-634,Glenn,2017,17.0
-635,Glenn,2018,28.0
-636,Glenn,2019,30.0
-641,Humboldt,2014,13.0
-642,Humboldt,2015,24.0
-643,Humboldt,2016,26.0
-644,Humboldt,2017,19.0
-647,Imperial,2010,199.0
-648,Imperial,2011,194.0
-649,Imperial,2012,227.0
-650,Imperial,2013,239.0
-651,Imperial,2014,477.0
-652,Imperial,2015,528.0
-653,Imperial,2016,511.0
-654,Imperial,2017,474.0
-655,Imperial,2018,454.0
-658,Kern,2010,750.0
-659,Kern,2011,763.0
-660,Kern,2012,818.0
-661,Kern,2013,808.0
-662,Kern,2014,1268.0
-663,Kern,2015,1449.0
-664,Kern,2016,1552.0
-665,Kern,2017,1655.0
-666,Kern,2018,1730.0
-667,Kern,2019,1749.0
-668,Kings,2010,50.0
-669,Kings,2011,45.0
-670,Kings,2012,46.0
-671,Kings,2013,45.0
-672,Kings,2014,105.0
-673,Kings,2015,127.0
-674,Kings,2016,110.0
-675,Kings,2017,96.0
-676,Kings,2018,79.0
-677,Kings,2019,61.0
-682,Lake,2014,13.0
-683,Lake,2015,13.0
-684,Lake,2016,22.0
-685,Lake,2017,24.0
-686,Lake,2018,11.0
-687,Lake,2019,24.0
-688,Lassen / Modoc,2010,161.0
-689,Lassen / Modoc,2011,183.0
-690,Lassen / Modoc,2012,189.0
-691,Lassen / Modoc,2013,192.0
-692,Lassen / Modoc,2014,300.0
-693,Lassen / Modoc,2015,321.0
-694,Lassen / Modoc,2016,332.0
-695,Lassen / Modoc,2017,341.0
-696,Lassen / Modoc,2018,378.0
-697,Lassen / Modoc,2019,365.0
-698,Los Angeles,2010,4209.0
-699,Los Angeles,2011,4314.0
-700,Los Angeles,2012,4275.0
-701,Los Angeles,2013,4264.0
-702,Los Angeles,2014,7451.0
-703,Los Angeles,2015,8015.0
-704,Los Angeles,2016,8296.0
-705,Los Angeles,2017,7949.0
-706,Los Angeles,2018,7131.0
-707,Los Angeles,2019,6446.0
-708,Madera,2010,61.0
-709,Madera,2011,68.0
-710,Madera,2012,61.0
-711,Madera,2013,61.0
-712,Madera,2014,106.0
-713,Madera,2015,115.0
-714,Madera,2016,136.0
-715,Madera,2017,131.0
-716,Madera,2018,92.0
-717,Madera,2019,48.0
-718,Marin,2010,90.0
-719,Marin,2011,92.0
-720,Marin,2012,96.0
-721,Marin,2013,98.0
-722,Marin,2014,181.0
-723,Marin,2015,216.0
-724,Marin,2016,218.0
-725,Marin,2017,238.0
-726,Marin,2018,253.0
-727,Marin,2019,215.0
-728,Mendocino,2010,14.0
-729,Mendocino,2011,12.0
-732,Mendocino,2014,23.0
-733,Mendocino,2015,41.0
-734,Mendocino,2016,33.0
-735,Mendocino,2017,26.0
-736,Mendocino,2018,29.0
-737,Mendocino,2019,42.0
-746,Monterey,2010,177.0
-747,Monterey,2011,183.0
-748,Monterey,2012,188.0
-749,Monterey,2013,183.0
-750,Monterey,2014,281.0
-751,Monterey,2015,309.0
-752,Monterey,2016,334.0
-753,Monterey,2017,376.0
-754,Monterey,2018,377.0
-755,Monterey,2019,380.0
-756,Napa,2010,29.0
-757,Napa,2011,24.0
-758,Napa,2012,27.0
-759,Napa,2013,23.0
-760,Napa,2014,50.0
-761,Napa,2015,63.0
-762,Napa,2016,52.0
-763,Napa,2017,64.0
-764,Napa,2018,60.0
-765,Napa,2019,47.0
-766,Nevada,2010,36.0
-767,Nevada,2011,37.0
-768,Nevada,2012,36.0
-769,Nevada,2013,34.0
-770,Nevada,2014,80.0
-771,Nevada,2015,85.0
-772,Nevada,2016,102.0
-773,Nevada,2017,99.0
-774,Nevada,2018,93.0
-775,Nevada,2019,127.0
-776,Orange,2010,616.0
-777,Orange,2011,650.0
-778,Orange,2012,675.0
-779,Orange,2013,696.0
-780,Orange,2014,1437.0
-781,Orange,2015,1756.0
-782,Orange,2016,1815.0
-783,Orange,2017,1879.0
-784,Orange,2018,1801.0
-785,Orange,2019,1795.0
-786,Placer,2010,129.0
-787,Placer,2011,133.0
-788,Placer,2012,142.0
-789,Placer,2013,154.0
-790,Placer,2014,277.0
-791,Placer,2015,339.0
-792,Placer,2016,370.0
-793,Placer,2017,404.0
-794,Placer,2018,398.0
-795,Placer,2019,372.0
-803,Riverside,2010,491.0
-804,Riverside,2011,538.0
-805,Riverside,2012,546.0
-806,Riverside,2013,536.0
-807,Riverside,2014,975.0
-808,Riverside,2015,1217.0
-809,Riverside,2016,1353.0
-810,Riverside,2017,1565.0
-811,Riverside,2018,1813.0
-812,Riverside,2019,1696.0
-813,Sacramento,2010,1694.0
-814,Sacramento,2011,1811.0
-815,Sacramento,2012,1895.0
-816,Sacramento,2013,1948.0
-817,Sacramento,2014,2995.0
-818,Sacramento,2015,3518.0
-819,Sacramento,2016,3855.0
-820,Sacramento,2017,3839.0
-821,Sacramento,2018,3821.0
-822,Sacramento,2019,3712.0
-827,San Benito,2014,11.0
-828,San Benito,2015,13.0
-829,San Benito,2016,14.0
-830,San Benito,2017,17.0
-831,San Benito,2018,13.0
-832,San Benito,2019,13.0
-833,San Bernardino,2010,767.0
-834,San Bernardino,2011,781.0
-835,San Bernardino,2012,778.0
-836,San Bernardino,2013,766.0
-837,San Bernardino,2014,1307.0
-838,San Bernardino,2015,1496.0
-839,San Bernardino,2016,1638.0
-840,San Bernardino,2017,1679.0
-841,San Bernardino,2018,1670.0
-842,San Bernardino,2019,1621.0
-843,San Diego,2010,1079.0
-844,San Diego,2011,1136.0
-845,San Diego,2012,1209.0
-846,San Diego,2013,1354.0
-847,San Diego,2014,2947.0
-848,San Diego,2015,3835.0
-849,San Diego,2016,4186.0
-850,San Diego,2017,4180.0
-851,San Diego,2018,4026.0
-852,San Diego,2019,3733.0
-853,San Francisco,2010,1751.0
-854,San Francisco,2011,1779.0
-855,San Francisco,2012,1781.0
-856,San Francisco,2013,1761.0
-857,San Francisco,2014,2716.0
-858,San Francisco,2015,3063.0
-859,San Francisco,2016,3040.0
-860,San Francisco,2017,2935.0
-861,San Francisco,2018,2784.0
-862,San Francisco,2019,2699.0
-863,San Joaquin,2010,1135.0
-864,San Joaquin,2011,1175.0
-865,San Joaquin,2012,1201.0
-866,San Joaquin,2013,1248.0
-867,San Joaquin,2014,1976.0
-868,San Joaquin,2015,2178.0
-869,San Joaquin,2016,2324.0
-870,San Joaquin,2017,2381.0
-871,San Joaquin,2018,2403.0
-872,San Joaquin,2019,2186.0
-873,San Luis Obispo,2010,137.0
-874,San Luis Obispo,2011,171.0
-875,San Luis Obispo,2012,174.0
-876,San Luis Obispo,2013,192.0
-877,San Luis Obispo,2014,291.0
-878,San Luis Obispo,2015,350.0
-879,San Luis Obispo,2016,383.0
-880,San Luis Obispo,2017,399.0
-881,San Luis Obispo,2018,403.0
-882,San Luis Obispo,2019,380.0
-883,San Mateo,2010,127.0
-884,San Mateo,2011,114.0
-885,San Mateo,2012,129.0
-886,San Mateo,2013,130.0
-887,San Mateo,2014,288.0
-888,San Mateo,2015,346.0
-889,San Mateo,2016,352.0
-890,San Mateo,2017,324.0
-891,San Mateo,2018,307.0
-892,San Mateo,2019,217.0
-893,Santa Barbara,2010,311.0
-894,Santa Barbara,2011,311.0
-895,Santa Barbara,2012,356.0
-896,Santa Barbara,2013,353.0
-897,Santa Barbara,2014,559.0
-898,Santa Barbara,2015,624.0
-899,Santa Barbara,2016,703.0
-900,Santa Barbara,2017,735.0
-901,Santa Barbara,2018,728.0
-902,Santa Barbara,2019,701.0
-903,Santa Clara,2010,316.0
-904,Santa Clara,2011,301.0
-905,Santa Clara,2012,279.0
-906,Santa Clara,2013,292.0
-907,Santa Clara,2014,517.0
-908,Santa Clara,2015,597.0
-909,Santa Clara,2016,601.0
-910,Santa Clara,2017,591.0
-911,Santa Clara,2018,542.0
-912,Santa Clara,2019,516.0
-913,Santa Cruz,2010,244.0
-914,Santa Cruz,2011,242.0
-915,Santa Cruz,2012,257.0
-916,Santa Cruz,2013,260.0
-917,Santa Cruz,2014,536.0
-918,Santa Cruz,2015,645.0
-919,Santa Cruz,2016,701.0
-920,Santa Cruz,2017,650.0
-921,Santa Cruz,2018,630.0
-922,Santa Cruz,2019,647.0
-923,Shasta,2010,42.0
-924,Shasta,2011,43.0
-925,Shasta,2012,29.0
-926,Shasta,2013,36.0
-927,Shasta,2014,63.0
-928,Shasta,2015,92.0
-929,Shasta,2016,112.0
-930,Shasta,2017,193.0
-931,Shasta,2018,250.0
-932,Shasta,2019,280.0
-939,Siskiyou / Trinity,2019,13.0
-940,Solano,2010,209.0
-941,Solano,2011,235.0
-942,Solano,2012,264.0
-943,Solano,2013,282.0
-944,Solano,2014,446.0
-945,Solano,2015,590.0
-946,Solano,2016,665.0
-947,Solano,2017,648.0
-948,Solano,2018,663.0
-949,Solano,2019,655.0
-950,Sonoma,2010,314.0
-951,Sonoma,2011,302.0
-952,Sonoma,2012,255.0
-953,Sonoma,2013,287.0
-954,Sonoma,2014,536.0
-955,Sonoma,2015,607.0
-956,Sonoma,2016,551.0
-957,Sonoma,2017,536.0
-958,Sonoma,2018,501.0
-959,Sonoma,2019,491.0
-960,Stanislaus,2010,529.0
-961,Stanislaus,2011,608.0
-962,Stanislaus,2012,649.0
-963,Stanislaus,2013,673.0
-964,Stanislaus,2014,961.0
-965,Stanislaus,2015,1265.0
-966,Stanislaus,2016,1399.0
-967,Stanislaus,2017,1458.0
-968,Stanislaus,2018,1471.0
-969,Stanislaus,2019,1495.0
-970,Sutter,2010,81.0
-971,Sutter,2011,106.0
-972,Sutter,2012,101.0
-973,Sutter,2013,109.0
-974,Sutter,2014,165.0
-975,Sutter,2015,203.0
-976,Sutter,2016,230.0
-977,Sutter,2017,212.0
-978,Sutter,2018,222.0
-979,Sutter,2019,191.0
-980,Tehama,2010,34.0
-981,Tehama,2011,27.0
-982,Tehama,2012,33.0
-983,Tehama,2013,30.0
-984,Tehama,2014,57.0
-985,Tehama,2015,66.0
-986,Tehama,2016,71.0
-987,Tehama,2017,46.0
-988,Tehama,2018,64.0
-989,Tehama,2019,58.0
-990,Tulare,2010,484.0
-991,Tulare,2011,516.0
-992,Tulare,2012,508.0
-993,Tulare,2013,521.0
-994,Tulare,2014,948.0
-995,Tulare,2015,1086.0
-996,Tulare,2016,1112.0
-997,Tulare,2017,1057.0
-998,Tulare,2018,1064.0
-999,Tulare,2019,931.0
-1005,Tuolumne,2015,13.0
-1006,Tuolumne,2016,20.0
-1007,Tuolumne,2017,16.0
-1008,Tuolumne,2018,15.0
-1009,Tuolumne,2019,15.0
-1010,Ventura,2010,552.0
-1011,Ventura,2011,623.0
-1012,Ventura,2012,647.0
-1013,Ventura,2013,623.0
-1014,Ventura,2014,1316.0
-1015,Ventura,2015,1475.0
-1016,Ventura,2016,1540.0
-1017,Ventura,2017,1618.0
-1018,Ventura,2018,1627.0
-1019,Ventura,2019,1609.0
-1020,Yolo,2010,101.0
-1021,Yolo,2011,95.0
-1022,Yolo,2012,100.0
-1023,Yolo,2013,105.0
-1024,Yolo,2014,188.0
-1025,Yolo,2015,223.0
-1026,Yolo,2016,255.0
-1027,Yolo,2017,253.0
-1028,Yolo,2018,233.0
-1029,Yolo,2019,221.0
-1030,Yuba,2010,127.0
-1031,Yuba,2011,139.0
-1032,Yuba,2012,146.0
-1033,Yuba,2013,140.0
-1034,Yuba,2014,214.0
-1035,Yuba,2015,266.0
-1036,Yuba,2016,286.0
-1037,Yuba,2017,282.0
-1038,Yuba,2018,315.0
-1039,Yuba,2019,304.0
-1040,Statewide,2010,24.0
-1041,Statewide,2011,28.0
-1042,Statewide,2012,43.0
-1043,Statewide,2013,128.0
-1044,Statewide,2014,467.0
-1045,Statewide,2015,595.0
-1046,Statewide,2016,1593.0
-1047,Statewide,2017,4415.0
-1048,Statewide,2018,12892.0
-1049,Statewide,2019,59758.0
-1053,Alameda,2014,12.0
-1054,Alameda,2015,34.0
-1055,Alameda,2016,112.0
-1056,Alameda,2017,287.0
-1057,Alameda,2018,652.0
-1058,Alameda,2019,2243.0
-1061,Amador / Alpine,2018,20.0
-1062,Amador / Alpine,2019,87.0
-1063,Butte,2014,49.0
-1064,Butte,2015,42.0
-1065,Butte,2016,100.0
-1066,Butte,2017,210.0
-1067,Butte,2018,274.0
-1068,Butte,2019,573.0
-1071,Calaveras,2018,11.0
-1072,Calaveras,2019,76.0
-1075,Colusa,2019,23.0
-1081,Contra Costa,2016,38.0
-1082,Contra Costa,2017,127.0
-1083,Contra Costa,2018,390.0
-1084,Contra Costa,2019,1909.0
-1086,Del Norte,2017,108.0
-1087,Del Norte,2018,124.0
-1088,Del Norte,2019,263.0
-1091,El Dorado,2016,22.0
-1092,El Dorado,2017,60.0
-1093,El Dorado,2018,180.0
-1094,El Dorado,2019,521.0
-1097,Fresno,2016,20.0
-1098,Fresno,2017,54.0
-1099,Fresno,2018,214.0
-1100,Fresno,2019,1786.0
-1105,Glenn,2018,22.0
-1106,Glenn,2019,81.0
-1107,Humboldt,2016,48.0
-1108,Humboldt,2017,82.0
-1109,Humboldt,2018,348.0
-1110,Humboldt,2019,836.0
-1113,Imperial,2018,57.0
-1114,Imperial,2019,335.0
-1118,Inyo / Mono,2019,51.0
-1121,Kern,2018,187.0
-1122,Kern,2019,1523.0
-1126,Kings,2018,56.0
-1127,Kings,2019,479.0
-1129,Lake,2016,23.0
-1130,Lake,2017,34.0
-1131,Lake,2018,213.0
-1132,Lake,2019,351.0
-1134,Lassen / Modoc,2017,12.0
-1135,Lassen / Modoc,2018,160.0
-1136,Lassen / Modoc,2019,727.0
-1142,Los Angeles,2016,113.0
-1143,Los Angeles,2017,336.0
-1144,Los Angeles,2018,1485.0
-1145,Los Angeles,2019,10021.0
-1147,Madera,2018,17.0
-1148,Madera,2019,222.0
-1152,Marin,2017,32.0
-1153,Marin,2018,54.0
-1154,Marin,2019,273.0
-1158,Mendocino,2017,49.0
-1159,Mendocino,2018,135.0
-1160,Mendocino,2019,333.0
-1163,Merced/Mariposa,2018,24.0
-1164,Merced/Mariposa,2019,60.0
-1168,Monterey,2016,47.0
-1169,Monterey,2017,101.0
-1170,Monterey,2018,175.0
-1171,Monterey,2019,623.0
-1174,Napa,2017,33.0
-1175,Napa,2018,32.0
-1176,Napa,2019,140.0
-1180,Nevada,2018,128.0
-1181,Nevada,2019,247.0
-1187,Orange,2017,99.0
-1188,Orange,2018,554.0
-1189,Orange,2019,3524.0
-1191,Placer,2016,17.0
-1192,Placer,2017,30.0
-1193,Placer,2018,186.0
-1194,Placer,2019,602.0
-1196,Plumas / Sierra,2017,12.0
-1197,Plumas / Sierra,2018,22.0
-1198,Plumas / Sierra,2019,107.0
-1201,Riverside,2016,15.0
-1202,Riverside,2017,146.0
-1203,Riverside,2018,646.0
-1204,Riverside,2019,4966.0
-1208,Sacramento,2016,18.0
-1209,Sacramento,2017,85.0
-1210,Sacramento,2018,873.0
-1211,Sacramento,2019,3627.0
-1214,San Benito,2019,38.0
-1217,San Bernardino,2016,37.0
-1218,San Bernardino,2017,117.0
-1219,San Bernardino,2018,580.0
-1220,San Bernardino,2019,5037.0
-1223,San Diego,2015,20.0
-1224,San Diego,2016,49.0
-1225,San Diego,2017,428.0
-1226,San Diego,2018,1302.0
-1227,San Diego,2019,4027.0
-1229,San Francisco,2013,73.0
-1230,San Francisco,2014,302.0
-1231,San Francisco,2015,233.0
-1232,San Francisco,2016,496.0
-1233,San Francisco,2017,672.0
-1234,San Francisco,2018,1310.0
-1235,San Francisco,2019,2873.0
-1236,San Joaquin,2010,14.0
-1237,San Joaquin,2011,16.0
-1238,San Joaquin,2012,31.0
-1239,San Joaquin,2013,23.0
-1240,San Joaquin,2014,37.0
-1242,San Joaquin,2017,12.0
-1243,San Joaquin,2018,91.0
-1244,San Joaquin,2019,667.0
-1246,San Luis Obispo,2014,12.0
-1247,San Luis Obispo,2015,128.0
-1248,San Luis Obispo,2016,76.0
-1249,San Luis Obispo,2017,249.0
-1250,San Luis Obispo,2018,183.0
-1251,San Luis Obispo,2019,534.0
-1256,San Mateo,2016,12.0
-1257,San Mateo,2017,41.0
-1258,San Mateo,2018,122.0
-1259,San Mateo,2019,391.0
-1260,Santa Barbara,2015,41.0
-1262,Santa Barbara,2017,88.0
-1263,Santa Barbara,2018,164.0
-1264,Santa Barbara,2019,1036.0
-1266,Santa Clara,2015,35.0
-1267,Santa Clara,2016,102.0
-1268,Santa Clara,2017,146.0
-1269,Santa Clara,2018,228.0
-1270,Santa Clara,2019,1680.0
-1273,Santa Cruz,2016,12.0
-1274,Santa Cruz,2017,67.0
-1275,Santa Cruz,2018,117.0
-1276,Santa Cruz,2019,399.0
-1279,Shasta,2017,62.0
-1280,Shasta,2018,192.0
-1281,Shasta,2019,474.0
-1283,Siskiyou / Trinity,2017,15.0
-1284,Siskiyou / Trinity,2018,78.0
-1285,Siskiyou / Trinity,2019,130.0
-1289,Solano,2017,42.0
-1290,Solano,2018,124.0
-1291,Solano,2019,702.0
-1294,Sonoma,2016,43.0
-1295,Sonoma,2017,230.0
-1296,Sonoma,2018,357.0
-1297,Sonoma,2019,1059.0
-1298,Stanislaus,2013,16.0
-1299,Stanislaus,2014,23.0
-1301,Stanislaus,2016,22.0
-1302,Stanislaus,2017,76.0
-1303,Stanislaus,2018,275.0
-1304,Stanislaus,2019,1196.0
-1306,Sutter,2017,13.0
-1307,Sutter,2018,28.0
-1308,Sutter,2019,194.0
-1311,Tehama,2018,29.0
-1312,Tehama,2019,173.0
-1315,Tulare,2018,87.0
-1316,Tulare,2019,933.0
-1317,Tuolumne,2016,14.0
-1318,Tuolumne,2017,26.0
-1319,Tuolumne,2018,24.0
-1320,Tuolumne,2019,162.0
-1321,Ventura,2016,56.0
-1322,Ventura,2017,127.0
-1323,Ventura,2018,213.0
-1324,Ventura,2019,827.0
-1327,Yolo,2017,33.0
-1328,Yolo,2018,79.0
-1329,Yolo,2019,364.0
-1332,Yuba,2017,14.0
-1333,Yuba,2018,48.0
-1334,Yuba,2019,253.0
-1335,Statewide,2010,320.0
-1336,Statewide,2011,341.0
-1337,Statewide,2012,357.0
-1338,Statewide,2013,344.0
-1339,Statewide,2014,1881.0
-1340,Statewide,2015,3446.0
-1341,Statewide,2016,5017.0
-1342,Statewide,2017,7811.0
-1343,Statewide,2018,10845.0
-1344,Statewide,2019,14522.0
-1345,Alameda,2010,11.0
-1349,Alameda,2014,65.0
-1350,Alameda,2015,136.0
-1351,Alameda,2016,278.0
-1352,Alameda,2017,359.0
-1353,Alameda,2018,485.0
-1354,Alameda,2019,605.0
-1362,Butte,2010,30.0
-1363,Butte,2011,27.0
-1364,Butte,2012,17.0
-1365,Butte,2013,16.0
-1366,Butte,2014,40.0
-1367,Butte,2015,57.0
-1368,Butte,2016,97.0
-1369,Butte,2017,117.0
-1370,Butte,2018,151.0
-1371,Butte,2019,149.0
-1375,Calaveras,2017,13.0
-1376,Calaveras,2018,17.0
-1387,Contra Costa,2012,13.0
-1388,Contra Costa,2013,11.0
-1389,Contra Costa,2014,62.0
-1390,Contra Costa,2015,107.0
-1391,Contra Costa,2016,181.0
-1392,Contra Costa,2017,281.0
-1393,Contra Costa,2018,350.0
-1394,Contra Costa,2019,395.0
-1395,Del Norte,2014,14.0
-1396,Del Norte,2015,13.0
-1398,Del Norte,2017,18.0
-1399,Del Norte,2018,26.0
-1400,Del Norte,2019,20.0
-1405,El Dorado,2015,23.0
-1406,El Dorado,2016,40.0
-1407,El Dorado,2017,40.0
-1408,El Dorado,2018,47.0
-1409,El Dorado,2019,126.0
-1414,Fresno,2014,23.0
-1415,Fresno,2015,37.0
-1416,Fresno,2016,52.0
-1417,Fresno,2017,75.0
-1418,Fresno,2018,124.0
-1419,Fresno,2019,178.0
-1428,Glenn,2019,14.0
-1432,Humboldt,2014,12.0
-1433,Humboldt,2015,35.0
-1434,Humboldt,2016,66.0
-1435,Humboldt,2017,97.0
-1436,Humboldt,2018,229.0
-1437,Humboldt,2019,269.0
-1442,Imperial,2014,13.0
-1443,Imperial,2015,29.0
-1444,Imperial,2016,28.0
-1445,Imperial,2017,33.0
-1446,Imperial,2018,45.0
-1447,Imperial,2019,72.0
-1451,Inyo / Mono,2017,11.0
-1452,Inyo / Mono,2018,15.0
-1453,Inyo / Mono,2019,26.0
-1458,Kern,2014,20.0
-1459,Kern,2015,33.0
-1460,Kern,2016,53.0
-1461,Kern,2017,72.0
-1462,Kern,2018,106.0
-1463,Kern,2019,156.0
-1470,Kings,2017,16.0
-1471,Kings,2018,21.0
-1472,Kings,2019,31.0
-1474,Lake,2014,15.0
-1475,Lake,2015,26.0
-1476,Lake,2016,43.0
-1477,Lake,2017,52.0
-1478,Lake,2018,60.0
-1479,Lake,2019,87.0
-1485,Lassen / Modoc,2015,16.0
-1486,Lassen / Modoc,2016,12.0
-1487,Lassen / Modoc,2017,16.0
-1488,Lassen / Modoc,2018,23.0
-1489,Lassen / Modoc,2019,36.0
-1490,Los Angeles,2010,47.0
-1491,Los Angeles,2011,47.0
-1492,Los Angeles,2012,38.0
-1493,Los Angeles,2013,46.0
-1494,Los Angeles,2014,322.0
-1495,Los Angeles,2015,563.0
-1496,Los Angeles,2016,806.0
-1497,Los Angeles,2017,1393.0
-1498,Los Angeles,2018,2208.0
-1499,Los Angeles,2019,3368.0
-1506,Madera,2019,19.0
-1511,Marin,2014,30.0
-1512,Marin,2015,76.0
-1513,Marin,2016,78.0
-1514,Marin,2017,131.0
-1515,Marin,2018,158.0
-1516,Marin,2019,136.0
-1522,Mendocino,2015,16.0
-1523,Mendocino,2016,31.0
-1524,Mendocino,2017,50.0
-1525,Mendocino,2018,45.0
-1526,Mendocino,2019,71.0
-1528,Merced/Mariposa,2015,15.0
-1529,Merced/Mariposa,2016,15.0
-1530,Merced/Mariposa,2017,28.0
-1531,Merced/Mariposa,2018,33.0
-1532,Merced/Mariposa,2019,32.0
-1537,Monterey,2014,54.0
-1538,Monterey,2015,133.0
-1539,Monterey,2016,168.0
-1540,Monterey,2017,155.0
-1541,Monterey,2018,177.0
-1542,Monterey,2019,201.0
-1547,Napa,2014,15.0
-1548,Napa,2015,16.0
-1549,Napa,2016,20.0
-1550,Napa,2017,49.0
-1551,Napa,2018,42.0
-1552,Napa,2019,58.0
-1557,Nevada,2015,32.0
-1558,Nevada,2016,39.0
-1559,Nevada,2017,51.0
-1560,Nevada,2018,56.0
-1561,Nevada,2019,81.0
-1564,Orange,2012,12.0
-1565,Orange,2013,12.0
-1566,Orange,2014,77.0
-1567,Orange,2015,191.0
-1568,Orange,2016,286.0
-1569,Orange,2017,497.0
-1570,Orange,2018,602.0
-1571,Orange,2019,730.0
-1576,Placer,2014,16.0
-1577,Placer,2015,29.0
-1578,Placer,2016,65.0
-1579,Placer,2017,77.0
-1580,Placer,2018,143.0
-1581,Placer,2019,143.0
-1589,Plumas / Sierra,2017,12.0
-1590,Plumas / Sierra,2018,19.0
-1591,Plumas / Sierra,2019,21.0
-1593,Riverside,2011,11.0
-1596,Riverside,2014,78.0
-1597,Riverside,2015,126.0
-1598,Riverside,2016,156.0
-1599,Riverside,2017,389.0
-1600,Riverside,2018,558.0
-1601,Riverside,2019,856.0
-1602,Sacramento,2010,17.0
-1603,Sacramento,2011,18.0
-1604,Sacramento,2012,20.0
-1605,Sacramento,2013,20.0
-1606,Sacramento,2014,60.0
-1607,Sacramento,2015,108.0
-1608,Sacramento,2016,190.0
-1609,Sacramento,2017,261.0
-1610,Sacramento,2018,388.0
-1611,Sacramento,2019,539.0
-1621,San Bernardino,2014,58.0
-1622,San Bernardino,2015,125.0
-1623,San Bernardino,2016,150.0
-1624,San Bernardino,2017,303.0
-1625,San Bernardino,2018,535.0
-1626,San Bernardino,2019,747.0
-1627,San Diego,2010,48.0
-1628,San Diego,2011,57.0
-1629,San Diego,2012,79.0
-1630,San Diego,2013,46.0
-1631,San Diego,2014,195.0
-1632,San Diego,2015,356.0
-1633,San Diego,2016,568.0
-1634,San Diego,2017,890.0
-1635,San Diego,2018,1158.0
-1636,San Diego,2019,1609.0
-1637,San Francisco,2010,29.0
-1638,San Francisco,2011,28.0
-1639,San Francisco,2012,27.0
-1640,San Francisco,2013,37.0
-1641,San Francisco,2014,257.0
-1642,San Francisco,2015,347.0
-1643,San Francisco,2016,447.0
-1644,San Francisco,2017,582.0
-1645,San Francisco,2018,723.0
-1646,San Francisco,2019,797.0
-1652,San Joaquin,2015,13.0
-1653,San Joaquin,2016,24.0
-1654,San Joaquin,2017,55.0
-1655,San Joaquin,2018,90.0
-1656,San Joaquin,2019,175.0
-1661,San Luis Obispo,2014,25.0
-1662,San Luis Obispo,2015,55.0
-1663,San Luis Obispo,2016,58.0
-1664,San Luis Obispo,2017,83.0
-1665,San Luis Obispo,2018,121.0
-1666,San Luis Obispo,2019,157.0
-1668,San Mateo,2011,16.0
-1669,San Mateo,2012,20.0
-1670,San Mateo,2013,23.0
-1671,San Mateo,2014,63.0
-1672,San Mateo,2015,123.0
-1673,San Mateo,2016,240.0
-1674,San Mateo,2017,283.0
-1675,San Mateo,2018,319.0
-1676,San Mateo,2019,344.0
-1677,Santa Barbara,2010,17.0
-1681,Santa Barbara,2014,22.0
-1682,Santa Barbara,2015,47.0
-1683,Santa Barbara,2016,90.0
-1684,Santa Barbara,2017,127.0
-1685,Santa Barbara,2018,156.0
-1686,Santa Barbara,2019,208.0
-1689,Santa Clara,2012,11.0
-1691,Santa Clara,2014,56.0
-1692,Santa Clara,2015,87.0
-1693,Santa Clara,2016,117.0
-1694,Santa Clara,2017,237.0
-1695,Santa Clara,2018,335.0
-1696,Santa Clara,2019,375.0
-1701,Santa Cruz,2014,46.0
-1702,Santa Cruz,2015,113.0
-1703,Santa Cruz,2016,131.0
-1704,Santa Cruz,2017,181.0
-1705,Santa Cruz,2018,200.0
-1706,Santa Cruz,2019,260.0
-1710,Shasta,2014,19.0
-1711,Shasta,2015,50.0
-1712,Shasta,2016,63.0
-1713,Shasta,2017,86.0
-1714,Shasta,2018,115.0
-1715,Shasta,2019,191.0
-1716,Siskiyou / Trinity,2015,14.0
-1717,Siskiyou / Trinity,2016,16.0
-1718,Siskiyou / Trinity,2017,35.0
-1719,Siskiyou / Trinity,2018,56.0
-1720,Siskiyou / Trinity,2019,55.0
-1725,Solano,2014,14.0
-1726,Solano,2015,22.0
-1727,Solano,2016,51.0
-1728,Solano,2017,73.0
-1729,Solano,2018,110.0
-1730,Solano,2019,126.0
-1735,Sonoma,2014,36.0
-1736,Sonoma,2015,58.0
-1737,Sonoma,2016,85.0
-1738,Sonoma,2017,157.0
-1739,Sonoma,2018,199.0
-1740,Sonoma,2019,278.0
-1745,Stanislaus,2014,14.0
-1746,Stanislaus,2015,13.0
-1747,Stanislaus,2016,23.0
-1748,Stanislaus,2017,28.0
-1749,Stanislaus,2018,38.0
-1750,Stanislaus,2019,82.0
-1758,Sutter,2017,26.0
-1759,Sutter,2018,20.0
-1760,Sutter,2019,17.0
-1765,Tehama,2017,12.0
-1766,Tehama,2018,32.0
-1767,Tehama,2019,62.0
-1773,Tulare,2015,34.0
-1774,Tulare,2016,21.0
-1775,Tulare,2017,31.0
-1776,Tulare,2018,66.0
-1777,Tulare,2019,68.0
-1785,Tuolumne,2017,13.0
-1786,Tuolumne,2018,20.0
-1787,Tuolumne,2019,22.0
-1788,Ventura,2010,11.0
-1789,Ventura,2011,12.0
-1790,Ventura,2012,15.0
-1791,Ventura,2013,17.0
-1792,Ventura,2014,67.0
-1793,Ventura,2015,92.0
-1794,Ventura,2016,132.0
-1795,Ventura,2017,218.0
-1796,Ventura,2018,292.0
-1797,Ventura,2019,358.0
-1803,Yolo,2015,16.0
-1804,Yolo,2016,25.0
-1805,Yolo,2017,64.0
-1806,Yolo,2018,81.0
-1807,Yolo,2019,119.0
-1815,Yuba,2017,12.0
-1816,Yuba,2018,12.0
-1817,Yuba,2019,24.0
+County,Year,Beneficiaries
+Statewide,2010,1265.0
+Statewide,2011,1680.0
+Statewide,2012,2099.0
+Statewide,2013,2129.0
+Statewide,2014,5000.0
+Statewide,2015,10365.0
+Statewide,2016,15538.0
+Statewide,2017,21753.0
+Statewide,2018,25263.0
+Statewide,2019,30627.0
+Alameda,2010,22.0
+Alameda,2011,28.0
+Alameda,2012,51.0
+Alameda,2013,57.0
+Alameda,2014,117.0
+Alameda,2015,168.0
+Alameda,2016,259.0
+Alameda,2017,468.0
+Alameda,2018,806.0
+Alameda,2019,1144.0
+Amador / Alpine,2010,13.0
+Amador / Alpine,2011,18.0
+Amador / Alpine,2012,13.0
+Amador / Alpine,2014,19.0
+Amador / Alpine,2015,32.0
+Amador / Alpine,2016,52.0
+Amador / Alpine,2017,56.0
+Amador / Alpine,2018,80.0
+Amador / Alpine,2019,77.0
+Butte,2010,75.0
+Butte,2011,91.0
+Butte,2012,116.0
+Butte,2013,126.0
+Butte,2014,224.0
+Butte,2015,345.0
+Butte,2016,450.0
+Butte,2017,514.0
+Butte,2018,622.0
+Butte,2019,872.0
+Calaveras,2014,14.0
+Calaveras,2015,16.0
+Calaveras,2016,51.0
+Calaveras,2017,57.0
+Calaveras,2018,78.0
+Calaveras,2019,83.0
+Colusa,2018,11.0
+Colusa,2019,17.0
+Contra Costa,2010,40.0
+Contra Costa,2011,51.0
+Contra Costa,2012,69.0
+Contra Costa,2013,71.0
+Contra Costa,2014,281.0
+Contra Costa,2015,399.0
+Contra Costa,2016,505.0
+Contra Costa,2017,618.0
+Contra Costa,2018,855.0
+Contra Costa,2019,1130.0
+Del Norte,2010,16.0
+Del Norte,2011,21.0
+Del Norte,2012,24.0
+Del Norte,2013,30.0
+Del Norte,2014,56.0
+Del Norte,2015,88.0
+Del Norte,2016,115.0
+Del Norte,2017,139.0
+Del Norte,2018,155.0
+Del Norte,2019,172.0
+El Dorado,2010,24.0
+El Dorado,2011,32.0
+El Dorado,2012,43.0
+El Dorado,2013,55.0
+El Dorado,2014,90.0
+El Dorado,2015,134.0
+El Dorado,2016,224.0
+El Dorado,2017,355.0
+El Dorado,2018,384.0
+El Dorado,2019,550.0
+Fresno,2010,12.0
+Fresno,2011,26.0
+Fresno,2012,23.0
+Fresno,2013,11.0
+Fresno,2014,36.0
+Fresno,2015,69.0
+Fresno,2016,228.0
+Fresno,2017,541.0
+Fresno,2018,414.0
+Fresno,2019,433.0
+Glenn,2016,32.0
+Glenn,2017,29.0
+Glenn,2018,34.0
+Glenn,2019,50.0
+Humboldt,2010,82.0
+Humboldt,2011,93.0
+Humboldt,2012,114.0
+Humboldt,2013,130.0
+Humboldt,2014,234.0
+Humboldt,2015,365.0
+Humboldt,2016,526.0
+Humboldt,2017,684.0
+Humboldt,2018,927.0
+Humboldt,2019,994.0
+Imperial,2011,24.0
+Imperial,2012,22.0
+Imperial,2013,27.0
+Imperial,2014,16.0
+Imperial,2015,22.0
+Imperial,2016,39.0
+Imperial,2017,50.0
+Imperial,2018,51.0
+Imperial,2019,138.0
+Inyo / Mono,2012,11.0
+Inyo / Mono,2013,14.0
+Inyo / Mono,2014,13.0
+Inyo / Mono,2015,13.0
+Inyo / Mono,2016,21.0
+Inyo / Mono,2018,36.0
+Inyo / Mono,2019,56.0
+Kern,2012,15.0
+Kern,2013,12.0
+Kern,2014,22.0
+Kern,2015,80.0
+Kern,2016,321.0
+Kern,2017,693.0
+Kern,2018,527.0
+Kern,2019,674.0
+Kings,2015,12.0
+Kings,2016,43.0
+Kings,2017,98.0
+Kings,2018,97.0
+Kings,2019,123.0
+Lake,2010,49.0
+Lake,2011,92.0
+Lake,2012,111.0
+Lake,2013,112.0
+Lake,2014,170.0
+Lake,2015,239.0
+Lake,2016,310.0
+Lake,2017,362.0
+Lake,2018,409.0
+Lake,2019,441.0
+Lassen / Modoc,2010,13.0
+Lassen / Modoc,2012,16.0
+Lassen / Modoc,2013,16.0
+Lassen / Modoc,2014,38.0
+Lassen / Modoc,2015,87.0
+Lassen / Modoc,2016,128.0
+Lassen / Modoc,2017,120.0
+Lassen / Modoc,2018,86.0
+Lassen / Modoc,2019,107.0
+Los Angeles,2010,62.0
+Los Angeles,2011,79.0
+Los Angeles,2012,88.0
+Los Angeles,2013,94.0
+Los Angeles,2014,369.0
+Los Angeles,2015,1550.0
+Los Angeles,2016,1940.0
+Los Angeles,2017,2850.0
+Los Angeles,2018,3682.0
+Los Angeles,2019,4214.0
+Madera,2015,12.0
+Madera,2016,37.0
+Madera,2017,38.0
+Madera,2018,53.0
+Madera,2019,45.0
+Marin,2010,13.0
+Marin,2011,12.0
+Marin,2012,18.0
+Marin,2013,22.0
+Marin,2014,44.0
+Marin,2015,79.0
+Marin,2016,122.0
+Marin,2017,120.0
+Marin,2018,136.0
+Marin,2019,176.0
+Mendocino,2010,46.0
+Mendocino,2011,60.0
+Mendocino,2012,61.0
+Mendocino,2013,67.0
+Mendocino,2014,166.0
+Mendocino,2015,229.0
+Mendocino,2016,295.0
+Mendocino,2017,366.0
+Mendocino,2018,408.0
+Mendocino,2019,433.0
+Merced/Mariposa,2012,12.0
+Merced/Mariposa,2015,15.0
+Merced/Mariposa,2016,16.0
+Merced/Mariposa,2017,51.0
+Merced/Mariposa,2018,71.0
+Merced/Mariposa,2019,79.0
+Monterey,2010,23.0
+Monterey,2011,23.0
+Monterey,2012,37.0
+Monterey,2013,42.0
+Monterey,2014,121.0
+Monterey,2015,217.0
+Monterey,2016,348.0
+Monterey,2017,420.0
+Monterey,2018,556.0
+Monterey,2019,602.0
+Napa,2014,15.0
+Napa,2015,44.0
+Napa,2016,61.0
+Napa,2017,79.0
+Napa,2018,114.0
+Napa,2019,138.0
+Nevada,2010,22.0
+Nevada,2011,23.0
+Nevada,2012,21.0
+Nevada,2013,27.0
+Nevada,2014,39.0
+Nevada,2015,61.0
+Nevada,2016,125.0
+Nevada,2017,169.0
+Nevada,2018,264.0
+Nevada,2019,367.0
+Orange,2010,29.0
+Orange,2011,31.0
+Orange,2012,29.0
+Orange,2013,41.0
+Orange,2014,143.0
+Orange,2015,472.0
+Orange,2016,956.0
+Orange,2017,1329.0
+Orange,2018,1473.0
+Orange,2019,1735.0
+Placer,2010,11.0
+Placer,2011,15.0
+Placer,2012,25.0
+Placer,2013,26.0
+Placer,2014,59.0
+Placer,2015,106.0
+Placer,2016,195.0
+Placer,2017,329.0
+Placer,2018,412.0
+Placer,2019,468.0
+Plumas / Sierra,2017,51.0
+Plumas / Sierra,2018,63.0
+Plumas / Sierra,2019,93.0
+Riverside,2010,68.0
+Riverside,2011,93.0
+Riverside,2012,96.0
+Riverside,2013,100.0
+Riverside,2014,213.0
+Riverside,2015,467.0
+Riverside,2016,877.0
+Riverside,2017,1386.0
+Riverside,2018,1378.0
+Riverside,2019,1788.0
+Sacramento,2010,46.0
+Sacramento,2011,76.0
+Sacramento,2012,86.0
+Sacramento,2013,111.0
+Sacramento,2014,247.0
+Sacramento,2015,454.0
+Sacramento,2016,660.0
+Sacramento,2017,939.0
+Sacramento,2018,1113.0
+Sacramento,2019,1295.0
+San Benito,2016,18.0
+San Benito,2017,41.0
+San Benito,2018,35.0
+San Benito,2019,50.0
+San Bernardino,2010,38.0
+San Bernardino,2011,53.0
+San Bernardino,2012,45.0
+San Bernardino,2013,37.0
+San Bernardino,2014,122.0
+San Bernardino,2015,363.0
+San Bernardino,2016,769.0
+San Bernardino,2017,1023.0
+San Bernardino,2018,939.0
+San Bernardino,2019,1141.0
+San Diego,2010,95.0
+San Diego,2011,116.0
+San Diego,2012,273.0
+San Diego,2013,119.0
+San Diego,2014,336.0
+San Diego,2015,1157.0
+San Diego,2016,1317.0
+San Diego,2017,1625.0
+San Diego,2018,1798.0
+San Diego,2019,2233.0
+San Francisco,2010,63.0
+San Francisco,2011,90.0
+San Francisco,2012,89.0
+San Francisco,2013,94.0
+San Francisco,2014,355.0
+San Francisco,2015,425.0
+San Francisco,2016,528.0
+San Francisco,2017,714.0
+San Francisco,2018,911.0
+San Francisco,2019,1023.0
+San Joaquin,2012,14.0
+San Joaquin,2013,15.0
+San Joaquin,2014,49.0
+San Joaquin,2015,88.0
+San Joaquin,2016,130.0
+San Joaquin,2017,176.0
+San Joaquin,2018,176.0
+San Joaquin,2019,254.0
+San Luis Obispo,2014,68.0
+San Luis Obispo,2015,247.0
+San Luis Obispo,2016,380.0
+San Luis Obispo,2017,458.0
+San Luis Obispo,2018,430.0
+San Luis Obispo,2019,424.0
+San Mateo,2010,12.0
+San Mateo,2011,15.0
+San Mateo,2012,15.0
+San Mateo,2013,13.0
+San Mateo,2014,41.0
+San Mateo,2015,71.0
+San Mateo,2016,83.0
+San Mateo,2017,125.0
+San Mateo,2018,211.0
+San Mateo,2019,293.0
+Santa Barbara,2010,18.0
+Santa Barbara,2011,16.0
+Santa Barbara,2012,21.0
+Santa Barbara,2013,30.0
+Santa Barbara,2014,77.0
+Santa Barbara,2015,194.0
+Santa Barbara,2016,314.0
+Santa Barbara,2017,380.0
+Santa Barbara,2018,404.0
+Santa Barbara,2019,504.0
+Santa Clara,2010,18.0
+Santa Clara,2011,29.0
+Santa Clara,2012,34.0
+Santa Clara,2013,28.0
+Santa Clara,2014,134.0
+Santa Clara,2015,272.0
+Santa Clara,2016,321.0
+Santa Clara,2017,467.0
+Santa Clara,2018,665.0
+Santa Clara,2019,837.0
+Santa Cruz,2010,19.0
+Santa Cruz,2011,16.0
+Santa Cruz,2012,20.0
+Santa Cruz,2013,15.0
+Santa Cruz,2014,65.0
+Santa Cruz,2015,143.0
+Santa Cruz,2016,272.0
+Santa Cruz,2017,424.0
+Santa Cruz,2018,500.0
+Santa Cruz,2019,654.0
+Shasta,2010,56.0
+Shasta,2011,101.0
+Shasta,2012,120.0
+Shasta,2013,137.0
+Shasta,2014,196.0
+Shasta,2015,283.0
+Shasta,2016,430.0
+Shasta,2017,629.0
+Shasta,2018,699.0
+Shasta,2019,869.0
+Siskiyou / Trinity,2013,15.0
+Siskiyou / Trinity,2014,24.0
+Siskiyou / Trinity,2015,51.0
+Siskiyou / Trinity,2016,75.0
+Siskiyou / Trinity,2017,107.0
+Siskiyou / Trinity,2018,143.0
+Siskiyou / Trinity,2019,187.0
+Solano,2010,40.0
+Solano,2011,30.0
+Solano,2012,28.0
+Solano,2013,31.0
+Solano,2014,62.0
+Solano,2015,85.0
+Solano,2016,120.0
+Solano,2017,175.0
+Solano,2018,213.0
+Solano,2019,265.0
+Sonoma,2010,59.0
+Sonoma,2011,72.0
+Sonoma,2012,83.0
+Sonoma,2013,74.0
+Sonoma,2014,207.0
+Sonoma,2015,346.0
+Sonoma,2016,473.0
+Sonoma,2017,648.0
+Sonoma,2018,738.0
+Sonoma,2019,888.0
+Stanislaus,2012,19.0
+Stanislaus,2013,30.0
+Stanislaus,2014,88.0
+Stanislaus,2015,191.0
+Stanislaus,2016,323.0
+Stanislaus,2017,359.0
+Stanislaus,2018,470.0
+Stanislaus,2019,495.0
+Sutter,2010,29.0
+Sutter,2011,37.0
+Sutter,2012,47.0
+Sutter,2013,44.0
+Sutter,2014,87.0
+Sutter,2015,119.0
+Sutter,2016,137.0
+Sutter,2017,155.0
+Sutter,2018,173.0
+Sutter,2019,226.0
+Tehama,2011,17.0
+Tehama,2012,17.0
+Tehama,2013,34.0
+Tehama,2014,49.0
+Tehama,2015,58.0
+Tehama,2016,89.0
+Tehama,2017,111.0
+Tehama,2018,107.0
+Tehama,2019,140.0
+Tulare,2012,13.0
+Tulare,2013,19.0
+Tulare,2014,22.0
+Tulare,2015,49.0
+Tulare,2016,149.0
+Tulare,2017,369.0
+Tulare,2018,379.0
+Tulare,2019,382.0
+Tuolumne,2011,13.0
+Tuolumne,2012,28.0
+Tuolumne,2013,34.0
+Tuolumne,2014,55.0
+Tuolumne,2015,92.0
+Tuolumne,2016,162.0
+Tuolumne,2017,207.0
+Tuolumne,2018,210.0
+Tuolumne,2019,283.0
+Ventura,2010,39.0
+Ventura,2011,48.0
+Ventura,2012,47.0
+Ventura,2013,55.0
+Ventura,2014,87.0
+Ventura,2015,196.0
+Ventura,2016,297.0
+Ventura,2017,369.0
+Ventura,2018,444.0
+Ventura,2019,600.0
+Yolo,2011,13.0
+Yolo,2013,11.0
+Yolo,2014,24.0
+Yolo,2015,37.0
+Yolo,2016,53.0
+Yolo,2017,77.0
+Yolo,2018,121.0
+Yolo,2019,151.0
+Yuba,2010,29.0
+Yuba,2011,39.0
+Yuba,2012,35.0
+Yuba,2013,52.0
+Yuba,2014,61.0
+Yuba,2015,90.0
+Yuba,2016,141.0
+Yuba,2017,171.0
+Yuba,2018,202.0
+Yuba,2019,234.0
+Statewide,2010,20439.0
+Statewide,2011,21267.0
+Statewide,2012,21778.0
+Statewide,2013,22255.0
+Statewide,2014,38127.0
+Statewide,2015,44035.0
+Statewide,2016,46342.0
+Statewide,2017,46379.0
+Statewide,2018,45126.0
+Statewide,2019,42319.0
+Alameda,2010,1416.0
+Alameda,2011,1420.0
+Alameda,2012,1473.0
+Alameda,2013,1561.0
+Alameda,2014,2353.0
+Alameda,2015,2501.0
+Alameda,2016,2567.0
+Alameda,2017,2546.0
+Alameda,2018,2398.0
+Alameda,2019,2298.0
+Amador / Alpine,2010,15.0
+Amador / Alpine,2011,17.0
+Amador / Alpine,2012,17.0
+Amador / Alpine,2013,18.0
+Amador / Alpine,2014,28.0
+Amador / Alpine,2015,27.0
+Amador / Alpine,2016,36.0
+Amador / Alpine,2017,30.0
+Amador / Alpine,2018,15.0
+Amador / Alpine,2019,26.0
+Butte,2010,202.0
+Butte,2011,232.0
+Butte,2012,211.0
+Butte,2013,214.0
+Butte,2014,400.0
+Butte,2015,485.0
+Butte,2016,545.0
+Butte,2017,567.0
+Butte,2018,538.0
+Butte,2019,491.0
+Calaveras,2014,16.0
+Calaveras,2015,19.0
+Calaveras,2016,22.0
+Calaveras,2017,27.0
+Calaveras,2018,11.0
+Calaveras,2019,11.0
+Colusa,2017,11.0
+Contra Costa,2010,522.0
+Contra Costa,2011,546.0
+Contra Costa,2012,600.0
+Contra Costa,2013,611.0
+Contra Costa,2014,999.0
+Contra Costa,2015,1279.0
+Contra Costa,2016,1357.0
+Contra Costa,2017,1369.0
+Contra Costa,2018,1234.0
+Contra Costa,2019,1127.0
+El Dorado,2010,38.0
+El Dorado,2011,46.0
+El Dorado,2012,48.0
+El Dorado,2013,50.0
+El Dorado,2014,71.0
+El Dorado,2015,95.0
+El Dorado,2016,100.0
+El Dorado,2017,91.0
+El Dorado,2018,94.0
+El Dorado,2019,94.0
+Fresno,2010,1158.0
+Fresno,2011,1214.0
+Fresno,2012,1253.0
+Fresno,2013,1284.0
+Fresno,2014,2043.0
+Fresno,2015,2211.0
+Fresno,2016,2375.0
+Fresno,2017,2316.0
+Fresno,2018,2326.0
+Fresno,2019,2159.0
+Glenn,2014,11.0
+Glenn,2015,13.0
+Glenn,2016,15.0
+Glenn,2017,17.0
+Glenn,2018,28.0
+Glenn,2019,30.0
+Humboldt,2014,13.0
+Humboldt,2015,24.0
+Humboldt,2016,26.0
+Humboldt,2017,19.0
+Imperial,2010,199.0
+Imperial,2011,194.0
+Imperial,2012,227.0
+Imperial,2013,239.0
+Imperial,2014,477.0
+Imperial,2015,528.0
+Imperial,2016,511.0
+Imperial,2017,474.0
+Imperial,2018,454.0
+Kern,2010,750.0
+Kern,2011,763.0
+Kern,2012,818.0
+Kern,2013,808.0
+Kern,2014,1268.0
+Kern,2015,1449.0
+Kern,2016,1552.0
+Kern,2017,1655.0
+Kern,2018,1730.0
+Kern,2019,1749.0
+Kings,2010,50.0
+Kings,2011,45.0
+Kings,2012,46.0
+Kings,2013,45.0
+Kings,2014,105.0
+Kings,2015,127.0
+Kings,2016,110.0
+Kings,2017,96.0
+Kings,2018,79.0
+Kings,2019,61.0
+Lake,2014,13.0
+Lake,2015,13.0
+Lake,2016,22.0
+Lake,2017,24.0
+Lake,2018,11.0
+Lake,2019,24.0
+Lassen / Modoc,2010,161.0
+Lassen / Modoc,2011,183.0
+Lassen / Modoc,2012,189.0
+Lassen / Modoc,2013,192.0
+Lassen / Modoc,2014,300.0
+Lassen / Modoc,2015,321.0
+Lassen / Modoc,2016,332.0
+Lassen / Modoc,2017,341.0
+Lassen / Modoc,2018,378.0
+Lassen / Modoc,2019,365.0
+Los Angeles,2010,4209.0
+Los Angeles,2011,4314.0
+Los Angeles,2012,4275.0
+Los Angeles,2013,4264.0
+Los Angeles,2014,7451.0
+Los Angeles,2015,8015.0
+Los Angeles,2016,8296.0
+Los Angeles,2017,7949.0
+Los Angeles,2018,7131.0
+Los Angeles,2019,6446.0
+Madera,2010,61.0
+Madera,2011,68.0
+Madera,2012,61.0
+Madera,2013,61.0
+Madera,2014,106.0
+Madera,2015,115.0
+Madera,2016,136.0
+Madera,2017,131.0
+Madera,2018,92.0
+Madera,2019,48.0
+Marin,2010,90.0
+Marin,2011,92.0
+Marin,2012,96.0
+Marin,2013,98.0
+Marin,2014,181.0
+Marin,2015,216.0
+Marin,2016,218.0
+Marin,2017,238.0
+Marin,2018,253.0
+Marin,2019,215.0
+Mendocino,2010,14.0
+Mendocino,2011,12.0
+Mendocino,2014,23.0
+Mendocino,2015,41.0
+Mendocino,2016,33.0
+Mendocino,2017,26.0
+Mendocino,2018,29.0
+Mendocino,2019,42.0
+Monterey,2010,177.0
+Monterey,2011,183.0
+Monterey,2012,188.0
+Monterey,2013,183.0
+Monterey,2014,281.0
+Monterey,2015,309.0
+Monterey,2016,334.0
+Monterey,2017,376.0
+Monterey,2018,377.0
+Monterey,2019,380.0
+Napa,2010,29.0
+Napa,2011,24.0
+Napa,2012,27.0
+Napa,2013,23.0
+Napa,2014,50.0
+Napa,2015,63.0
+Napa,2016,52.0
+Napa,2017,64.0
+Napa,2018,60.0
+Napa,2019,47.0
+Nevada,2010,36.0
+Nevada,2011,37.0
+Nevada,2012,36.0
+Nevada,2013,34.0
+Nevada,2014,80.0
+Nevada,2015,85.0
+Nevada,2016,102.0
+Nevada,2017,99.0
+Nevada,2018,93.0
+Nevada,2019,127.0
+Orange,2010,616.0
+Orange,2011,650.0
+Orange,2012,675.0
+Orange,2013,696.0
+Orange,2014,1437.0
+Orange,2015,1756.0
+Orange,2016,1815.0
+Orange,2017,1879.0
+Orange,2018,1801.0
+Orange,2019,1795.0
+Placer,2010,129.0
+Placer,2011,133.0
+Placer,2012,142.0
+Placer,2013,154.0
+Placer,2014,277.0
+Placer,2015,339.0
+Placer,2016,370.0
+Placer,2017,404.0
+Placer,2018,398.0
+Placer,2019,372.0
+Riverside,2010,491.0
+Riverside,2011,538.0
+Riverside,2012,546.0
+Riverside,2013,536.0
+Riverside,2014,975.0
+Riverside,2015,1217.0
+Riverside,2016,1353.0
+Riverside,2017,1565.0
+Riverside,2018,1813.0
+Riverside,2019,1696.0
+Sacramento,2010,1694.0
+Sacramento,2011,1811.0
+Sacramento,2012,1895.0
+Sacramento,2013,1948.0
+Sacramento,2014,2995.0
+Sacramento,2015,3518.0
+Sacramento,2016,3855.0
+Sacramento,2017,3839.0
+Sacramento,2018,3821.0
+Sacramento,2019,3712.0
+San Benito,2014,11.0
+San Benito,2015,13.0
+San Benito,2016,14.0
+San Benito,2017,17.0
+San Benito,2018,13.0
+San Benito,2019,13.0
+San Bernardino,2010,767.0
+San Bernardino,2011,781.0
+San Bernardino,2012,778.0
+San Bernardino,2013,766.0
+San Bernardino,2014,1307.0
+San Bernardino,2015,1496.0
+San Bernardino,2016,1638.0
+San Bernardino,2017,1679.0
+San Bernardino,2018,1670.0
+San Bernardino,2019,1621.0
+San Diego,2010,1079.0
+San Diego,2011,1136.0
+San Diego,2012,1209.0
+San Diego,2013,1354.0
+San Diego,2014,2947.0
+San Diego,2015,3835.0
+San Diego,2016,4186.0
+San Diego,2017,4180.0
+San Diego,2018,4026.0
+San Diego,2019,3733.0
+San Francisco,2010,1751.0
+San Francisco,2011,1779.0
+San Francisco,2012,1781.0
+San Francisco,2013,1761.0
+San Francisco,2014,2716.0
+San Francisco,2015,3063.0
+San Francisco,2016,3040.0
+San Francisco,2017,2935.0
+San Francisco,2018,2784.0
+San Francisco,2019,2699.0
+San Joaquin,2010,1135.0
+San Joaquin,2011,1175.0
+San Joaquin,2012,1201.0
+San Joaquin,2013,1248.0
+San Joaquin,2014,1976.0
+San Joaquin,2015,2178.0
+San Joaquin,2016,2324.0
+San Joaquin,2017,2381.0
+San Joaquin,2018,2403.0
+San Joaquin,2019,2186.0
+San Luis Obispo,2010,137.0
+San Luis Obispo,2011,171.0
+San Luis Obispo,2012,174.0
+San Luis Obispo,2013,192.0
+San Luis Obispo,2014,291.0
+San Luis Obispo,2015,350.0
+San Luis Obispo,2016,383.0
+San Luis Obispo,2017,399.0
+San Luis Obispo,2018,403.0
+San Luis Obispo,2019,380.0
+San Mateo,2010,127.0
+San Mateo,2011,114.0
+San Mateo,2012,129.0
+San Mateo,2013,130.0
+San Mateo,2014,288.0
+San Mateo,2015,346.0
+San Mateo,2016,352.0
+San Mateo,2017,324.0
+San Mateo,2018,307.0
+San Mateo,2019,217.0
+Santa Barbara,2010,311.0
+Santa Barbara,2011,311.0
+Santa Barbara,2012,356.0
+Santa Barbara,2013,353.0
+Santa Barbara,2014,559.0
+Santa Barbara,2015,624.0
+Santa Barbara,2016,703.0
+Santa Barbara,2017,735.0
+Santa Barbara,2018,728.0
+Santa Barbara,2019,701.0
+Santa Clara,2010,316.0
+Santa Clara,2011,301.0
+Santa Clara,2012,279.0
+Santa Clara,2013,292.0
+Santa Clara,2014,517.0
+Santa Clara,2015,597.0
+Santa Clara,2016,601.0
+Santa Clara,2017,591.0
+Santa Clara,2018,542.0
+Santa Clara,2019,516.0
+Santa Cruz,2010,244.0
+Santa Cruz,2011,242.0
+Santa Cruz,2012,257.0
+Santa Cruz,2013,260.0
+Santa Cruz,2014,536.0
+Santa Cruz,2015,645.0
+Santa Cruz,2016,701.0
+Santa Cruz,2017,650.0
+Santa Cruz,2018,630.0
+Santa Cruz,2019,647.0
+Shasta,2010,42.0
+Shasta,2011,43.0
+Shasta,2012,29.0
+Shasta,2013,36.0
+Shasta,2014,63.0
+Shasta,2015,92.0
+Shasta,2016,112.0
+Shasta,2017,193.0
+Shasta,2018,250.0
+Shasta,2019,280.0
+Siskiyou / Trinity,2019,13.0
+Solano,2010,209.0
+Solano,2011,235.0
+Solano,2012,264.0
+Solano,2013,282.0
+Solano,2014,446.0
+Solano,2015,590.0
+Solano,2016,665.0
+Solano,2017,648.0
+Solano,2018,663.0
+Solano,2019,655.0
+Sonoma,2010,314.0
+Sonoma,2011,302.0
+Sonoma,2012,255.0
+Sonoma,2013,287.0
+Sonoma,2014,536.0
+Sonoma,2015,607.0
+Sonoma,2016,551.0
+Sonoma,2017,536.0
+Sonoma,2018,501.0
+Sonoma,2019,491.0
+Stanislaus,2010,529.0
+Stanislaus,2011,608.0
+Stanislaus,2012,649.0
+Stanislaus,2013,673.0
+Stanislaus,2014,961.0
+Stanislaus,2015,1265.0
+Stanislaus,2016,1399.0
+Stanislaus,2017,1458.0
+Stanislaus,2018,1471.0
+Stanislaus,2019,1495.0
+Sutter,2010,81.0
+Sutter,2011,106.0
+Sutter,2012,101.0
+Sutter,2013,109.0
+Sutter,2014,165.0
+Sutter,2015,203.0
+Sutter,2016,230.0
+Sutter,2017,212.0
+Sutter,2018,222.0
+Sutter,2019,191.0
+Tehama,2010,34.0
+Tehama,2011,27.0
+Tehama,2012,33.0
+Tehama,2013,30.0
+Tehama,2014,57.0
+Tehama,2015,66.0
+Tehama,2016,71.0
+Tehama,2017,46.0
+Tehama,2018,64.0
+Tehama,2019,58.0
+Tulare,2010,484.0
+Tulare,2011,516.0
+Tulare,2012,508.0
+Tulare,2013,521.0
+Tulare,2014,948.0
+Tulare,2015,1086.0
+Tulare,2016,1112.0
+Tulare,2017,1057.0
+Tulare,2018,1064.0
+Tulare,2019,931.0
+Tuolumne,2015,13.0
+Tuolumne,2016,20.0
+Tuolumne,2017,16.0
+Tuolumne,2018,15.0
+Tuolumne,2019,15.0
+Ventura,2010,552.0
+Ventura,2011,623.0
+Ventura,2012,647.0
+Ventura,2013,623.0
+Ventura,2014,1316.0
+Ventura,2015,1475.0
+Ventura,2016,1540.0
+Ventura,2017,1618.0
+Ventura,2018,1627.0
+Ventura,2019,1609.0
+Yolo,2010,101.0
+Yolo,2011,95.0
+Yolo,2012,100.0
+Yolo,2013,105.0
+Yolo,2014,188.0
+Yolo,2015,223.0
+Yolo,2016,255.0
+Yolo,2017,253.0
+Yolo,2018,233.0
+Yolo,2019,221.0
+Yuba,2010,127.0
+Yuba,2011,139.0
+Yuba,2012,146.0
+Yuba,2013,140.0
+Yuba,2014,214.0
+Yuba,2015,266.0
+Yuba,2016,286.0
+Yuba,2017,282.0
+Yuba,2018,315.0
+Yuba,2019,304.0
+Statewide,2010,24.0
+Statewide,2011,28.0
+Statewide,2012,43.0
+Statewide,2013,128.0
+Statewide,2014,467.0
+Statewide,2015,595.0
+Statewide,2016,1593.0
+Statewide,2017,4415.0
+Statewide,2018,12892.0
+Statewide,2019,59758.0
+Alameda,2014,12.0
+Alameda,2015,34.0
+Alameda,2016,112.0
+Alameda,2017,287.0
+Alameda,2018,652.0
+Alameda,2019,2243.0
+Amador / Alpine,2018,20.0
+Amador / Alpine,2019,87.0
+Butte,2014,49.0
+Butte,2015,42.0
+Butte,2016,100.0
+Butte,2017,210.0
+Butte,2018,274.0
+Butte,2019,573.0
+Calaveras,2018,11.0
+Calaveras,2019,76.0
+Colusa,2019,23.0
+Contra Costa,2016,38.0
+Contra Costa,2017,127.0
+Contra Costa,2018,390.0
+Contra Costa,2019,1909.0
+Del Norte,2017,108.0
+Del Norte,2018,124.0
+Del Norte,2019,263.0
+El Dorado,2016,22.0
+El Dorado,2017,60.0
+El Dorado,2018,180.0
+El Dorado,2019,521.0
+Fresno,2016,20.0
+Fresno,2017,54.0
+Fresno,2018,214.0
+Fresno,2019,1786.0
+Glenn,2018,22.0
+Glenn,2019,81.0
+Humboldt,2016,48.0
+Humboldt,2017,82.0
+Humboldt,2018,348.0
+Humboldt,2019,836.0
+Imperial,2018,57.0
+Imperial,2019,335.0
+Inyo / Mono,2019,51.0
+Kern,2018,187.0
+Kern,2019,1523.0
+Kings,2018,56.0
+Kings,2019,479.0
+Lake,2016,23.0
+Lake,2017,34.0
+Lake,2018,213.0
+Lake,2019,351.0
+Lassen / Modoc,2017,12.0
+Lassen / Modoc,2018,160.0
+Lassen / Modoc,2019,727.0
+Los Angeles,2016,113.0
+Los Angeles,2017,336.0
+Los Angeles,2018,1485.0
+Los Angeles,2019,10021.0
+Madera,2018,17.0
+Madera,2019,222.0
+Marin,2017,32.0
+Marin,2018,54.0
+Marin,2019,273.0
+Mendocino,2017,49.0
+Mendocino,2018,135.0
+Mendocino,2019,333.0
+Merced/Mariposa,2018,24.0
+Merced/Mariposa,2019,60.0
+Monterey,2016,47.0
+Monterey,2017,101.0
+Monterey,2018,175.0
+Monterey,2019,623.0
+Napa,2017,33.0
+Napa,2018,32.0
+Napa,2019,140.0
+Nevada,2018,128.0
+Nevada,2019,247.0
+Orange,2017,99.0
+Orange,2018,554.0
+Orange,2019,3524.0
+Placer,2016,17.0
+Placer,2017,30.0
+Placer,2018,186.0
+Placer,2019,602.0
+Plumas / Sierra,2017,12.0
+Plumas / Sierra,2018,22.0
+Plumas / Sierra,2019,107.0
+Riverside,2016,15.0
+Riverside,2017,146.0
+Riverside,2018,646.0
+Riverside,2019,4966.0
+Sacramento,2016,18.0
+Sacramento,2017,85.0
+Sacramento,2018,873.0
+Sacramento,2019,3627.0
+San Benito,2019,38.0
+San Bernardino,2016,37.0
+San Bernardino,2017,117.0
+San Bernardino,2018,580.0
+San Bernardino,2019,5037.0
+San Diego,2015,20.0
+San Diego,2016,49.0
+San Diego,2017,428.0
+San Diego,2018,1302.0
+San Diego,2019,4027.0
+San Francisco,2013,73.0
+San Francisco,2014,302.0
+San Francisco,2015,233.0
+San Francisco,2016,496.0
+San Francisco,2017,672.0
+San Francisco,2018,1310.0
+San Francisco,2019,2873.0
+San Joaquin,2010,14.0
+San Joaquin,2011,16.0
+San Joaquin,2012,31.0
+San Joaquin,2013,23.0
+San Joaquin,2014,37.0
+San Joaquin,2017,12.0
+San Joaquin,2018,91.0
+San Joaquin,2019,667.0
+San Luis Obispo,2014,12.0
+San Luis Obispo,2015,128.0
+San Luis Obispo,2016,76.0
+San Luis Obispo,2017,249.0
+San Luis Obispo,2018,183.0
+San Luis Obispo,2019,534.0
+San Mateo,2016,12.0
+San Mateo,2017,41.0
+San Mateo,2018,122.0
+San Mateo,2019,391.0
+Santa Barbara,2015,41.0
+Santa Barbara,2017,88.0
+Santa Barbara,2018,164.0
+Santa Barbara,2019,1036.0
+Santa Clara,2015,35.0
+Santa Clara,2016,102.0
+Santa Clara,2017,146.0
+Santa Clara,2018,228.0
+Santa Clara,2019,1680.0
+Santa Cruz,2016,12.0
+Santa Cruz,2017,67.0
+Santa Cruz,2018,117.0
+Santa Cruz,2019,399.0
+Shasta,2017,62.0
+Shasta,2018,192.0
+Shasta,2019,474.0
+Siskiyou / Trinity,2017,15.0
+Siskiyou / Trinity,2018,78.0
+Siskiyou / Trinity,2019,130.0
+Solano,2017,42.0
+Solano,2018,124.0
+Solano,2019,702.0
+Sonoma,2016,43.0
+Sonoma,2017,230.0
+Sonoma,2018,357.0
+Sonoma,2019,1059.0
+Stanislaus,2013,16.0
+Stanislaus,2014,23.0
+Stanislaus,2016,22.0
+Stanislaus,2017,76.0
+Stanislaus,2018,275.0
+Stanislaus,2019,1196.0
+Sutter,2017,13.0
+Sutter,2018,28.0
+Sutter,2019,194.0
+Tehama,2018,29.0
+Tehama,2019,173.0
+Tulare,2018,87.0
+Tulare,2019,933.0
+Tuolumne,2016,14.0
+Tuolumne,2017,26.0
+Tuolumne,2018,24.0
+Tuolumne,2019,162.0
+Ventura,2016,56.0
+Ventura,2017,127.0
+Ventura,2018,213.0
+Ventura,2019,827.0
+Yolo,2017,33.0
+Yolo,2018,79.0
+Yolo,2019,364.0
+Yuba,2017,14.0
+Yuba,2018,48.0
+Yuba,2019,253.0
+Statewide,2010,320.0
+Statewide,2011,341.0
+Statewide,2012,357.0
+Statewide,2013,344.0
+Statewide,2014,1881.0
+Statewide,2015,3446.0
+Statewide,2016,5017.0
+Statewide,2017,7811.0
+Statewide,2018,10845.0
+Statewide,2019,14522.0
+Alameda,2010,11.0
+Alameda,2014,65.0
+Alameda,2015,136.0
+Alameda,2016,278.0
+Alameda,2017,359.0
+Alameda,2018,485.0
+Alameda,2019,605.0
+Butte,2010,30.0
+Butte,2011,27.0
+Butte,2012,17.0
+Butte,2013,16.0
+Butte,2014,40.0
+Butte,2015,57.0
+Butte,2016,97.0
+Butte,2017,117.0
+Butte,2018,151.0
+Butte,2019,149.0
+Calaveras,2017,13.0
+Calaveras,2018,17.0
+Contra Costa,2012,13.0
+Contra Costa,2013,11.0
+Contra Costa,2014,62.0
+Contra Costa,2015,107.0
+Contra Costa,2016,181.0
+Contra Costa,2017,281.0
+Contra Costa,2018,350.0
+Contra Costa,2019,395.0
+Del Norte,2014,14.0
+Del Norte,2015,13.0
+Del Norte,2017,18.0
+Del Norte,2018,26.0
+Del Norte,2019,20.0
+El Dorado,2015,23.0
+El Dorado,2016,40.0
+El Dorado,2017,40.0
+El Dorado,2018,47.0
+El Dorado,2019,126.0
+Fresno,2014,23.0
+Fresno,2015,37.0
+Fresno,2016,52.0
+Fresno,2017,75.0
+Fresno,2018,124.0
+Fresno,2019,178.0
+Glenn,2019,14.0
+Humboldt,2014,12.0
+Humboldt,2015,35.0
+Humboldt,2016,66.0
+Humboldt,2017,97.0
+Humboldt,2018,229.0
+Humboldt,2019,269.0
+Imperial,2014,13.0
+Imperial,2015,29.0
+Imperial,2016,28.0
+Imperial,2017,33.0
+Imperial,2018,45.0
+Imperial,2019,72.0
+Inyo / Mono,2017,11.0
+Inyo / Mono,2018,15.0
+Inyo / Mono,2019,26.0
+Kern,2014,20.0
+Kern,2015,33.0
+Kern,2016,53.0
+Kern,2017,72.0
+Kern,2018,106.0
+Kern,2019,156.0
+Kings,2017,16.0
+Kings,2018,21.0
+Kings,2019,31.0
+Lake,2014,15.0
+Lake,2015,26.0
+Lake,2016,43.0
+Lake,2017,52.0
+Lake,2018,60.0
+Lake,2019,87.0
+Lassen / Modoc,2015,16.0
+Lassen / Modoc,2016,12.0
+Lassen / Modoc,2017,16.0
+Lassen / Modoc,2018,23.0
+Lassen / Modoc,2019,36.0
+Los Angeles,2010,47.0
+Los Angeles,2011,47.0
+Los Angeles,2012,38.0
+Los Angeles,2013,46.0
+Los Angeles,2014,322.0
+Los Angeles,2015,563.0
+Los Angeles,2016,806.0
+Los Angeles,2017,1393.0
+Los Angeles,2018,2208.0
+Los Angeles,2019,3368.0
+Madera,2019,19.0
+Marin,2014,30.0
+Marin,2015,76.0
+Marin,2016,78.0
+Marin,2017,131.0
+Marin,2018,158.0
+Marin,2019,136.0
+Mendocino,2015,16.0
+Mendocino,2016,31.0
+Mendocino,2017,50.0
+Mendocino,2018,45.0
+Mendocino,2019,71.0
+Merced/Mariposa,2015,15.0
+Merced/Mariposa,2016,15.0
+Merced/Mariposa,2017,28.0
+Merced/Mariposa,2018,33.0
+Merced/Mariposa,2019,32.0
+Monterey,2014,54.0
+Monterey,2015,133.0
+Monterey,2016,168.0
+Monterey,2017,155.0
+Monterey,2018,177.0
+Monterey,2019,201.0
+Napa,2014,15.0
+Napa,2015,16.0
+Napa,2016,20.0
+Napa,2017,49.0
+Napa,2018,42.0
+Napa,2019,58.0
+Nevada,2015,32.0
+Nevada,2016,39.0
+Nevada,2017,51.0
+Nevada,2018,56.0
+Nevada,2019,81.0
+Orange,2012,12.0
+Orange,2013,12.0
+Orange,2014,77.0
+Orange,2015,191.0
+Orange,2016,286.0
+Orange,2017,497.0
+Orange,2018,602.0
+Orange,2019,730.0
+Placer,2014,16.0
+Placer,2015,29.0
+Placer,2016,65.0
+Placer,2017,77.0
+Placer,2018,143.0
+Placer,2019,143.0
+Plumas / Sierra,2017,12.0
+Plumas / Sierra,2018,19.0
+Plumas / Sierra,2019,21.0
+Riverside,2011,11.0
+Riverside,2014,78.0
+Riverside,2015,126.0
+Riverside,2016,156.0
+Riverside,2017,389.0
+Riverside,2018,558.0
+Riverside,2019,856.0
+Sacramento,2010,17.0
+Sacramento,2011,18.0
+Sacramento,2012,20.0
+Sacramento,2013,20.0
+Sacramento,2014,60.0
+Sacramento,2015,108.0
+Sacramento,2016,190.0
+Sacramento,2017,261.0
+Sacramento,2018,388.0
+Sacramento,2019,539.0
+San Bernardino,2014,58.0
+San Bernardino,2015,125.0
+San Bernardino,2016,150.0
+San Bernardino,2017,303.0
+San Bernardino,2018,535.0
+San Bernardino,2019,747.0
+San Diego,2010,48.0
+San Diego,2011,57.0
+San Diego,2012,79.0
+San Diego,2013,46.0
+San Diego,2014,195.0
+San Diego,2015,356.0
+San Diego,2016,568.0
+San Diego,2017,890.0
+San Diego,2018,1158.0
+San Diego,2019,1609.0
+San Francisco,2010,29.0
+San Francisco,2011,28.0
+San Francisco,2012,27.0
+San Francisco,2013,37.0
+San Francisco,2014,257.0
+San Francisco,2015,347.0
+San Francisco,2016,447.0
+San Francisco,2017,582.0
+San Francisco,2018,723.0
+San Francisco,2019,797.0
+San Joaquin,2015,13.0
+San Joaquin,2016,24.0
+San Joaquin,2017,55.0
+San Joaquin,2018,90.0
+San Joaquin,2019,175.0
+San Luis Obispo,2014,25.0
+San Luis Obispo,2015,55.0
+San Luis Obispo,2016,58.0
+San Luis Obispo,2017,83.0
+San Luis Obispo,2018,121.0
+San Luis Obispo,2019,157.0
+San Mateo,2011,16.0
+San Mateo,2012,20.0
+San Mateo,2013,23.0
+San Mateo,2014,63.0
+San Mateo,2015,123.0
+San Mateo,2016,240.0
+San Mateo,2017,283.0
+San Mateo,2018,319.0
+San Mateo,2019,344.0
+Santa Barbara,2010,17.0
+Santa Barbara,2014,22.0
+Santa Barbara,2015,47.0
+Santa Barbara,2016,90.0
+Santa Barbara,2017,127.0
+Santa Barbara,2018,156.0
+Santa Barbara,2019,208.0
+Santa Clara,2012,11.0
+Santa Clara,2014,56.0
+Santa Clara,2015,87.0
+Santa Clara,2016,117.0
+Santa Clara,2017,237.0
+Santa Clara,2018,335.0
+Santa Clara,2019,375.0
+Santa Cruz,2014,46.0
+Santa Cruz,2015,113.0
+Santa Cruz,2016,131.0
+Santa Cruz,2017,181.0
+Santa Cruz,2018,200.0
+Santa Cruz,2019,260.0
+Shasta,2014,19.0
+Shasta,2015,50.0
+Shasta,2016,63.0
+Shasta,2017,86.0
+Shasta,2018,115.0
+Shasta,2019,191.0
+Siskiyou / Trinity,2015,14.0
+Siskiyou / Trinity,2016,16.0
+Siskiyou / Trinity,2017,35.0
+Siskiyou / Trinity,2018,56.0
+Siskiyou / Trinity,2019,55.0
+Solano,2014,14.0
+Solano,2015,22.0
+Solano,2016,51.0
+Solano,2017,73.0
+Solano,2018,110.0
+Solano,2019,126.0
+Sonoma,2014,36.0
+Sonoma,2015,58.0
+Sonoma,2016,85.0
+Sonoma,2017,157.0
+Sonoma,2018,199.0
+Sonoma,2019,278.0
+Stanislaus,2014,14.0
+Stanislaus,2015,13.0
+Stanislaus,2016,23.0
+Stanislaus,2017,28.0
+Stanislaus,2018,38.0
+Stanislaus,2019,82.0
+Sutter,2017,26.0
+Sutter,2018,20.0
+Sutter,2019,17.0
+Tehama,2017,12.0
+Tehama,2018,32.0
+Tehama,2019,62.0
+Tulare,2015,34.0
+Tulare,2016,21.0
+Tulare,2017,31.0
+Tulare,2018,66.0
+Tulare,2019,68.0
+Tuolumne,2017,13.0
+Tuolumne,2018,20.0
+Tuolumne,2019,22.0
+Ventura,2010,11.0
+Ventura,2011,12.0
+Ventura,2012,15.0
+Ventura,2013,17.0
+Ventura,2014,67.0
+Ventura,2015,92.0
+Ventura,2016,132.0
+Ventura,2017,218.0
+Ventura,2018,292.0
+Ventura,2019,358.0
+Yolo,2015,16.0
+Yolo,2016,25.0
+Yolo,2017,64.0
+Yolo,2018,81.0
+Yolo,2019,119.0
+Yuba,2017,12.0
+Yuba,2018,12.0
+Yuba,2019,24.0
