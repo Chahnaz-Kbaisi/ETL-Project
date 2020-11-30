@@ -4,7 +4,7 @@
 ![Alt Text](https://www.kemahpalms.com/wp-content/uploads/2020/05/Opioid-Epidemic.jpeg)
 
 ### Team Members:
-* Chahnaz Kbaisi (https://github.com/Chahnaz-Kbaisi)
+* Chahnaz Kbaisi (Chahnaz-Kbaisi)
 * Susan Thomas (https://github.com/SusanCThomas)
 * Prarthna Ashutoshmunidottir (https://github.com/Prarthna-design)
 
