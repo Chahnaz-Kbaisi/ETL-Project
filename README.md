@@ -5,7 +5,7 @@
 
 ### Team Members:
 * Chahnaz Kbaisi !(Chahnaz-Kbaisi)
-* Susan Thomas (https://github.com/SusanCThomas)
+* Susan Thomas ![Alt Text](https://github.com/SusanCThomas)
 * Prarthna Ashutoshmunidottir (https://github.com/Prarthna-design)
 
 
