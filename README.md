@@ -1,7 +1,10 @@
 # ETL-Project: 
 # Insight into the Opioid Epidemic from Rates of Prescription and Overdose Deaths  
 
-[alt text](https://www.kemahpalms.com/wp-content/uploads/2020/05/Opioid-Epidemic.jpeg)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://www.kemahpalms.com/wp-content/uploads/2020/05/Opioid-Epidemic.jpeg)
+
+
 
 ## Project Description/Outline:
 
