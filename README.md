@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question 1](##key-question)
+[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question(Part 1)](##key-question) | [Data Sources(Part 1)](##data-sources)
 
 
 # Project Description:
@@ -21,15 +21,21 @@ After picking a topic, we developed some key questions to inform our data search
 
 ## The Three Key areas we investigated are:
 
-# Part 1: Assessing Opioid Prescriptions across the US from 1999 to 2014 
+# Part 1: 
 
-## Key Question: What is the rate of opioid prescriptions across the US from 1999 to 2014?
+* **Part_1**
 
-Data sources: 
+### Assessing Opioid Prescriptions across the US from 1999 to 2014 
 
-https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018 
+## Key Question(Part 1): 
 
-https://data.world/jessicayung/opioid-prescriptions-dispensed
+### What is the rate of opioid prescriptions across the US from 1999 to 2014?
+
+## Data Sources(Part 1): 
+
+[Opioid Prescribing Rates at VA Facilities 2012 - 2018](https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018) 
+
+[Opioid Prescriptions Dispensed](https://data.world/jessicayung/opioid-prescriptions-dispensed)
 
 
 
