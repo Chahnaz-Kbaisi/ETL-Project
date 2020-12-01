@@ -26,7 +26,7 @@
 * [Load](#Load) 
 * [Process Limitations](#process-limitations) 
 * [Data Analysis](#data-analysis)
-* [Languages & Libaraties](#languages-&-libraries)
+* [Languages & Libraries](#languages-&-libraries)
 
 
 # Project Description:
