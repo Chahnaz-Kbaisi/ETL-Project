@@ -132,7 +132,14 @@ After picking a topic, we developed some key questions to inform our data search
 * Reconciled variations in data forms to ensure proper joining
 * Created plots based on joined data and built dataset
 
+# Part 3 Analysis:
+
+The below Plotly Express shows the number of annual deaths between 1999 & 2018 for all states. This data was acquired from the CDC's wonder database by quering specific paramters and using the ICD-10 codes for opioid related deaths.
+
 ![States Overdose Deaths](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/SnapShoots/states_overdose_animated_map_snapshoot.png)
+
+
+Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had th highesy number of death and the greatest increases over that time spam. 
 
 # Languages And Libraries
 ***
