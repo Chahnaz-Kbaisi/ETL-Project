@@ -26,7 +26,7 @@
 * [Load](#Load) 
 * [Process Limitations](#process-limitations) 
 * [Data Analysis](#data-analysis)
-* [Languages & Libraries](#languages-&-libraries)
+* [Languages And Libraries](#languages-and-libraries)
 
 
 # Project Description:
@@ -118,7 +118,7 @@ In combing the data, one of the major problems was that periods for different da
 ***
 
 
-# Languages & Libraries
+# Languages And Libraries
 ***
 > * Jupyter Notebook
 > * PostgresSQL 
