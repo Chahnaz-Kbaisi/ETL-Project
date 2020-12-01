@@ -12,7 +12,7 @@
 
 * [Project Description](#project-description) 
 * [Research Areas](#research-areas) 
-* [Project Key Areas of Investigation](#project-key-areas-of-investigation
+* [Project Key Areas of Investigation](#project-key-areas-of-investigation)
   [Part 1](#part-1) | [Part 2](#part-2) | [Part 3](#part-3) 
   ----------------- | ----------------- | ----------------- |
   [Key Question Part 1](#key-question-part-1) |  [Key Question Part 2](#key-question-part-2) | [Key Questions Part 3](#key-questions-part-3) | 
