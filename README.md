@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](# Project-Description:)
+[Project Description](#Description:)
 
 
 # Project Description:
