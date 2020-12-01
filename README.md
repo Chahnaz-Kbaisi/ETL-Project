@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1) | [Part 2](#part-2) [Key Question Part 2](#key-question-part-2) | [Data Sources Part 2](#data-sources-part-2) | [Part 3](#part-3) [Key Questions Part 3](#key-questions-part-3) | [Data Sources Part 3](#data-sources-part-3)
+[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1) | [Part 2](#part-2) | [Key Question Part 2](#key-question-part-2) | [Data Sources Part 2](#data-sources-part-2) | [Part 3](#part-3) |[Key Questions Part 3](#key-questions-part-3) | [Data Sources Part 3](#data-sources-part-3)
 
 
 # Project Description:
@@ -73,6 +73,12 @@ After picking a topic, we developed some key questions to inform our data search
   - [Drug Use, Employment, Work Absence, Income, Race, Education](https://data.world/balexturner/drug-use-employment-work-absence-income-race-education)
   - [Medication-Assisted Treatment in Medi-Cal for Opioid Use](https://data.world/chhs/8329a339-ab77-4d05-ab7a-405d0ae5765c)
   - [Opioid related deaths by state with demographics (Built dataset at)](https://wonder.cdc.gov/controller/datarequest/D76)
+  
+# Extract
+***
+
+Our data source extraction was from csv files. After deep exploration of the data we needed for this project, we started the retrieval process by writing the code for extraction and then running it through transformation steps to get it ready for loading. In the extraction step, we read csv files and saved them into pandas dataframe for the next step. 
+  
   
   
 
