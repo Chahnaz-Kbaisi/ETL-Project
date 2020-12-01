@@ -12,12 +12,11 @@
 
 * [Project Description](#project-description) 
 * [Research Areas](#research-areas) 
-* [Part 1](#part-1)
-* [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1) 
-* [Part 2](#part-2)  
-* [Key Question Part 2](#key-question-part-2) | [Data Sources Part 2](#data-sources-part-2) 
-* [Part 3](#part-3) 
-* [Key Questions Part 3](#key-questions-part-3) | [Data Sources Part 3](#data-sources-part-3) 
+* [Project Key Areas of Investigation](#project-key-areas-of-investigation
+  [Part 1](#part-1) | [Part 2](#part-2) | [Part 3](#part-3) 
+  ----------------- | ----------------- | ----------------- |
+  [Key Question Part 1](#key-question-part-1) |  [Key Question Part 2](#key-question-part-2) | [Key Questions Part 3](#key-questions-part-3) | 
+  [Data Sources Part 1](#data-sources-part-1) |  [Data Sources Part 2](#data-sources-part-2) | [Data Sources Part 3](#data-sources-part-3) |
 * [Extract](#extract) 
 * [Transform](#transform) 
 * [Load](#Load) 
@@ -34,7 +33,7 @@ This project assesses the prescribing of opioid drugs across the US from 1999 to
 
 After picking a topic, we developed some key questions to inform our data search. Then, we narrowed down the unfiltered data to a few datasets for each part to then take a closer look and pick the sets that could potentially be analyzed to answer our key questions. We used a team approach by which every member was able to engage in each of the steps so that learning, usage and application would be as comprehensive as possible. Each team member studied their respective dataset and then downloaded the files to begin the extraction step
 
-## The Three Key areas we investigated are:
+# Project Key Areas of Investigation:
 ***
 
 # Part 1: 
