@@ -10,41 +10,41 @@ DROP TABLE IF EXISTS opioid_death;
 -- Create tables for raw data to be loaded into:
 -- Table 1:
 CREATE TABLE overdose_death (
-	State VARCHAR NOT NULL,	
-	Year INT NOT NULL,
-	Population INT NOT NULL,
-	Crude_Rate VARCHAR NOT NULL,
-	Dispensed_Prescriptions INT NOT NULL
+	state VARCHAR NOT NULL,	
+	year INT NOT NULL,
+	population INT NOT NULL,
+	crude_rate VARCHAR NOT NULL,
+	dispensed_prescriptions INT NOT NULL
 );
 SELECT * FROM overdose_death;
 
 -- Table 2:
 CREATE TABLE demographic_drug_use (
-	Total_Family_Income INT NOT NULL, 
-	Pain_Relieve_Ever INT NOT NULL,
-	Employment_Status INT NOT NULL,	
-	Race VARCHAR(255) NOT NULL,	
-	Education INT NOT NULL,	
-	Gender VARCHAR(255) NOT NULL
+	total_family_income INT NOT NULL, 
+	pain_relieve_ever INT NOT NULL,
+	employment_status INT NOT NULL,	
+	race VARCHAR(255) NOT NULL,	
+	education INT NOT NULL,	
+	gender VARCHAR(255) NOT NULL
 );
 SELECT * FROM demographic_drug_use;
 
 -- Table 3:
 CREATE TABLE assisted_treatment (
-	County VARCHAR(255) NOT NULL,
-	Year INT NOT NULL,	
-	Beneficiaries VARCHAR(255) NOT NULL
+	county VARCHAR(255) NOT NULL,
+	year INT NOT NULL,	
+	beneficiaries VARCHAR(255) NOT NULL
 );
 SELECT * FROM assisted_treatment;
 
 -- Table 4:
 CREATE TABLE opioid_death(
-	State VARCHAR(255) NOT NULL,	
-	Gender VARCHAR(255) NOT NULL,	
-	Race VARCHAR(255) NOT NULL,	
-	Year INT NOT NULL,	
-	Deaths INT NOT NULL,		
-	Population INT NOT NULL		
+	state VARCHAR(255) NOT NULL,	
+	gender VARCHAR(255) NOT NULL,	
+	race VARCHAR(255) NOT NULL,	
+	year INT NOT NULL,	
+	deaths INT NOT NULL,		
+	population INT NOT NULL		
 );
 SELECT * FROM opioid_death;
 
@@ -60,6 +60,7 @@ SELECT op.year AS "Year",
 		od.Dispensed_Prescriptions AS "Dispensed Prescription"
 FROM overdose_death as od 
 JOIN opioid_death as op 
-ON od.year = op.year;
+ON od.year = op.year AND od.year = op.year
+WHERE od.year BETWEEN 1999 AND 2014;
 
 
