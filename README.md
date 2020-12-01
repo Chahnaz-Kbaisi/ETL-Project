@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question(Part 1)](#key-question) | [Data Sources(Part 1)](#data-sources)
+[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question(Part 1)](#key-question(Part-1)) | [Data Sources(Part 1)](#data-sources(Part-1))
 
 
 # Project Description:
