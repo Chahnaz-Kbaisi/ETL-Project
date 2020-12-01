@@ -50,7 +50,6 @@ After picking a topic, we developed some key questions to inform our data search
 # Data Sources Part 1: 
 
   - [Opioid Prescribing Rates at VA Facilities 2012 - 2018](https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018) 
-
   - [Opioid Prescriptions Dispensed](https://data.world/jessicayung/opioid-prescriptions-dispensed)
 
 # Part 2:
@@ -66,7 +65,6 @@ After picking a topic, we developed some key questions to inform our data search
 # Data Sources Part 2: 
 
   - [Opioid Overdose Deaths](https://data.world/health/opioid-overdose-deaths)
-
   - [U.S. Opiate Prescriptions/Overdoses](https://www.kaggle.com/apryor6/us-opiate-prescriptions)
 
 # Part 3:
@@ -88,8 +86,8 @@ After picking a topic, we developed some key questions to inform our data search
   - [Drug Use, Employment, Work Absence, Income, Race, Education](https://data.world/balexturner/drug-use-employment-work-absence-income-race-education)
   - [Medication-Assisted Treatment in Medi-Cal for Opioid Use](https://data.world/chhs/8329a339-ab77-4d05-ab7a-405d0ae5765c)
   - [Opioid related deaths by state with demographics (Built dataset at)](https://wonder.cdc.gov/controller/datarequest/D76)
-  
-  * Note: Usage of the CDC Wonder database requires acceptance of the sites rules. Once in the form, user must provide search criteria for the specific data types and the categories of inclusion. The data herein was built with the following inclusion criteria: state, year, gender, race, and mortality due to opioid overdose (ICD-40). 
+    
+    Note: Usage of the CDC Wonder database requires acceptance of the sites rules. Once in the form, user must provide search criteria for the specific data types              and the categories of inclusion. The data herein was built with the following inclusion criteria: state, year, gender, race, and mortality due to opioid overdose (ICD-40). 
   
 # Extract
 ***
