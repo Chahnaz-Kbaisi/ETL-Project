@@ -69,7 +69,7 @@ After picking a topic, we developed some key questions to inform our data search
 
 # Part 3:
 
-* **Part_3**
+[Part_3](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_3)
 
 ### Demographic information on opioid usage and overdose death across the US
 
@@ -131,6 +131,8 @@ After picking a topic, we developed some key questions to inform our data search
 * Combined data from different datasets that were misaligned
 * Reconciled variations in data forms to ensure proper joining
 * Created plots based on joined data and built dataset
+
+![States Overdose Deaths](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/SnapShoots/states_overdose_animated_map_snapshoot.png)
 
 # Languages And Libraries
 ***
