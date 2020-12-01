@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1)
+[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1) | [Part 2](#part-2) [Key Question Part 2](#key-question-part-2) | [Data Sources Part 2](#data-sources-part-2) | [Part 3](#part-3) [Key Questions Part 3](#key-questions-part-3) | [Data Sources Part 3](#data-sources-part-3)
 
 
 # Project Description:
@@ -20,9 +20,9 @@ This project assesses the prescribing of opioid drugs across the US from 1999 to
 After picking a topic, we developed some key questions to inform our data search. Then, we narrowed down the unfiltered data to a few datasets for each part to then take a closer look and pick the sets that could potentially be analyzed to answer our key questions. We used a team approach by which every member was able to engage in each of the steps so that learning, usage and application would be as comprehensive as possible. Each team member studied their respective dataset and then downloaded the files to begin the extraction step
 
 ## The Three Key areas we investigated are:
+***
 
 # Part 1: 
-***
 
 * **Part_1**
 
@@ -34,9 +34,50 @@ After picking a topic, we developed some key questions to inform our data search
 
 # Data Sources Part 1: 
 
-[Opioid Prescribing Rates at VA Facilities 2012 - 2018](https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018) 
+  - [Opioid Prescribing Rates at VA Facilities 2012 - 2018](https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018) 
 
-[Opioid Prescriptions Dispensed](https://data.world/jessicayung/opioid-prescriptions-dispensed)
+  - [Opioid Prescriptions Dispensed](https://data.world/jessicayung/opioid-prescriptions-dispensed)
+
+# Part 2:
+
+* **Part_2**
+
+### Information on Opioid Dispensers in the US 
+
+# Key Question Part 2:  
+
+### What is the relevant information about dispensers and medical facilities?
+
+# Data Sources Part 2: 
+
+  - [Opioid Overdose Deaths](https://data.world/health/opioid-overdose-deaths)
+
+  - [U.S. Opiate Prescriptions/Overdoses](https://www.kaggle.com/apryor6/us-opiate-prescriptions)
+
+# Part 3:
+
+* **Part_3**
+
+### Demographic information on opioid usage and overdose death across the US
+
+# Key Questions Part 3:  
+
+  * What is the prevalence of overdose deaths across the US from 1999 to 2014?
+  * What are the rates of usage organized by demographics across the US?
+  * Using California as a model, is there a relationship between enrollments in medically-assisted facilities and rates of overdose deaths?
+  * What are the total number of opioid overdose deaths for each state between 1999 and 2018?
+  
+# Data Sources Part 3: 
+
+  - [Opioid Overdose Deaths](https://data.world/health/opioid-overdose-deaths)
+  - [Drug Use, Employment, Work Absence, Income, Race, Education](https://data.world/balexturner/drug-use-employment-work-absence-income-race-education)
+  - [Medication-Assisted Treatment in Medi-Cal for Opioid Use](https://data.world/chhs/8329a339-ab77-4d05-ab7a-405d0ae5765c)
+  - [Opioid related deaths by state with demographics (Built dataset at)](https://wonder.cdc.gov/controller/datarequest/D76)
+  
+  
+
+
+
 
 
 
