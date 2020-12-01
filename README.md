@@ -8,7 +8,7 @@
 > * Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
 > * Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
 
-[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question(Part 1)](#key-question(Part-1)) | [Data Sources(Part 1)](#data-sources(Part-1))
+[Project Description](#project-description) |[Research Areas](#research-areas) | [Part 1](#part-1) | [Key Question Part 1](#key-question-part-1) | [Data Sources Part 1](#data-sources-part-1)
 
 
 # Project Description:
@@ -22,6 +22,7 @@ After picking a topic, we developed some key questions to inform our data search
 ## The Three Key areas we investigated are:
 
 # Part 1: 
+***
 
 * **Part_1**
 
