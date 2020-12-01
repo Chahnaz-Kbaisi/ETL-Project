@@ -32,7 +32,7 @@ This project assesses the prescribing of opioid drugs across the US from 1999 to
 
 # Research Areas:
 
-After picking a topic, we developed some key questions to inform our data search. Then, we narrowed down the unfiltered data to a few datasets for each part to then take a closer look and pick the sets that could potentially be analyzed to answer our key questions. We used a team approach by which every member was able to engage in each of the steps so that learning, usage and application would be as comprehensive as possible. Each team member studied their respective dataset and then downloaded the files to begin the extraction step
+After picking a topic, we developed some key questions to inform our data search. Then, we narrowed down the unfiltered data to a few datasets for each part to then take a closer look and pick the sets that could potentially be analyzed to answer our key questions. We used a team approach by which every member was able to engage in each of the steps so that learning, usage and application would be as comprehensive as possible. Each team member studied their respective dataset and then downloaded the files to begin the extraction step.
 
 # Project Key Areas of Investigation:
 ***
@@ -89,31 +89,50 @@ After picking a topic, we developed some key questions to inform our data search
   - [Medication-Assisted Treatment in Medi-Cal for Opioid Use](https://data.world/chhs/8329a339-ab77-4d05-ab7a-405d0ae5765c)
   - [Opioid related deaths by state with demographics (Built dataset at)](https://wonder.cdc.gov/controller/datarequest/D76)
   
+  * Note: Usage of the CDC Wonder database requires acceptance of the sites rules. Once in the form, user must provide search criteria for the specific data types and the categories of inclusion. The data herein was built with the following inclusion criteria: state, year, gender, race, and mortality due to opioid overdose (ICD-40). 
+  
 # Extract
 ***
 
-Our data source extraction was from csv files. After deep exploration of the data we needed for this project, we started the retrieval process by writing the code for extraction and then running it through transformation steps to get it ready for loading. In the extraction step, we read csv files and saved them into pandas dataframe for the next step. 
+* Extraction of data was from csv source files
+* Deep exploration of data content
+* Data retrieval for extraction and writing code
+* Read csv files and saved into pandas dataframe
 
 # Transform
 ***
 
-Then we transformed the datasets to accommodate the objectives of our project, this included cleaning the data, removing the null data, selecting needed columns, renaming, picking and joining them. During this step, we were forced to drop some of the datasets because the columns we planned to use in the joining did not contain the necessary data for the process. We were then left with only two datasets that we could possibly join. Then we created the new datasets with selected columns and checked the data types to prevent errors during loading. We saved the new cleaned and modified datasets into an output folder in csv file form.
+* Transformed data to accommodate project objectives
+* Cleaned the data and removed the null
+* Selected and renamed the needed columns
+* Removed columns of data that were irrelevant 
+* Created the new dataset with selected columns
+* Checked the data types to prevent errors during loading
 
 # Load
 ***
 
-For the final step (i.e., loading), we picked postgres to load the datasets into a database. Since we divided our project into three parts, we decided to create three different databases, one for each part. In an effort to make our ETL pipeline easier to use, we adjusted it so users can navigate to the database they need for their analysis. During loading, we created the connection to postgres and then created tables in pgAdmin localhost, and finally loaded the csv files that we saved into the tables. This finalized our loading process and the ETL steps were completed.
+* Selected postgres to load the datasets into a database
+* Created three different databases, one for each project part
+* Adjusted ETL pipeline for ease of use and navigation to the database for analysis
+* Created connection to postgres during loading
+* Created tables in pgAdmin localhost
+* Loaded the new datasets into the tables
 
 # Process Limitations
 ***
 
-We then attempted to analyze some of our data to answer parts of the key questions that were used to build our project. However, due to the limited time and the scope of the project we restricted our analysis to some rudimentary elements that highlight some of the data’s salient features. 
-
-In combing the data, one of the major problems was that periods for different datasets varied and were hard to align. Moreover, classification of opioid related deaths is complex and applied differently across health agencies. Thus, we had to employ a simple definition for the event to standardized its tabulation in our data. Reporting of these data are complex and not all states provide the information uniformly, which makes combining of datasets challenging. In addition, due to the sensitive nature of this topic, some of the data is not available due to privacy issues, which creates gaps in the datasets. Finally, there were some inconsistencies in the transformed data because  some of the parameters were presented as true/false (nominal data) or female/male and needed to be converted to Boolean. 
+* Identifying datasets that contained appropriately identified opioid usage classification
+* Reconciling variations in mortality indicators
+* Dealing with missing data and nominal data parameters that needed to transformed to boolean
 
 # Data Analysis
 ***
 
+* Analyzed data to answer parts of key questions 
+* Combined data from different datasets that were misaligned
+* Reconciled variations in data forms to ensure proper joining
+* Created plots based on joined data and built dataset
 
 # Languages And Libraries
 ***
