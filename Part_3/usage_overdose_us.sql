@@ -31,7 +31,7 @@ SELECT * FROM demographic_drug_use;
 
 -- Table 3:
 CREATE TABLE assisted_treatment (
-	county VARCHAR(255) NOT NULL,
+	country VARCHAR(255) NOT NULL,
 	year INT NOT NULL,	
 	beneficiaries VARCHAR(255) NOT NULL
 );
@@ -49,7 +49,8 @@ CREATE TABLE opioid_death(
 SELECT * FROM opioid_death;
 
 
--- Joining necessary tables for query analysis:
+-- Joining two tables:
+-- Table 1 (overdose_death) & Table 4 (opioid_death)
 SELECT op.year AS "Year",
 		op.gender AS "Gender",
 		op.race AS "Race",
@@ -60,7 +61,7 @@ SELECT op.year AS "Year",
 		od.Dispensed_Prescriptions AS "Dispensed Prescription"
 FROM overdose_death as od 
 JOIN opioid_death as op 
-ON od.year = op.year AND od.year = op.year
+ON od.year = op.year AND od.state = op.state
 WHERE od.year BETWEEN 1999 AND 2014;
 
 
