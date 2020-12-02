@@ -69,7 +69,7 @@ After picking a topic, we developed some key questions to inform our data search
 
 # Part 3:
 
-[Part_3](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_3)
+[Part_3 Directory](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_3)
 
 ### Demographic information on opioid usage and overdose death across the US
 
@@ -115,7 +115,7 @@ After picking a topic, we developed some key questions to inform our data search
 * Created three different databases, one for each project part
 * Adjusted ETL pipeline for ease of use and navigation to the database for analysis
 * Created connection to postgres during loading
-* Created tables in pgAdmin localhost [Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
+* Created tables in pgAdmin localhost [Part 3 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
 * Loaded the new datasets into the tables
 
 # Process Limitations
