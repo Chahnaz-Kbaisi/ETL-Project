@@ -20,7 +20,7 @@
   [Data Sources Part 1](#data-sources-part-1) |  [Data Sources Part 2](#data-sources-part-2) | [Data Sources Part 3](#data-sources-part-3) |
 * [Extract](#extract) 
 * [Transform](#transform) 
-* [Load](#Load) 
+* [Load](#load) 
 * [Process Limitations](#process-limitations) 
 * [Data Analysis](#data-analysis)
 * [Languages And Libraries](#languages-and-libraries)
@@ -81,14 +81,15 @@ After picking a topic, we developed some key questions to inform our data search
   * What are the total number of opioid overdose deaths for each state between 1999 and 2018?
   
 # Data Sources Part 3: 
-
+[Part 3 Resources with all datasets](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_3/Resources)
+***
   - [Opioid Overdose Deaths](https://data.world/health/opioid-overdose-deaths)
   - [Drug Use, Employment, Work Absence, Income, Race, Education](https://data.world/balexturner/drug-use-employment-work-absence-income-race-education)
   - [Medication-Assisted Treatment in Medi-Cal for Opioid Use](https://data.world/chhs/8329a339-ab77-4d05-ab7a-405d0ae5765c)
   - [Opioid related deaths by state with demographics (Built dataset at)](https://wonder.cdc.gov/controller/datarequest/D76)
     
     Note: Usage of the CDC Wonder database requires acceptance of the sites rules. Once in the form, user must provide search criteria for the specific data types              and the categories of inclusion. The data herein was built with the following inclusion criteria: state, year, gender, race, and mortality due to opioid overdose (ICD-40). 
-  
+         
 # Extract
 ***
 
@@ -114,7 +115,7 @@ After picking a topic, we developed some key questions to inform our data search
 * Created three different databases, one for each project part
 * Adjusted ETL pipeline for ease of use and navigation to the database for analysis
 * Created connection to postgres during loading
-* Created tables in pgAdmin localhost
+* Created tables in pgAdmin localhost [Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
 * Loaded the new datasets into the tables
 
 # Process Limitations
@@ -133,13 +134,23 @@ After picking a topic, we developed some key questions to inform our data search
 * Created plots based on joined data and built dataset
 
 # Part 3 Analysis:
+### Plot 1: 
 
-The below Plotly Express shows the number of annual deaths between 1999 & 2018 for all states. This data was acquired from the CDC's wonder database by quering specific paramters and using the ICD-10 codes for opioid related deaths.
+> The below Plotly Express shows the number of annual deaths between 1999 & 2018 for all states. This data was acquired from the CDC's wonder database by quering specific paramters and using the ICD-10 codes for opioid related deaths.
 
 ![States Overdose Deaths](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/SnapShoots/states_overdose_animated_map_snapshoot.png)
 
+> Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had th highesy number of death and the greatest increases over that time span. On the other hand, Colorado appears to have the lowest death rates over approximately the same period.
 
-Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had th highesy number of death and the greatest increases over that time spam. 
+### Plot 2:
+
+> The below Plotly Express shows the number of annual deaths between 1999 & 2014 for all states by gender. 
+
+![States Overdose Deaths By Gender](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/SnapShoots/gender_death_state_screenshoot.png)
+
+> Plot Summary: The plot above shows the number of deaths by gender in each state from 1999 to 2014. Males in both California and Florida had the most deaths over that period with a doubling of the numbers.
+
+[For further analysis of part 3 refer to Part 3 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.ipynb)
 
 # Languages And Libraries
 ***
