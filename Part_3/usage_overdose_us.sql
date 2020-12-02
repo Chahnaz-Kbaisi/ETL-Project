@@ -1,3 +1,4 @@
+-- Part 3 Tables and Join
 -- ETL Project: Extract, Transform, Load
 -- We will create 4 tables for our data to be loaded into, tables will be in the same order as in jupyter notebook
 
@@ -31,7 +32,7 @@ SELECT * FROM demographic_drug_use;
 
 -- Table 3:
 CREATE TABLE assisted_treatment (
-	country VARCHAR(255) NOT NULL,
+	county VARCHAR(255) NOT NULL,
 	year INT NOT NULL,	
 	beneficiaries VARCHAR(255) NOT NULL
 );
