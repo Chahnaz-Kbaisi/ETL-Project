@@ -109,11 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-<<<<<<< HEAD:Part_3/.gitignore
 config.py 
-=======
-config.py
->>>>>>> main:.gitignore
 
 # Spyder project settings
 .spyderproject
