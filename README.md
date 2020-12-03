@@ -150,7 +150,7 @@ Each team member's part has a separate jupyter notebook which contain the respec
 
 ![States Overdose Deaths](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/Screen_Shots/state_annual_overdose_deaths.png)
 
-> Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had the highest number of death and the greatest increases over that time span. On the other hand, Colorado appears to have the lowest death rates over approximately the same period.
+> Plot Summary: In this plot, hovering over individual data points provides details on each state's overdose death by year. Between 1999 and 2018, California had the highest number of death and the greatest increases over that time span. On the other hand, Colorado appears to have the lowest death rates over approximately the same period.
 
 ### Plot 2:
 
