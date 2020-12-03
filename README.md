@@ -146,11 +146,11 @@ Each team member's part has a separate jupyter notebook which contain the respec
 # Part 3 Analysis:
 ### Plot 1: 
 
-> The below Plotly Express shows the number of annual deaths between 1999 & 2018 for all states. This data was acquired from the CDC's wonder database by quering specific paramters and using the ICD-10 codes for opioid related deaths.
+> The below Plotly Express shows the number of annual deaths between 1999 & 2018 for all states. This data was acquired from the CDC's wonder database by querying specific paramters and using the ICD-10 codes for opioid related deaths.
 
 ![States Overdose Deaths](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/Screen_Shots/state_annual_overdose_deaths.png)
 
-> Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had th highesy number of death and the greatest increases over that time span. On the other hand, Colorado appears to have the lowest death rates over approximately the same period.
+> Plot Summary: In this plot, hovering over individual data points provides details on each states overdose death by year. Between 1999 and 2018, California had the highest number of death and the greatest increases over that time span. On the other hand, Colorado appears to have the lowest death rates over approximately the same period.
 
 ### Plot 2:
 
