@@ -39,7 +39,7 @@ After picking a topic, we developed some key questions to inform our data search
 
 # Part 1: 
 
-* **Part_1**
+[Part 1 Directory](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_1)
 
 ### Assessing Opioid Prescriptions across the US from 1999 to 2014 
 
@@ -48,13 +48,14 @@ After picking a topic, we developed some key questions to inform our data search
 ### What is the rate of opioid prescriptions across the US from 1999 to 2014?
 
 # Data Sources Part 1: 
-
+[Part 1 Resources with all datasets](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_1/Resources)
+***
   - [Opioid Prescribing Rates at VA Facilities 2012 - 2018](https://catalog.data.gov/dataset/opioid-prescribing-rates-at-va-facilities-2012-2018) 
   - [Opioid Prescriptions Dispensed](https://data.world/jessicayung/opioid-prescriptions-dispensed)
 
 # Part 2:
 
-* **Part_2**
+[Part 2 Directory](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_2)
 
 ### Information on Opioid Dispensers in the US 
 
@@ -63,7 +64,8 @@ After picking a topic, we developed some key questions to inform our data search
 ### What is the relevant information about dispensers and medical facilities?
 
 # Data Sources Part 2: 
-
+[Part 2 Resources with all datasets](https://github.com/Chahnaz-Kbaisi/ETL-Project/tree/main/Part_2/Resources)
+***
   - [Opioid Overdose Deaths](https://data.world/health/opioid-overdose-deaths)
   - [U.S. Opiate Prescriptions/Overdoses](https://www.kaggle.com/apryor6/us-opiate-prescriptions)
 
@@ -115,7 +117,10 @@ After picking a topic, we developed some key questions to inform our data search
 * Created three different databases, one for each project part
 * Adjusted ETL pipeline for ease of use and navigation to the database for analysis
 * Created connection to postgres during loading
-* Created tables in pgAdmin localhost [Part 3 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
+* Created tables in pgAdmin localhost 
+  [Part 1 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_1/part_1_tables.sql)
+  [Part 2 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_2/opioid_query.sql)
+  [Part 3 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
 * Loaded the new datasets into the tables
 
 # Process Limitations
