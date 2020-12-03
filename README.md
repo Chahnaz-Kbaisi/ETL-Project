@@ -34,6 +34,11 @@ This project assesses the prescribing of opioid drugs across the US from 1999 to
 
 After picking a topic, we developed some key questions to inform our data search. Then, we narrowed down the unfiltered data to a few datasets for each part to then take a closer look and pick the sets that could potentially be analyzed to answer our key questions. We used a team approach by which every member was able to engage in each of the steps so that learning, usage and application would be as comprehensive as possible. Each team member studied their respective dataset and then downloaded the files to begin the extraction step.
 
+Each team member's part has a separate jupyter notebook which contain the respective three ETL steps. Below are the three links to for each part:
+> * [Part 1 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_1/Opioid_Pres.ipynb)
+> * [Part 2 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_2/average_dispensed.ipynb)
+> * [Part 3 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.ipynb) 
+
 # Project Key Areas of Investigation:
 ***
 
@@ -118,9 +123,9 @@ After picking a topic, we developed some key questions to inform our data search
 * Adjusted ETL pipeline for ease of use and navigation to the database for analysis
 * Created connection to postgres during loading
 * Created tables in pgAdmin localhost 
-  [Part 1 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_1/part_1_tables.sql)
-  [Part 2 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_2/opioid_query.sql)
-  [Part 3 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
+  > 1. [Part 1 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_1/part_1_tables.sql)
+  > 2. [Part 2 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_2/opioid_query.sql)
+  > 3. [Part 3 Tables](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.sql)
 * Loaded the new datasets into the tables
 
 # Process Limitations
@@ -155,7 +160,7 @@ After picking a topic, we developed some key questions to inform our data search
 
 > Plot Summary: The plot above shows the number of deaths by gender in each state from 1999 to 2014. Males in both California and Florida had the most deaths over that period with a doubling of the numbers.
 
-[For further analysis of part 3 refer to Part 3 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.ipynb)
+> **[For further analysis of part 3 refer to Part 3 Jupyter Notebook](https://github.com/Chahnaz-Kbaisi/ETL-Project/blob/main/Part_3/usage_overdose_us.ipynb)** 
 
 # Languages And Libraries
 ***
