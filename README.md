@@ -171,7 +171,10 @@ Each team member's part has a separate jupyter notebook which contain the respec
 > * Pandas
 > * Plotly Express
 
-  
+- - -
+### Copyright
+
+Opioid Epidemic © 2020. All Rights Reserved.
   
   
 
