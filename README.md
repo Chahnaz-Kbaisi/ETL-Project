@@ -1,7 +1,7 @@
 # ETL- Group Project: Extract, Transform, Load
 # Insight into the Opioid Epidemic from Rates of Prescription and Overdose Deaths  
 
-![Alt Text](https://www.kemahpalms.com/wp-content/uploads/2020/05/Opioid-Epidemic.jpeg)
+![Alt Text](https://mk0kemahpalms9o3p82u.kinstacdn.com/wp-content/uploads/2021/01/Opioid-Epidemic.jpeg.webp)
 
 ### Team Members:
 > * Chahnaz Kbaisi ([Chahnaz-Kbaisi](https://github.com/Chahnaz-Kbaisi))
